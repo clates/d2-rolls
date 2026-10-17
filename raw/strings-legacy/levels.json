@@ -1,0 +1,1392 @@
+[
+{
+"id": 788,
+"Key": "Moo Moo Farm",
+"enUS": "The Secret Cow Level"
+},
+{
+"id": 789,
+"Key": "Chaos Sanctum",
+"enUS": "The Chaos Sanctuary"
+},
+{
+"id": 790,
+"Key": "The Pandemonium Fortress",
+"enUS": "The Pandemonium Fortress"
+},
+{
+"id": 791,
+"Key": "River of Flame",
+"enUS": "River of Flame"
+},
+{
+"id": 792,
+"Key": "Outer Steppes",
+"enUS": "Outer Steppes"
+},
+{
+"id": 793,
+"Key": "Plains of Despair",
+"enUS": "Plains of Despair"
+},
+{
+"id": 794,
+"Key": "City of the Damned",
+"enUS": "City of the Damned"
+},
+{
+"id": 795,
+"Key": "Durance of Hate Level 3",
+"enUS": "Durance of Hate Level 3"
+},
+{
+"id": 796,
+"Key": "Durance of Hate Level 2",
+"enUS": "Durance of Hate Level 2"
+},
+{
+"id": 797,
+"Key": "Durance of Hate Level 1",
+"enUS": "Durance of Hate Level 1"
+},
+{
+"id": 798,
+"Key": "Disused Reliquary",
+"enUS": "Disused Reliquary"
+},
+{
+"id": 799,
+"Key": "Ruined Fane",
+"enUS": "Ruined Fane"
+},
+{
+"id": 800,
+"Key": "Forgotten Temple",
+"enUS": "Forgotten Temple"
+},
+{
+"id": 801,
+"Key": "Forgotten Reliquary",
+"enUS": "Forgotten Reliquary"
+},
+{
+"id": 802,
+"Key": "Disused Fane",
+"enUS": "Disused Fane"
+},
+{
+"id": 803,
+"Key": "Ruined Temple",
+"enUS": "Ruined Temple"
+},
+{
+"id": 804,
+"Key": "Flayer Dungeon Level 3",
+"enUS": "Flayer Dungeon Level 3"
+},
+{
+"id": 805,
+"Key": "Flayer Dungeon Level 2",
+"enUS": "Flayer Dungeon Level 2"
+},
+{
+"id": 806,
+"Key": "Flayer Dungeon Level 1",
+"enUS": "Flayer Dungeon Level 1"
+},
+{
+"id": 807,
+"Key": "Swampy Pit Level 3",
+"enUS": "Swampy Pit Level 3"
+},
+{
+"id": 808,
+"Key": "Swampy Pit Level 2",
+"enUS": "Swampy Pit Level 2"
+},
+{
+"id": 809,
+"Key": "Swampy Pit Level 1",
+"enUS": "Swampy Pit Level 1"
+},
+{
+"id": 810,
+"Key": "Spider Cave",
+"enUS": "Arachnid Lair"
+},
+{
+"id": 811,
+"Key": "Spider Cavern",
+"enUS": "Spider Cavern"
+},
+{
+"id": 812,
+"Key": "Travincal",
+"enUS": "Travincal"
+},
+{
+"id": 813,
+"Key": "Kurast Causeway",
+"enUS": "Kurast Causeway"
+},
+{
+"id": 814,
+"Key": "Upper Kurast",
+"enUS": "Upper Kurast"
+},
+{
+"id": 815,
+"Key": "Kurast Bazaar",
+"enUS": "Kurast Bazaar"
+},
+{
+"id": 816,
+"Key": "Lower Kurast",
+"enUS": "Lower Kurast"
+},
+{
+"id": 817,
+"Key": "Flayer Jungle",
+"enUS": "Flayer Jungle"
+},
+{
+"id": 818,
+"Key": "Great Marsh",
+"enUS": "Great Marsh"
+},
+{
+"id": 819,
+"Key": "Spider Forest",
+"enUS": "Spider Forest"
+},
+{
+"id": 820,
+"Key": "Kurast Docktown",
+"enUS": "Kurast Docks"
+},
+{
+"id": 821,
+"Key": "Durance of Hate",
+"enUS": "Durance of Hate"
+},
+{
+"id": 822,
+"Key": "Flayer Dungeon",
+"enUS": "Flayer Dungeon"
+},
+{
+"id": 823,
+"Key": "Swampy Pit",
+"enUS": "Swampy Pit"
+},
+{
+"id": 824,
+"Key": "Arcane Sanctuary",
+"enUS": "Arcane Sanctuary"
+},
+{
+"id": 825,
+"Key": "Duriel's Lair",
+"enUS": "Tal Rasha's Chamber"
+},
+{
+"id": 826,
+"Key": "Tal Rasha's Tomb",
+"enUS": "Tal Rasha's Tomb"
+},
+{
+"id": 827,
+"Key": "Ancient Tunnels",
+"enUS": "Ancient Tunnels"
+},
+{
+"id": 828,
+"Key": "Maggot Lair Level 3",
+"enUS": "Maggot Lair Level 3"
+},
+{
+"id": 829,
+"Key": "Maggot Lair Level 2",
+"enUS": "Maggot Lair Level 2"
+},
+{
+"id": 830,
+"Key": "Maggot Lair Level 1",
+"enUS": "Maggot Lair Level 1"
+},
+{
+"id": 831,
+"Key": "Claw Viper Temple Level 2",
+"enUS": "Claw Viper Temple Level 2"
+},
+{
+"id": 832,
+"Key": "Halls of the Dead Level 3",
+"enUS": "Halls of the Dead Level 3"
+},
+{
+"id": 833,
+"Key": "Stony Tomb Level 2",
+"enUS": "Stony Tomb Level 2"
+},
+{
+"id": 834,
+"Key": "Claw Viper Temple Level 1",
+"enUS": "Claw Viper Temple Level 1"
+},
+{
+"id": 835,
+"Key": "Halls of the Dead Level 2",
+"enUS": "Halls of the Dead Level 2"
+},
+{
+"id": 836,
+"Key": "Halls of the Dead Level 1",
+"enUS": "Halls of the Dead Level 1"
+},
+{
+"id": 837,
+"Key": "Stony Tomb Level 1",
+"enUS": "Stony Tomb Level 1"
+},
+{
+"id": 838,
+"Key": "Palace Cellar Level 3",
+"enUS": "Palace Cellar Level 3"
+},
+{
+"id": 839,
+"Key": "Palace Cellar Level 2",
+"enUS": "Palace Cellar Level 2"
+},
+{
+"id": 840,
+"Key": "Palace Cellar Level 1",
+"enUS": "Palace Cellar Level 1"
+},
+{
+"id": 841,
+"Key": "Harem Level 2",
+"enUS": "Harem Level 2"
+},
+{
+"id": 842,
+"Key": "Harem Level 1",
+"enUS": "Harem Level 1"
+},
+{
+"id": 843,
+"Key": "Sewers Level 3",
+"enUS": "Sewers Level 3"
+},
+{
+"id": 844,
+"Key": "Sewers Level 2",
+"enUS": "Sewers Level 2"
+},
+{
+"id": 845,
+"Key": "Sewers Level 1",
+"enUS": "Sewers Level 1"
+},
+{
+"id": 846,
+"Key": "Canyon of the Magi",
+"enUS": "Canyon of the Magi"
+},
+{
+"id": 847,
+"Key": "Valley of Snakes",
+"enUS": "Valley of Snakes"
+},
+{
+"id": 848,
+"Key": "Lost City",
+"enUS": "Lost City"
+},
+{
+"id": 849,
+"Key": "Far Oasis",
+"enUS": "Far Oasis"
+},
+{
+"id": 850,
+"Key": "Dry Hills",
+"enUS": "Dry Hills"
+},
+{
+"id": 851,
+"Key": "Rocky Waste",
+"enUS": "Rocky Waste"
+},
+{
+"id": 852,
+"Key": "Lut Gholein",
+"enUS": "Lut Gholein"
+},
+{
+"id": 853,
+"Key": "Maggot Lair",
+"enUS": "Maggot Lair"
+},
+{
+"id": 854,
+"Key": "Claw Viper Temple",
+"enUS": "Claw Viper Temple"
+},
+{
+"id": 855,
+"Key": "Halls of the Dead",
+"enUS": "Halls of the Dead"
+},
+{
+"id": 856,
+"Key": "Stony Tomb",
+"enUS": "Stony Tomb"
+},
+{
+"id": 857,
+"Key": "Palace Cellar",
+"enUS": "Palace Cellar"
+},
+{
+"id": 858,
+"Key": "Harem",
+"enUS": "Harem"
+},
+{
+"id": 859,
+"Key": "Sewers",
+"enUS": "Sewers"
+},
+{
+"id": 860,
+"Key": "To The Moo Moo Farm",
+"enUS": "To The Secret Cow Level"
+},
+{
+"id": 861,
+"Key": "To Chaos Sanctum",
+"enUS": "To The Chaos Sanctuary"
+},
+{
+"id": 862,
+"Key": "To The River of Flame",
+"enUS": "To The River of Flame"
+},
+{
+"id": 863,
+"Key": "To The Outer Steppes",
+"enUS": "To The Outer Steppes"
+},
+{
+"id": 864,
+"Key": "To The Plains of Despair",
+"enUS": "To The Plains of Despair"
+},
+{
+"id": 865,
+"Key": "To The City of the Damned",
+"enUS": "To The City of the Damned"
+},
+{
+"id": 866,
+"Key": "To The Pandemonium Fortress",
+"enUS": "To The Pandemonium Fortress"
+},
+{
+"id": 867,
+"Key": "To The Durance of Hate Level 3",
+"enUS": "To The Durance of Hate Level 3"
+},
+{
+"id": 868,
+"Key": "To The Durance of Hate Level 2",
+"enUS": "To The Durance of Hate Level 2"
+},
+{
+"id": 869,
+"Key": "To The Durance of Hate Level 1",
+"enUS": "To The Durance of Hate Level 1"
+},
+{
+"id": 870,
+"Key": "To The Disused Reliquary",
+"enUS": "To The Disused Reliquary"
+},
+{
+"id": 871,
+"Key": "To The Ruined Fane",
+"enUS": "To The Ruined Fane"
+},
+{
+"id": 872,
+"Key": "To The Forgotten Temple",
+"enUS": "To The Forgotten Temple"
+},
+{
+"id": 873,
+"Key": "To The Forgotten Reliquary",
+"enUS": "To The Forgotten Reliquary"
+},
+{
+"id": 874,
+"Key": "To The Disused Fane",
+"enUS": "To The Disused Fane"
+},
+{
+"id": 875,
+"Key": "To The Ruined Temple",
+"enUS": "To The Ruined Temple"
+},
+{
+"id": 876,
+"Key": "To The Flayer Dungeon Level 1",
+"enUS": "To The Flayer Dungeon Level 1"
+},
+{
+"id": 877,
+"Key": "To The Flayer Dungeon Level 2",
+"enUS": "To The Flayer Dungeon Level 2"
+},
+{
+"id": 878,
+"Key": "To The Flayer Dungeon Level 3",
+"enUS": "To The Flayer Dungeon Level 3"
+},
+{
+"id": 879,
+"Key": "To The Swampy Pit Level 3",
+"enUS": "To The Swampy Pit Level 3"
+},
+{
+"id": 880,
+"Key": "To The Swampy Pit Level 2",
+"enUS": "To The Swampy Pit Level 2"
+},
+{
+"id": 881,
+"Key": "To The Swampy Pit Level 1",
+"enUS": "To The Swampy Pit Level 1"
+},
+{
+"id": 882,
+"Key": "To The Spider Cave",
+"enUS": "To The Arachnid Lair"
+},
+{
+"id": 883,
+"Key": "To The Spider Cavern",
+"enUS": "To The Spider Cavern"
+},
+{
+"id": 884,
+"Key": "To Travincal",
+"enUS": "To Travincal"
+},
+{
+"id": 885,
+"Key": "To The Kurast Causeway",
+"enUS": "To The Kurast Causeway"
+},
+{
+"id": 886,
+"Key": "To Upper Kurast",
+"enUS": "To Upper Kurast"
+},
+{
+"id": 887,
+"Key": "To The Kurast Bazaar",
+"enUS": "To The Kurast Bazaar"
+},
+{
+"id": 888,
+"Key": "To Lower Kurast",
+"enUS": "To Lower Kurast"
+},
+{
+"id": 889,
+"Key": "To The Flayer Jungle",
+"enUS": "To The Flayer Jungle"
+},
+{
+"id": 890,
+"Key": "To The Great Marsh",
+"enUS": "To The Great Marsh"
+},
+{
+"id": 891,
+"Key": "To The Spider Forest",
+"enUS": "To The Spider Forest"
+},
+{
+"id": 892,
+"Key": "To The Kurast Docktown",
+"enUS": "To The Kurast Docks"
+},
+{
+"id": 893,
+"Key": "To The Arcane Sanctuary",
+"enUS": "To The Arcane Sanctuary"
+},
+{
+"id": 894,
+"Key": "To Duriel's Lair",
+"enUS": "To Tal Rasha's Chamber"
+},
+{
+"id": 895,
+"Key": "To Tal Rasha's Tomb",
+"enUS": "To Tal Rasha's Tomb"
+},
+{
+"id": 896,
+"Key": "To The Ancient Tunnels",
+"enUS": "To The Ancient Tunnels"
+},
+{
+"id": 897,
+"Key": "To The Maggot Lair Level 3",
+"enUS": "To The Maggot Lair Level 3"
+},
+{
+"id": 898,
+"Key": "To The Maggot Lair Level 2",
+"enUS": "To The Maggot Lair Level 2"
+},
+{
+"id": 899,
+"Key": "To The Maggot Lair Level 1",
+"enUS": "To The Maggot Lair Level 1"
+},
+{
+"id": 900,
+"Key": "To The Claw Viper Temple Level 2",
+"enUS": "To The Claw Viper Temple Level 2"
+},
+{
+"id": 901,
+"Key": "To The Halls of the Dead Level 3",
+"enUS": "To The Halls of the Dead Level 3"
+},
+{
+"id": 902,
+"Key": "To The Stony Tomb Level 2",
+"enUS": "To The Stony Tomb Level 2"
+},
+{
+"id": 903,
+"Key": "To The Claw Viper Temple Level 1",
+"enUS": "To The Claw Viper Temple Level 1"
+},
+{
+"id": 904,
+"Key": "To The Halls of the Dead Level 2",
+"enUS": "To The Halls of the Dead Level 2"
+},
+{
+"id": 905,
+"Key": "To The Halls of the Dead Level 1",
+"enUS": "To The Halls of the Dead Level 1"
+},
+{
+"id": 906,
+"Key": "To The Stony Tomb Level 1",
+"enUS": "To The Stony Tomb Level 1"
+},
+{
+"id": 907,
+"Key": "To The Palace Cellar Level 3",
+"enUS": "To The Palace Cellar Level 3"
+},
+{
+"id": 908,
+"Key": "To The Palace Cellar Level 2",
+"enUS": "To The Palace Cellar Level 2"
+},
+{
+"id": 909,
+"Key": "To The Palace Cellar Level 1",
+"enUS": "To The Palace Cellar Level 1"
+},
+{
+"id": 910,
+"Key": "To The Harem Level 2",
+"enUS": "To The Harem Level 2"
+},
+{
+"id": 911,
+"Key": "To The Harem Level 1",
+"enUS": "To The Harem Level 1"
+},
+{
+"id": 912,
+"Key": "To The Sewers Level 3",
+"enUS": "To The Sewers Level 3"
+},
+{
+"id": 913,
+"Key": "To The Sewers Level 2",
+"enUS": "To The Sewers Level 2"
+},
+{
+"id": 914,
+"Key": "To The Sewers Level 1",
+"enUS": "To The Sewers Level 1"
+},
+{
+"id": 915,
+"Key": "To The Canyon of the Magi",
+"enUS": "To The Canyon of the Magi"
+},
+{
+"id": 916,
+"Key": "To The Valley of Snakes",
+"enUS": "To The Valley of Snakes"
+},
+{
+"id": 917,
+"Key": "To The Lost City",
+"enUS": "To The Lost City"
+},
+{
+"id": 918,
+"Key": "To The Far Oasis",
+"enUS": "To The Far Oasis"
+},
+{
+"id": 919,
+"Key": "To The Dry Hills",
+"enUS": "To The Dry Hills"
+},
+{
+"id": 920,
+"Key": "To The Rocky Waste",
+"enUS": "To The Rocky Waste"
+},
+{
+"id": 921,
+"Key": "To Lut Gholein",
+"enUS": "To Lut Gholein"
+},
+{
+"id": 1640,
+"Key": "To Guild 5",
+"enUS": "          "
+},
+{
+"id": 1641,
+"Key": "To Guild 4",
+"enUS": "          "
+},
+{
+"id": 1642,
+"Key": "To Guild 3",
+"enUS": "          "
+},
+{
+"id": 1643,
+"Key": "To Guild 2",
+"enUS": "          "
+},
+{
+"id": 1644,
+"Key": "To Guild 1",
+"enUS": "          "
+},
+{
+"id": 4137,
+"Key": "act1",
+"enUS": "Act 1"
+},
+{
+"id": 4138,
+"Key": "act2",
+"enUS": "Act 2"
+},
+{
+"id": 4139,
+"Key": "act3",
+"enUS": "Act 3"
+},
+{
+"id": 4140,
+"Key": "act4",
+"enUS": "Act 4"
+},
+{
+"id": 4152,
+"Key": "Leave",
+"enUS": "LEAVE"
+},
+{
+"id": 5018,
+"Key": "Tristram",
+"enUS": "Tristram"
+},
+{
+"id": 5019,
+"Key": "Catacombs Level 4",
+"enUS": "Catacombs Level 4"
+},
+{
+"id": 5020,
+"Key": "Catacombs Level 3",
+"enUS": "Catacombs Level 3"
+},
+{
+"id": 5021,
+"Key": "Catacombs Level 2",
+"enUS": "Catacombs Level 2"
+},
+{
+"id": 5022,
+"Key": "Catacombs Level 1",
+"enUS": "Catacombs Level 1"
+},
+{
+"id": 5023,
+"Key": "Cathedral",
+"enUS": "Cathedral"
+},
+{
+"id": 5024,
+"Key": "Inner Cloister",
+"enUS": "Inner Cloister"
+},
+{
+"id": 5025,
+"Key": "Jail Level 3",
+"enUS": "Jail Level 3"
+},
+{
+"id": 5026,
+"Key": "Jail Level 2",
+"enUS": "Jail Level 2"
+},
+{
+"id": 5027,
+"Key": "Jail Level 1",
+"enUS": "Jail Level 1"
+},
+{
+"id": 5028,
+"Key": "Barracks",
+"enUS": "Barracks"
+},
+{
+"id": 5029,
+"Key": "Outer Cloister",
+"enUS": "Outer Cloister"
+},
+{
+"id": 5030,
+"Key": "Monastery Gate",
+"enUS": "Monastery Gate"
+},
+{
+"id": 5031,
+"Key": "Tower Cellar Level 5",
+"enUS": "Tower Cellar Level 5"
+},
+{
+"id": 5032,
+"Key": "Tower Cellar Level 4",
+"enUS": "Tower Cellar Level 4"
+},
+{
+"id": 5033,
+"Key": "Tower Cellar Level 3",
+"enUS": "Tower Cellar Level 3"
+},
+{
+"id": 5034,
+"Key": "Tower Cellar Level 2",
+"enUS": "Tower Cellar Level 2"
+},
+{
+"id": 5035,
+"Key": "Tower Cellar Level 1",
+"enUS": "Tower Cellar Level 1"
+},
+{
+"id": 5036,
+"Key": "Forgotten Tower",
+"enUS": "Forgotten Tower"
+},
+{
+"id": 5037,
+"Key": "Mausoleum",
+"enUS": "Mausoleum"
+},
+{
+"id": 5038,
+"Key": "Crypt",
+"enUS": "Crypt"
+},
+{
+"id": 5039,
+"Key": "Burial Grounds",
+"enUS": "Burial Grounds"
+},
+{
+"id": 5040,
+"Key": "Pit Level 2",
+"enUS": "Pit Level 2"
+},
+{
+"id": 5041,
+"Key": "Hole Level 2",
+"enUS": "Hole Level 2"
+},
+{
+"id": 5042,
+"Key": "Underground Passage Level 2",
+"enUS": "Underground Passage Level 2"
+},
+{
+"id": 5043,
+"Key": "Cave Level 2",
+"enUS": "Cave Level 2"
+},
+{
+"id": 5044,
+"Key": "Pit Level 1",
+"enUS": "Pit Level 1"
+},
+{
+"id": 5045,
+"Key": "Hole Level 1",
+"enUS": "Hole Level 1"
+},
+{
+"id": 5046,
+"Key": "Underground Passage Level 1",
+"enUS": "Underground Passage Level 1"
+},
+{
+"id": 5047,
+"Key": "Cave Level 1",
+"enUS": "Cave Level 1"
+},
+{
+"id": 5048,
+"Key": "Den of Evil",
+"enUS": "Den of Evil"
+},
+{
+"id": 5049,
+"Key": "Tamoe Highland",
+"enUS": "Tamoe Highland"
+},
+{
+"id": 5050,
+"Key": "Black Marsh",
+"enUS": "Black Marsh"
+},
+{
+"id": 5051,
+"Key": "Dark Wood",
+"enUS": "Dark Wood"
+},
+{
+"id": 5052,
+"Key": "Stony Field",
+"enUS": "Stony Field"
+},
+{
+"id": 5053,
+"Key": "Cold Plains",
+"enUS": "Cold Plains"
+},
+{
+"id": 5054,
+"Key": "Blood Moor",
+"enUS": "Blood Moor"
+},
+{
+"id": 5055,
+"Key": "Rogue Encampment",
+"enUS": "Rogue Encampment"
+},
+{
+"id": 5056,
+"Key": "To Tristram",
+"enUS": "To Tristram"
+},
+{
+"id": 5057,
+"Key": "To The Catacombs Level 4",
+"enUS": "To The Catacombs Level 4"
+},
+{
+"id": 5058,
+"Key": "To The Catacombs Level 3",
+"enUS": "To The Catacombs Level 3"
+},
+{
+"id": 5059,
+"Key": "To The Catacombs Level 2",
+"enUS": "To The Catacombs Level 2"
+},
+{
+"id": 5060,
+"Key": "To The Catacombs Level 1",
+"enUS": "To The Catacombs Level 1"
+},
+{
+"id": 5061,
+"Key": "To The Cathedral",
+"enUS": "To The Cathedral"
+},
+{
+"id": 5062,
+"Key": "To The Inner Cloister",
+"enUS": "To The Inner Cloister"
+},
+{
+"id": 5063,
+"Key": "To The Jail Level 3",
+"enUS": "To The Jail Level 3"
+},
+{
+"id": 5064,
+"Key": "To The Jail Level 2",
+"enUS": "To The Jail Level 2"
+},
+{
+"id": 5065,
+"Key": "To The Jail Level 1",
+"enUS": "To The Jail Level 1"
+},
+{
+"id": 5066,
+"Key": "To The Barracks",
+"enUS": "To The Barracks"
+},
+{
+"id": 5067,
+"Key": "To The Outer Cloister",
+"enUS": "To The Outer Cloister"
+},
+{
+"id": 5068,
+"Key": "To The Monastery Gate",
+"enUS": "To The Monastery Gate"
+},
+{
+"id": 5069,
+"Key": "To The Tower Cellar Level 5",
+"enUS": "To The Tower Cellar Level 5"
+},
+{
+"id": 5070,
+"Key": "To The Tower Cellar Level 4",
+"enUS": "To The Tower Cellar Level 4"
+},
+{
+"id": 5071,
+"Key": "To The Tower Cellar Level 3",
+"enUS": "To The Tower Cellar Level 3"
+},
+{
+"id": 5072,
+"Key": "To The Tower Cellar Level 2",
+"enUS": "To The Tower Cellar Level 2"
+},
+{
+"id": 5073,
+"Key": "To The Tower Cellar Level 1",
+"enUS": "To The Tower Cellar Level 1"
+},
+{
+"id": 5074,
+"Key": "To The Forgotten Tower",
+"enUS": "To The Forgotten Tower"
+},
+{
+"id": 5075,
+"Key": "To The Mausoleum",
+"enUS": "To The Mausoleum"
+},
+{
+"id": 5076,
+"Key": "To The Crypt",
+"enUS": "To The Crypt"
+},
+{
+"id": 5077,
+"Key": "To The Burial Grounds",
+"enUS": "To The Burial Grounds"
+},
+{
+"id": 5078,
+"Key": "To The Pit Level 2",
+"enUS": "To The Pit Level 2"
+},
+{
+"id": 5079,
+"Key": "To The Hole Level 2",
+"enUS": "To The Hole Level 2"
+},
+{
+"id": 5080,
+"Key": "To Underground Passage Level 2",
+"enUS": "To Underground Passage Level 2"
+},
+{
+"id": 5081,
+"Key": "To The Cave Level 2",
+"enUS": "To The Cave Level 2"
+},
+{
+"id": 5082,
+"Key": "To The Pit Level 1",
+"enUS": "To The Pit Level 1"
+},
+{
+"id": 5083,
+"Key": "To The Hole Level 1",
+"enUS": "To The Hole Level 1"
+},
+{
+"id": 5084,
+"Key": "To Underground Passage Level 1",
+"enUS": "To Underground Passage Level 1"
+},
+{
+"id": 5085,
+"Key": "To The Cave Level 1",
+"enUS": "To The Cave Level 1"
+},
+{
+"id": 5086,
+"Key": "To The Den of Evil",
+"enUS": "To The Den of Evil"
+},
+{
+"id": 5087,
+"Key": "To The Tamoe Highland",
+"enUS": "To The Tamoe Highland"
+},
+{
+"id": 5088,
+"Key": "To The Black Marsh",
+"enUS": "To The Black Marsh"
+},
+{
+"id": 5089,
+"Key": "To The Dark Wood",
+"enUS": "To The Dark Wood"
+},
+{
+"id": 5090,
+"Key": "To The Stony Field",
+"enUS": "To The Stony Field"
+},
+{
+"id": 5091,
+"Key": "To The Cold Plains",
+"enUS": "To The Cold Plains"
+},
+{
+"id": 5092,
+"Key": "To The Blood Moor",
+"enUS": "To The Blood Moor"
+},
+{
+"id": 5093,
+"Key": "To The Rogue Encampment",
+"enUS": "To The Rogue Encampment"
+},
+{
+"id": 11155,
+"Key": "Pandemonium Run 1",
+"enUS": "Matron's Den"
+},
+{
+"id": 11156,
+"Key": "Pandemonium Run 2",
+"enUS": "Forgotten Sands"
+},
+{
+"id": 11157,
+"Key": "Pandemonium Run 3",
+"enUS": "Furnace of Pain"
+},
+{
+"id": 21797,
+"Key": "act1X",
+"enUS": "THE SISTER'S LAMENT"
+},
+{
+"id": 21798,
+"Key": "act2X",
+"enUS": "DESERT JOURNEY"
+},
+{
+"id": 21799,
+"Key": "act3X",
+"enUS": "MEPHISTO'S JUNGLE"
+},
+{
+"id": 21800,
+"Key": "act4X",
+"enUS": "ENTER HELL"
+},
+{
+"id": 21802,
+"Key": "act5X",
+"enUS": "SEARCH FOR BAAL"
+},
+{
+"id": 21865,
+"Key": "Hell1",
+"enUS": "Abaddon"
+},
+{
+"id": 21866,
+"Key": "Hell2",
+"enUS": "Pit of Acheron"
+},
+{
+"id": 21867,
+"Key": "Hell3",
+"enUS": "Infernal Pit"
+},
+{
+"id": 21868,
+"Key": "To Hell1",
+"enUS": "To Abaddon"
+},
+{
+"id": 21869,
+"Key": "To Hell2",
+"enUS": "To The Pit of Acheron"
+},
+{
+"id": 21870,
+"Key": "To Hell3",
+"enUS": "To The Infernal Pit"
+},
+{
+"id": 22646,
+"Key": "Harrogath",
+"enUS": "Harrogath"
+},
+{
+"id": 22647,
+"Key": "Bloody Foothills",
+"enUS": "Bloody Foothills"
+},
+{
+"id": 22648,
+"Key": "Rigid Highlands",
+"enUS": "Frigid Highlands"
+},
+{
+"id": 22649,
+"Key": "Arreat Plateau",
+"enUS": "Arreat Plateau"
+},
+{
+"id": 22650,
+"Key": "Crystalized Cavern Level 1",
+"enUS": "Crystalline Passage"
+},
+{
+"id": 22651,
+"Key": "Cellar of Pity",
+"enUS": "Frozen River"
+},
+{
+"id": 22652,
+"Key": "Crystalized Cavern Level 2",
+"enUS": "Glacial Trail"
+},
+{
+"id": 22653,
+"Key": "Echo Chamber",
+"enUS": "Drifter Cavern"
+},
+{
+"id": 22654,
+"Key": "Tundra Wastelands",
+"enUS": "Frozen Tundra"
+},
+{
+"id": 22655,
+"Key": "Glacial Caves Level 1",
+"enUS": "The Ancients' Way"
+},
+{
+"id": 22656,
+"Key": "Glacial Caves Level 2",
+"enUS": "Icy Cellar"
+},
+{
+"id": 22657,
+"Key": "Rocky Summit",
+"enUS": "Arreat Summit"
+},
+{
+"id": 22658,
+"Key": "Nihlathaks Temple",
+"enUS": "Nihlathak's Temple"
+},
+{
+"id": 22659,
+"Key": "Halls of Anguish",
+"enUS": "Halls of Anguish"
+},
+{
+"id": 22660,
+"Key": "Halls of Death's Calling",
+"enUS": "Halls of Pain"
+},
+{
+"id": 22661,
+"Key": "Halls of Tormented Insanity",
+"enUS": "Halls of Torment"
+},
+{
+"id": 22662,
+"Key": "Halls of Vaught",
+"enUS": "Halls of Vaught"
+},
+{
+"id": 22663,
+"Key": "The Worldstone Keep Level 1",
+"enUS": "Worldstone Keep Level 1"
+},
+{
+"id": 22664,
+"Key": "The Worldstone Keep Level 2",
+"enUS": "Worldstone Keep Level 2"
+},
+{
+"id": 22665,
+"Key": "The Worldstone Keep Level 3",
+"enUS": "Worldstone Keep Level 3"
+},
+{
+"id": 22666,
+"Key": "The Worldstone Chamber",
+"enUS": "The Worldstone Chamber"
+},
+{
+"id": 22667,
+"Key": "Throne of Destruction",
+"enUS": "Throne of Destruction"
+},
+{
+"id": 22668,
+"Key": "To Harrogath",
+"enUS": "To Harrogath"
+},
+{
+"id": 22669,
+"Key": "To The Bloody Foothills",
+"enUS": "To The Bloody Foothills"
+},
+{
+"id": 22670,
+"Key": "To The Rigid Highlands",
+"enUS": "To The Frigid Highlands"
+},
+{
+"id": 22671,
+"Key": "To The Arreat Plateau",
+"enUS": "To The Arreat Plateau"
+},
+{
+"id": 22672,
+"Key": "To The Crystalized Cavern Level 1",
+"enUS": "To The Crystalline Passage"
+},
+{
+"id": 22673,
+"Key": "To The Cellar of Pity",
+"enUS": "To The Frozen River"
+},
+{
+"id": 22674,
+"Key": "To The Crystalized Cavern Level 2",
+"enUS": "To The Glacial Trail"
+},
+{
+"id": 22675,
+"Key": "To The Echo Chamber",
+"enUS": "To The Drifter Cavern"
+},
+{
+"id": 22676,
+"Key": "To The Tundra Wastelands",
+"enUS": "To The Frozen Tundra"
+},
+{
+"id": 22677,
+"Key": "To The Glacier Caves Level 1",
+"enUS": "To The Ancients' Way"
+},
+{
+"id": 22678,
+"Key": "To The Glacier Caves Level 2",
+"enUS": "To The Icy Cellar"
+},
+{
+"id": 22679,
+"Key": "To The Rocky Summit",
+"enUS": "To The Arreat Summit"
+},
+{
+"id": 22680,
+"Key": "To Nihlathaks Temple",
+"enUS": "To Nihlathak's Temple"
+},
+{
+"id": 22681,
+"Key": "To The Halls of Anguish",
+"enUS": "To The Halls of Anguish"
+},
+{
+"id": 22682,
+"Key": "To The Halls of Death's Calling",
+"enUS": "To The Halls of Pain"
+},
+{
+"id": 22683,
+"Key": "To The Halls of Tormented Insanity",
+"enUS": "To The Halls of Torment"
+},
+{
+"id": 22684,
+"Key": "To The Halls of Vaught",
+"enUS": "To The Halls of Vaught"
+},
+{
+"id": 22685,
+"Key": "To The Worldstone Keep Level 1",
+"enUS": "To The Worldstone Keep Level 1"
+},
+{
+"id": 22686,
+"Key": "To The Worldstone Keep Level 2",
+"enUS": "To The Worldstone Keep Level 2"
+},
+{
+"id": 22687,
+"Key": "To The Worldstone Keep Level 3",
+"enUS": "To The Worldstone Keep Level 3"
+},
+{
+"id": 22688,
+"Key": "To The Worldstone Chamber",
+"enUS": "To The Worldstone Chamber"
+},
+{
+"id": 22689,
+"Key": "To The Throne of Destruction",
+"enUS": "To The Throne of Destruction"
+}
+]

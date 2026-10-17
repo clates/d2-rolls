@@ -1,0 +1,927 @@
+[
+{
+"id": 686,
+"Key": "D2bnetHelp50",
+"enUS": "CHAT HELP"
+},
+{
+"id": 687,
+"Key": "D2bnetHelp",
+"enUS": "CHAT COMMANDS"
+},
+{
+"id": 688,
+"Key": "D2bnetHelp2a",
+"enUS": "To select a Character, left-click on the Character portrait to highlight it with an aura. To deselect any highlighted character, left-click on their portrait."
+},
+{
+"id": 689,
+"Key": "D2bnetHelpa",
+"enUS": "The buttons located under the Chat Window on the left side of the screen have the following functions:"
+},
+{
+"id": 690,
+"Key": "D2bnetHelp1",
+"enUS": "SEND displays your message to everyone in your chat Channel, regardless of what character portrait is currently selected. This button is activated as soon as you start typing in the Text Box."
+},
+{
+"id": 691,
+"Key": "D2bnetHelp2",
+"enUS": "WHISPER sends your message only to the character that you have selected. This button is activated as soon as you start typing in the Text Box and have another character selected."
+},
+{
+"id": 692,
+"Key": "D2bnetHelp3",
+"enUS": "SQUELCH filters out incoming messages from the character that you have selected. Characters that you have squelched are marked with a red X graphic. This button is activated as soon as you select another character."
+},
+{
+"id": 693,
+"Key": "D2bnetHelp4",
+"enUS": "UNSQUELCH allows you to again receive incoming messages from a character that has been squelched."
+},
+{
+"id": 694,
+"Key": "D2bnetHelp5",
+"enUS": "EMOTE lets you perform an action that the whole room can <see> as represented through text."
+},
+{
+"id": 695,
+"Key": "D2bnetHelp5a",
+"enUS": "For example, if Doomhammer wants to greet all the players in the chat Channel, he could type, <waves hello.> and then click the EMOTE button. Everyone in the Channel will then receive the message, <Doomhammer waves hello.> This button is activated as soon as you start typing in the Text Box."
+},
+{
+"id": 696,
+"Key": "D2bnetHelp6",
+"enUS": "ÿc5Gray Textÿc4 indicates when someone Joins or Leaves the chat Channel."
+},
+{
+"id": 697,
+"Key": "D2bnetHelp7",
+"enUS": "ÿc7Gold Textÿc4 indicates the name of the player speaking."
+},
+{
+"id": 698,
+"Key": "D2bnetHelp8",
+"enUS": "ÿc0White Textÿc4 indicates what you or others have said out loud to the entire chat Channel."
+},
+{
+"id": 699,
+"Key": "D2bnetHelp9",
+"enUS": "ÿc2Green Textÿc4 indicates what you have <whispered> to a specific person, or any message that has been <whispered> to you, in the chat Channel."
+},
+{
+"id": 701,
+"Key": "D2bnetHelp11",
+"enUS": "ÿc1Red Textÿc4 represents error messages sent directly from battle.net."
+},
+{
+"id": 702,
+"Key": "D2bnetHelp36",
+"enUS": "THE DIALOGUE WINDOW"
+},
+{
+"id": 703,
+"Key": "D2bnetHelp36a",
+"enUS": "This window on the right side of the screen is used to display and enter both game and profile information. Unlike the Chat Window, this area changes depending on what function you have activated. The buttons for these functions are discussed in detail in the following section:"
+},
+{
+"id": 704,
+"Key": "D2bnetHelp37",
+"enUS": "CREATE"
+},
+{
+"id": 705,
+"Key": "D2bnetHelp37a",
+"enUS": "Lets you form a new game for other players to join. There are several choices listed below that you need to make when creating a new game, although many of them are optional."
+},
+{
+"id": 706,
+"Key": "D2bnetHelp38",
+"enUS": "Game Name is how you want your game to be displayed in the Join Game screen. It can be cryptic or descriptive, although certain words and names are restricted."
+},
+{
+"id": 707,
+"Key": "D2bnetHelp39",
+"enUS": "Password gives you the option to make your game Private. Other players who wish to join your game will need to know the password you have selected."
+},
+{
+"id": 708,
+"Key": "D2bnetHelp40",
+"enUS": "Game Description lets you say something about the game you are forming. This is a good way to advertise for the kind of player or character you want to join your game."
+},
+{
+"id": 709,
+"Key": "D2bnetHelp41",
+"enUS": "Maximum Number of Players sets a limit as to how many characters can be in your game at any one time. The default setting is 4. You can change the number of players, up to a maximum of 8, by clicking the Up or Down arrows next to the box."
+},
+{
+"id": 710,
+"Key": "D2bnetHelp42",
+"enUS": "Character Difference sets a range above and below the level of your character that other characters joining your game must fall into. The default setting is set at 4 to determine who can join your game."
+},
+{
+"id": 711,
+"Key": "D2bnetHelp42a",
+"enUS": "To set no level restrictions, click the check box next to this option. The displayed number 4 means that any character joining your game must be within 4 levels of your character. You can change the level difference by clicking the Up or Down arrows next to the box."
+},
+{
+"id": 712,
+"Key": "D2bnetHelp43",
+"enUS": "Normal, Nightmare and Hell sets the difficulty levels at which you can play. The default setting is Normal. Characters must meet certain requirements to start games with the Nightmare and Hell difficulties. Until those requirements are met, these options will be non-selectable."
+},
+{
+"id": 713,
+"Key": "D2bnetHelp44",
+"enUS": "JOIN"
+},
+{
+"id": 714,
+"Key": "D2bnetHelp44ab",
+"enUS": "Lets you enter an existing game. Games that are listed in this screen are considered Public and can be can be joined any time they have space for a player within them."
+},
+{
+"id": 715,
+"Key": "D2bnetHelp44a",
+"enUS": "Selecting a game from this list will display information on the game, including the characters and the elapsed time of the game. To join a Private game, you will be required to enter the name of the game and its assigned password."
+},
+{
+"id": 716,
+"Key": "D2bnetHelp45",
+"enUS": "CHANNEL"
+},
+{
+"id": 717,
+"Key": "D2bnetHelp45b",
+"enUS": "Lets you join an existing chat Channel or gives you the opportunity to create a Channel of your own. To enter an established Public Channel, select one from the Channels list and click the OK button. To enter a Private Channel, you will need to enter the name of the Channel that you wish to enter."
+},
+{
+"id": 718,
+"Key": "D2bnetHelp45a",
+"enUS": "If you wish to start your own Channel, enter the name of the Channel that you wish to create in the Channel Name Field. If this channel does not exist, you will automatically create that Channel."
+},
+{
+"id": 719,
+"Key": "D2bnetHel46",
+"enUS": "LADDER"
+},
+{
+"id": 720,
+"Key": "D2bnetHelp46a",
+"enUS": "Allows you to view your character's ranking in the Diablo II Ladders for your Realm."
+},
+{
+"id": 721,
+"Key": "D2bnetHelp47",
+"enUS": "The STANDARD LADDER displays the top characters, ranked by experience. The default setting displays overall rankings, but you can view sorted lists after selecting the By Class option."
+},
+{
+"id": 722,
+"Key": "D2bnetHelp48",
+"enUS": "The HARDCORE LADDER displays the top Hardcore characters, ranked by experience. The default setting displays overall rankings, but you can view sorted lists after selecting By Class option."
+},
+{
+"id": 723,
+"Key": "D2bnetHelp49",
+"enUS": "QUIT closes the Battle.net chat interface and returns you to the Character Selection screen. Although you are still connected to Battle.net, you cannot chat or start games until you have selected a character."
+},
+{
+"id": 724,
+"Key": "D2bnetHelp12",
+"enUS": "ADVANCED COMMANDS"
+},
+{
+"id": 727,
+"Key": "D2bnetHelp12a",
+"enUS": "You can access any of these advanced features by entering the following commands in the Text Box where you normally type messages:"
+},
+{
+"id": 730,
+"Key": "D2bnetHelp13a",
+"enUS": "Sends a private message to another user on battle.net"
+},
+{
+"id": 731,
+"Key": "D2bnetHelp14",
+"enUS": "/me, /emote"
+},
+{
+"id": 732,
+"Key": "D2bnetHelp14a",
+"enUS": "Allows you to perform an action in the chat room."
+},
+{
+"id": 735,
+"Key": "D2bnetHelp15a",
+"enUS": "Allows you to ignore messages from the indicated user."
+},
+{
+"id": 738,
+"Key": "D2bnetHelp16a",
+"enUS": "Allows you to again receive messages from this user."
+},
+{
+"id": 739,
+"Key": "D2bnetHelp17",
+"enUS": "/away <reason>"
+},
+{
+"id": 740,
+"Key": "D2bnetHelp17a",
+"enUS": "Lets other people who send you messages know that you are away from your keyboard and cannot respond. You may provide a reason for your absence, by typing it after the /away command. To turn off this auto message when you return to your keyboard, enter just /away by itself."
+},
+{
+"id": 741,
+"Key": "D2bnetHelp18",
+"enUS": "/dnd"
+},
+{
+"id": 742,
+"Key": "D2bnetHelp18a",
+"enUS": "Lets other people who send you messages know that you do not wish to be disturbed. You may provide a reason for your absence, by typing it after the /dnd command. To turn off this auto message when you return to your keyboard, enter just /dnd by itself."
+},
+{
+"id": 743,
+"Key": "D2bnetHelp19",
+"enUS": "/channel <channelname>, /join <channelname>"
+},
+{
+"id": 744,
+"Key": "D2bnetHelp19a",
+"enUS": "Takes you to the battle.net Channel of your choice. If you wanted to enter the technical support Channel, you would simply type /channel technical support. If you attempt to join a Channel that does not exist, you will automatically create that Channel."
+},
+{
+"id": 745,
+"Key": "D2bnetHelp20",
+"enUS": "/who <channelname>"
+},
+{
+"id": 746,
+"Key": "D2bnetHelp20a",
+"enUS": "Provides you with a list of the battle.net account names of the players that are currently in the requested battle.net Channel."
+},
+{
+"id": 748,
+"Key": "D2bnetHelp21a",
+"enUS": "Bans an account from entering a private Channel and can only be issued by the Channel operator. Use /unban <accountname> to allow accounts banned from a private Channel back into that Channel."
+},
+{
+"id": 749,
+"Key": "D2bnetHelp22",
+"enUS": "ctrl+c, ctrl+x ctrl+v"
+},
+{
+"id": 750,
+"Key": "D2bnetHelp22a",
+"enUS": "Use these commands to copy, cut, and paste highlighted text. Use ctrl+a to select all text in the text field. Use ctrl+m to toggle music off/on. Use ctrl+n to paste the account name of a selected character."
+},
+{
+"id": 752,
+"Key": "D2bnetHelp23a",
+"enUS": "Designates the player of your choice to become the next Channel operator, which will take effect after the current Channel operator leaves the Channel and can only be issued by the current Channel operator."
+},
+{
+"id": 754,
+"Key": "D2bnetHelp24a",
+"enUS": "Kicks an account from a private Channel and can only be issued by the Channel operator. The kicked player, however, can immediately rejoin the channel."
+},
+{
+"id": 755,
+"Key": "D2bnetHelp25",
+"enUS": "/rejoin, resign"
+},
+{
+"id": 756,
+"Key": "D2bnetHelp25a",
+"enUS": "Causes a Channel operator to rejoin the Channel, appearing at the end/bottom of the list instead of the front/top of the list. Only the Channel operator can issue this command."
+},
+{
+"id": 759,
+"Key": "D2bnetHelp26a",
+"enUS": "Searches for another player in all battle.net Public Chat channels and all Blizzard games, telling you their account name, account number and current location."
+},
+{
+"id": 760,
+"Key": "D2bnetHelp27",
+"enUS": "/whoami"
+},
+{
+"id": 761,
+"Key": "D2bnetHelp27a",
+"enUS": "Provides you with your current account number and location on battle.net."
+},
+{
+"id": 762,
+"Key": "D2bnetHelp28",
+"enUS": "/d2notify"
+},
+{
+"id": 763,
+"Key": "D2bnetHelp28a",
+"enUS": "Toggles battle.net Join/Leave notifications in the Chat Channel."
+},
+{
+"id": 764,
+"Key": "D2bnetHelp29",
+"enUS": "/help, /?"
+},
+{
+"id": 765,
+"Key": "D2bnetHelp29a",
+"enUS": "Accesses the general battle.net help text."
+},
+{
+"id": 766,
+"Key": "D2bnetHelp30",
+"enUS": "/time"
+},
+{
+"id": 767,
+"Key": "D2bnetHelp30a",
+"enUS": "Provides you with the current battle.net time and your current Local time."
+},
+{
+"id": 768,
+"Key": "D2bnetHelp31",
+"enUS": "/users"
+},
+{
+"id": 769,
+"Key": "D2bnetHelp31a",
+"enUS": "Provides the number of users, games, and channels that are currently active across all of battle.net."
+},
+{
+"id": 771,
+"Key": "D2bnetHelp32a",
+"enUS": "Provides you with the Ladder statistics for other Blizzard games supported over battle.net. The program ID for each game is as follows; StarCraft < STAR>, Brood War <STARX>, and Warcraft II: battle.net Edition <W2BN>."
+},
+{
+"id": 772,
+"Key": "D2bnetHelp33",
+"enUS": "Right Clicking on your own character allows you to edit your own profile."
+},
+{
+"id": 773,
+"Key": "D2bnetHelp34",
+"enUS": "Using the 'Tab' key in the battle.net chat room cycles through the last 10 commands you have issued."
+},
+{
+"id": 774,
+"Key": "D2bnetHelp35",
+"enUS": "If you need further help, please go to the TECHNICAL SUPPORT Channel on battle.net, consult the Diablo II manual or go to the Blizzard technical support page at http://www.blizzard.com/support/"
+},
+{
+"id": 775,
+"Key": "D2bnetHelp51",
+"enUS": "BATTLE.NET COMMANDS"
+},
+{
+"id": 777,
+"Key": "D2bnetHelp53",
+"enUS": "/me"
+},
+{
+"id": 778,
+"Key": "D2bnetHelp54",
+"enUS": "/away"
+},
+{
+"id": 779,
+"Key": "D2bnetHelp55",
+"enUS": "/squelch, /unsquelch"
+},
+{
+"id": 780,
+"Key": "D2bnetHelp56",
+"enUS": "/ban, /unban, /kick"
+},
+{
+"id": 781,
+"Key": "D2bnetHelp57",
+"enUS": "/channel"
+},
+{
+"id": 782,
+"Key": "D2bnetHelp58",
+"enUS": "/whois, /where, /whoami"
+},
+{
+"id": 783,
+"Key": "D2bnetHelp59",
+"enUS": "/d2notify"
+},
+{
+"id": 784,
+"Key": "D2bnetHelp60",
+"enUS": "/designate, /rejoin"
+},
+{
+"id": 785,
+"Key": "D2bnetHelp61",
+"enUS": "/time"
+},
+{
+"id": 786,
+"Key": "D2bnetHelp62",
+"enUS": "/who, /users"
+},
+{
+"id": 787,
+"Key": "D2bnetHelp63",
+"enUS": "/stats"
+},
+{
+"id": 5171,
+"Key": "strBnetConnecting",
+"enUS": "Connecting to Battle.net"
+},
+{
+"id": 5172,
+"Key": "strBnetQueryGateway",
+"enUS": "Querying gateway"
+},
+{
+"id": 5173,
+"Key": "strBnetFastestServer",
+"enUS": "Connecting to the fastest server"
+},
+{
+"id": 5174,
+"Key": "strBnetValidateID",
+"enUS": "Accessing your account"
+},
+{
+"id": 5175,
+"Key": "strBnetCheckVersions",
+"enUS": "Checking versions"
+},
+{
+"id": 5177,
+"Key": "strBnetGetProfile",
+"enUS": "Getting player profile"
+},
+{
+"id": 5183,
+"Key": "strBnetRevertToUpgrade",
+"enUS": "There is a new version of the software available. Please completely uninstall your game program, reinstall from your original CD, and reconnect to Battle.net."
+},
+{
+"id": 5184,
+"Key": "strBnetMacBadConnection",
+"enUS": "Unable to connect to Battle.net. If you are using a modem to access your service provider and are not configured for Remote Access, you may have to initiate the connection manually."
+},
+{
+"id": 5185,
+"Key": "strBnetBadServiceProvider",
+"enUS": "Your Internet connection is either very poor or is not processing UDP packets through port 6112. You will be able to chat but will not be able to play games. Contact your Internet service provider or your system administrator for assistance with opening this port."
+},
+{
+"id": 5187,
+"Key": "strBnetUnableToUpgrade",
+"enUS": "Battle.net is unable to properly identify your application version."
+},
+{
+"id": 5188,
+"Key": "strBnetUnableToUpgrade_ext",
+"enUS": "For more information, please visit www.battle.net/support/errormessages/"
+},
+{
+"id": 5189,
+"Key": "strBnetBadConnection",
+"enUS": "Unable to connect to Battle.net."
+},
+{
+"id": 5190,
+"Key": "strBnetBadConnection_ext",
+"enUS": "If using a modem, you may need to connect to your Internet Service Provider before connecting to Battle.net. For more information, please visit www.battle.net/support/errormessages/"
+},
+{
+"id": 5191,
+"Key": "strBnetNoWinsock32",
+"enUS": "You are using a 16-bit connection to your Internet Service Provider."
+},
+{
+"id": 5192,
+"Key": "strBnetNoWinsock32_ext",
+"enUS": "Battle.net requires a 32-bit connection to the Internet. Please make sure that you are using the most current connection software from your Internet Service Provider."
+},
+{
+"id": 5193,
+"Key": "strBnetMacNoWinsock32",
+"enUS": "Unable to open a TCP/IP connection. Make sure that OpenTransport is installed correctly. You may also need to connect to your Internet Service Provider before connecting to Battle.net."
+},
+{
+"id": 5195,
+"Key": "strBnetAskUpdate",
+"enUS": "There is a new version of software available. Battle.net requires that you use the latest version. Your software will be updated now."
+},
+{
+"id": 5196,
+"Key": "strBnetPrepRestart",
+"enUS": "The update has been downloaded successfully. Your application will now restart."
+},
+{
+"id": 5197,
+"Key": "strBnetDownloadFailed",
+"enUS": "The update has been interrupted. No changes were made. Please try this process again."
+},
+{
+"id": 5198,
+"Key": "strBnetDownloadInProgress",
+"enUS": "Downloading software upgrade."
+},
+{
+"id": 5203,
+"Key": "strBnetRealmsdown",
+"enUS": "The Realm is undergoing renovation. Please try again in 15 minutes."
+},
+{
+"id": 5231,
+"Key": "strBnetAccountBlank",
+"enUS": "User names must be at least two characters in length. Please try again with a different name."
+},
+{
+"id": 5232,
+"Key": "strBnetAccountBadChars",
+"enUS": "Your user name contained one or more illegal characters."
+},
+{
+"id": 5233,
+"Key": "strBnetAccountBadWord",
+"enUS": "Your user name contained one or more disallowed words."
+},
+{
+"id": 5234,
+"Key": "strBnetAccountActivate",
+"enUS": "Your previous account creation request is still being processed. Please wait a few moments and try logging in with the account you just created."
+},
+{
+"id": 5235,
+"Key": "strBnetAccountNeedAlpha",
+"enUS": "Your name did not have enough alpha-numeric characters in it."
+},
+{
+"id": 5236,
+"Key": "strBnetAccountAdjPunct",
+"enUS": "Your name contained too many adjacent punctuation characters in it."
+},
+{
+"id": 5237,
+"Key": "strBnetAccountTooManyPunct",
+"enUS": "Your name contained too many punctuation characters in it."
+},
+{
+"id": 5238,
+"Key": "strBnetPasswordMismatch",
+"enUS": "The passwords you have typed do not match. Please enter the same password twice."
+},
+{
+"id": 5239,
+"Key": "strBnetNewAccountFail",
+"enUS": "An account already exists with the name you have chosen.  Please try again with a different name."
+},
+{
+"id": 5240,
+"Key": "strBnetInvalidBNETID",
+"enUS": "You have entered an invalid ID."
+},
+{
+"id": 5241,
+"Key": "strBnetInvalidPassword",
+"enUS": "You have entered an incorrect password. If your character has not been on Battle.net for 3 months, or if you forgot your password, you can select "
+},
+{
+"id": 5242,
+"Key": "strBnetChangePasswordErr",
+"enUS": "Unable to change password. You have specified an invalid name or password."
+},
+{
+"id": 5244,
+"Key": "strBnetTitleloginerror",
+"enUS": "Login Error"
+},
+{
+"id": 5245,
+"Key": "strBnetTitlebadversion",
+"enUS": "Unable to Identify Version"
+},
+{
+"id": 5246,
+"Key": "strBnetTitleRevertVersion",
+"enUS": "Reinstall to Upgrade"
+},
+{
+"id": 5247,
+"Key": "strBnetTitleConnectErr",
+"enUS": "Unable to Connect"
+},
+{
+"id": 5248,
+"Key": "strBnetTitleBattleNet",
+"enUS": "Battle.net"
+},
+{
+"id": 5249,
+"Key": "strBnetTitleBadAccount",
+"enUS": "Unable to Create Account"
+},
+{
+"id": 5266,
+"Key": "strBnetPlayerProfile",
+"enUS": "PLAYER PROFILE"
+},
+{
+"id": 5267,
+"Key": "strBnetPPName",
+"enUS": "Name"
+},
+{
+"id": 5268,
+"Key": "strBnetPPGender",
+"enUS": "Gender"
+},
+{
+"id": 5269,
+"Key": "strBnetPPAge",
+"enUS": "Age"
+},
+{
+"id": 5270,
+"Key": "strBnetPPLocation",
+"enUS": "Location"
+},
+{
+"id": 5271,
+"Key": "strBnetPPDescription",
+"enUS": "Description"
+},
+{
+"id": 5288,
+"Key": "strEnterBnet",
+"enUS": "LOG IN"
+},
+{
+"id": 5328,
+"Key": "strbnetshortThousand",
+"enUS": "K"
+},
+{
+"id": 5329,
+"Key": "strbnetshortMillion",
+"enUS": "M"
+},
+{
+"id": 5330,
+"Key": "strbnetshortBillion",
+"enUS": "B"
+},
+{
+"id": 5331,
+"Key": "strbnetshortTrillion",
+"enUS": "T"
+},
+{
+"id": 5332,
+"Key": "strbnetchatFrom",
+"enUS": "From %s: %s"
+},
+{
+"id": 5333,
+"Key": "strbnetchatSentto",
+"enUS": "Sent to %s: %s"
+},
+{
+"id": 5337,
+"Key": "strBnetChannelNameInvalid",
+"enUS": "Invalid channel name. A channel name cannot contain reserved characters."
+},
+{
+"id": 5338,
+"Key": "strBnetQueryBrowseWeb",
+"enUS": "You have clicked on a link to the Internet. Your web browser will now be launched. You can use the Windows Taskbar to return to Battle.net."
+},
+{
+"id": 5339,
+"Key": "strBnetQueryDisconnect",
+"enUS": "You have disconnected from Battle.net. Press OK to hangup the connection to %s. Press Cancel to stay connected."
+},
+{
+"id": 5340,
+"Key": "strBnetBrowserError",
+"enUS": "Battle.net was unable to launch your default browser."
+},
+{
+"id": 5341,
+"Key": "strBnetBadURL",
+"enUS": "Couldn't open this URL. The URL appears to be invalid."
+},
+{
+"id": 5342,
+"Key": "strBnetNoInternetConfig",
+"enUS": "Launching a web browser from Battle.net requires Internet Config 1.1 or newer.  Make sure Internet Config is installed on your computer."
+},
+{
+"id": 5343,
+"Key": "strBnetMacNoBrowser",
+"enUS": "The default web browser selected in Internet Config or the Internet control panel could not be located on your hard drive."
+},
+{
+"id": 5344,
+"Key": "strBnetMacErrLowMemory",
+"enUS": "There is not enough free memory available to launch the web browser."
+},
+{
+"id": 5345,
+"Key": "strBnetMacQueryBrowseWeb",
+"enUS": "You have clicked on a link to the Internet. Your web browser will now be launched. Use "
+},
+{
+"id": 5346,
+"Key": "strbnetchannelrestricted",
+"enUS": "That channel is restricted"
+},
+{
+"id": 5347,
+"Key": "strdiconfrombnet",
+"enUS": "You were disconnected from battle.net.  Please reconnect."
+},
+{
+"id": 5348,
+"Key": "strbnetdown",
+"enUS": "Battle.net is down. Reconnect later."
+},
+{
+"id": 5350,
+"Key": "strbnetdownsory",
+"enUS": "Battle.net is down. Reconnect later."
+},
+{
+"id": 5351,
+"Key": "strlostbnetcons",
+"enUS": "Lost Connection to battle.net."
+},
+{
+"id": 5352,
+"Key": "strBnetConnectionLost",
+"enUS": "Your connection to Battle.net has been lost."
+},
+{
+"id": 5353,
+"Key": "strBnetUnreachable",
+"enUS": "Battle.net is not responding. Please try connecting again in a few minutes."
+},
+{
+"id": 5354,
+"Key": "strBnetIsUnreachable",
+"enUS": "Battle.net is not responding. Please try connecting again in a few minutes."
+},
+{
+"id": 5355,
+"Key": "strBnetNotResponding",
+"enUS": "The connection to Battle.net has been interrupted. Please try again later."
+},
+{
+"id": 10004,
+"Key": "D2bnetHelp13",
+"enUS": "/whisper <*accountname>, /w <*accountname>"
+},
+{
+"id": 10005,
+"Key": "D2bnetHelp13b",
+"enUS": "/msg <*accountname>, /m <*accountname>"
+},
+{
+"id": 10006,
+"Key": "D2bnetHelp15",
+"enUS": "/squelch <*accountname>"
+},
+{
+"id": 10007,
+"Key": "D2bnetHelp15b",
+"enUS": "/ignore <*accountname>"
+},
+{
+"id": 10008,
+"Key": "D2bnetHelp16",
+"enUS": "/unsquelch <*accountname>"
+},
+{
+"id": 10009,
+"Key": "D2bnetHelp16b",
+"enUS": "/unignore <*accountname>"
+},
+{
+"id": 10010,
+"Key": "D2bnetHelp21",
+"enUS": "/ban <*accountname>"
+},
+{
+"id": 10011,
+"Key": "D2bnetHelp23",
+"enUS": "/designate <*accountname>"
+},
+{
+"id": 10012,
+"Key": "D2bnetHelp24",
+"enUS": "/kick <*accountname>"
+},
+{
+"id": 10013,
+"Key": "D2bnetHelp26",
+"enUS": "/whois <*accountname>, /where <*accountname>"
+},
+{
+"id": 10014,
+"Key": "D2bnetHelp26b",
+"enUS": "/whereis <*accountname>"
+},
+{
+"id": 10015,
+"Key": "D2bnetHelp32",
+"enUS": "/stats <*accountname> <programID>"
+},
+{
+"id": 10092,
+"Key": "D2bnetHelp47a",
+"enUS": "The EXPANSION LADDER displays the top characters, ranked by experience. The default setting displays overall rankings, but you can view sorted lists after selecting the By Class option."
+},
+{
+"id": 10093,
+"Key": "D2bnetHelp48a",
+"enUS": "The EXPANSION HARDCORE LADDER displays the top Hardcore characters, ranked by experience. The default setting displays overall rankings, but you can view sorted lists after selecting By Class option."
+},
+{
+"id": 11017,
+"Key": "D2bnetHelp10",
+"enUS": "ÿc3Blue Textÿc4 represents actions that have been taken by people in the chat Channel."
+},
+{
+"id": 11041,
+"Key": "D2bnetHelp13c",
+"enUS": "/reply"
+},
+{
+"id": 11042,
+"Key": "D2bnethelp13d",
+"enUS": "Allows you to reply to a whisper without typing the account name"
+},
+{
+"id": 11043,
+"Key": "D2bnetHelp52",
+"enUS": "/whisper, /msg, /reply"
+},
+{
+"id": 11044,
+"Key": "D2bnetHelp10a",
+"enUS": "ÿc9 Yellow Textÿc4 represents special messages sent directly from battle.net"
+},
+{
+"id": 11045,
+"Key": "BnetnewGameTime",
+"enUS": "Game Time:"
+},
+{
+"id": 11046,
+"Key": "D2bnetHelp12c",
+"enUS": "When using advanced commands, you may also use character names for people in the same Realm, and character names @Realm for people in another Realm."
+},
+{
+"id": 11047,
+"Key": "D2bnetHelp12d",
+"enUS": "You must use *account names for anyone on battle.net including people in a different game such as Starcraft."
+},
+{
+"id": 11048,
+"Key": "D2bnetHelp12b",
+"enUS": "Wherever a command below calls for the use of <accountname>, please use either <charactername>, <charactername@Realm>, or <*accountname>."
+},
+{
+"id": 11060,
+"Key": "D2bnetHelp6a",
+"enUS": "ÿc5Gray Textÿc4 also represents actions that have been taken by people in the chat Channel."
+},
+{
+"id": 11061,
+"Key": "D2bnetHelp10aPatch",
+"enUS": "ÿc3Blue Textÿc4 represents special messages sent directly from battle.net or messages from a Blizzard Representative."
+},
+{
+"id": 27109,
+"Key": "LogonQueuePositionInQueue",
+"enUS": "Position in Queue: %d"
+},
+{
+"id": 27110,
+"Key": "LogonQueueCancel",
+"enUS": "Press %s to Play Offline"
+},
+{
+"id": 27111,
+"Key": "LogonQueueCancelConfirmText",
+"enUS": "You will now play offline and will lose your position in the queue."
+},
+{
+"id": 27144,
+"Key": "UnderAuthAgeError",
+"enUS": "You must be at least 18 years old to play Diablo II Resurrected"
+}
+]

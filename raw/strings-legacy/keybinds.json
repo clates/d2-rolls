@@ -1,0 +1,1212 @@
+[
+{
+"id": 3410,
+"Key": "cfgCtrl",
+"enUS": "Configure Controls"
+},
+{
+"id": 3762,
+"Key": "KeyNone",
+"enUS": "None"
+},
+{
+"id": 3763,
+"Key": "KeyLButton",
+"enUS": "Mouse 1"
+},
+{
+"id": 3764,
+"Key": "KeyRButton",
+"enUS": "Mouse 2"
+},
+{
+"id": 3765,
+"Key": "KeyCancel",
+"enUS": "Cancel"
+},
+{
+"id": 3766,
+"Key": "KeyMButton",
+"enUS": "Mouse 3"
+},
+{
+"id": 3767,
+"Key": "Key4Button",
+"enUS": "Mouse 4"
+},
+{
+"id": 3768,
+"Key": "Key5Button",
+"enUS": "Mouse 5"
+},
+{
+"id": 3769,
+"Key": "KeyWheelUp",
+"enUS": "Mouse Wheel Up"
+},
+{
+"id": 3770,
+"Key": "KeyWheelDown",
+"enUS": "Mouse Wheel Down"
+},
+{
+"id": 3771,
+"Key": "KeyKana",
+"enUS": "Kana"
+},
+{
+"id": 3772,
+"Key": "KeyJunja",
+"enUS": "Junja"
+},
+{
+"id": 3773,
+"Key": "KeyFinal",
+"enUS": "Final"
+},
+{
+"id": 3774,
+"Key": "KeyKanji",
+"enUS": "Kanji"
+},
+{
+"id": 3775,
+"Key": "KeyEscape",
+"enUS": "Escape"
+},
+{
+"id": 3776,
+"Key": "KeyConvert",
+"enUS": "Convert"
+},
+{
+"id": 3777,
+"Key": "KeyNonConvert",
+"enUS": "Non-Convert"
+},
+{
+"id": 3778,
+"Key": "KeyAccept",
+"enUS": "Accept"
+},
+{
+"id": 3779,
+"Key": "KeyModeChange",
+"enUS": "Mode Change"
+},
+{
+"id": 3780,
+"Key": "KeyLeft",
+"enUS": "Left"
+},
+{
+"id": 3781,
+"Key": "KeyUp",
+"enUS": "Up"
+},
+{
+"id": 3782,
+"Key": "KeyRight",
+"enUS": "Right"
+},
+{
+"id": 3783,
+"Key": "KeyDown",
+"enUS": "Down"
+},
+{
+"id": 3784,
+"Key": "KeySelect",
+"enUS": "Select"
+},
+{
+"id": 3785,
+"Key": "KeyExecute",
+"enUS": "Execute"
+},
+{
+"id": 3786,
+"Key": "KeyLWin",
+"enUS": "Left Windows"
+},
+{
+"id": 3787,
+"Key": "KeyRWin",
+"enUS": "Right Windows"
+},
+{
+"id": 3788,
+"Key": "KeyApps",
+"enUS": "Apps Menu"
+},
+{
+"id": 3789,
+"Key": "KeyNumLock",
+"enUS": "Num Lock"
+},
+{
+"id": 3790,
+"Key": "KeyBack",
+"enUS": "Backspace"
+},
+{
+"id": 3791,
+"Key": "KeyTab",
+"enUS": "Tab"
+},
+{
+"id": 3792,
+"Key": "KeyClear",
+"enUS": "Clear"
+},
+{
+"id": 3793,
+"Key": "KeyReturn",
+"enUS": "Enter"
+},
+{
+"id": 3794,
+"Key": "KeyShift",
+"enUS": "Shift"
+},
+{
+"id": 3795,
+"Key": "KeyControl",
+"enUS": "Ctrl"
+},
+{
+"id": 3796,
+"Key": "KeyMenu",
+"enUS": "Alt"
+},
+{
+"id": 3797,
+"Key": "KeyPause",
+"enUS": "Pause"
+},
+{
+"id": 3798,
+"Key": "KeyCapital",
+"enUS": "Caps Lock"
+},
+{
+"id": 3799,
+"Key": "KeySpace",
+"enUS": "Space"
+},
+{
+"id": 3800,
+"Key": "KeyPrior",
+"enUS": "Page Up"
+},
+{
+"id": 3801,
+"Key": "KeyNext",
+"enUS": "Page Down"
+},
+{
+"id": 3802,
+"Key": "KeyEnd",
+"enUS": "End"
+},
+{
+"id": 3803,
+"Key": "KeyHome",
+"enUS": "Home"
+},
+{
+"id": 3804,
+"Key": "KeyPrint",
+"enUS": "P - Tell Ken"
+},
+{
+"id": 3805,
+"Key": "KeySnapshot",
+"enUS": "Print Screen"
+},
+{
+"id": 3806,
+"Key": "KeyInsert",
+"enUS": "Insert"
+},
+{
+"id": 3807,
+"Key": "KeyDelete",
+"enUS": "Delete"
+},
+{
+"id": 3808,
+"Key": "KeyHelp",
+"enUS": "Help"
+},
+{
+"id": 3809,
+"Key": "KeyNumPad0",
+"enUS": "Num Pad 0"
+},
+{
+"id": 3810,
+"Key": "KeyNumPad1",
+"enUS": "Num Pad 1"
+},
+{
+"id": 3811,
+"Key": "KeyNumPad2",
+"enUS": "Num Pad 2"
+},
+{
+"id": 3812,
+"Key": "KeyNumPad3",
+"enUS": "Num Pad 3"
+},
+{
+"id": 3813,
+"Key": "KeyNumPad4",
+"enUS": "Num Pad 4"
+},
+{
+"id": 3814,
+"Key": "KeyNumPad5",
+"enUS": "Num Pad 5"
+},
+{
+"id": 3815,
+"Key": "KeyNumPad6",
+"enUS": "Num Pad 6"
+},
+{
+"id": 3816,
+"Key": "KeyNumPad7",
+"enUS": "Num Pad 7"
+},
+{
+"id": 3817,
+"Key": "KeyNumPad8",
+"enUS": "Num Pad 8"
+},
+{
+"id": 3818,
+"Key": "KeyNumPad9",
+"enUS": "Num Pad 9"
+},
+{
+"id": 3819,
+"Key": "KeyMultiply",
+"enUS": "Num Pad *"
+},
+{
+"id": 3820,
+"Key": "KeyAdd",
+"enUS": "Num Pad +"
+},
+{
+"id": 3821,
+"Key": "KeySeparator",
+"enUS": "Separator"
+},
+{
+"id": 3822,
+"Key": "KeySubtract",
+"enUS": "Num Pad -"
+},
+{
+"id": 3823,
+"Key": "KeyDecimal",
+"enUS": "Num Pad ."
+},
+{
+"id": 3824,
+"Key": "KeyDivide",
+"enUS": "Num Pad /"
+},
+{
+"id": 3825,
+"Key": "KeyF1",
+"enUS": "F1"
+},
+{
+"id": 3826,
+"Key": "KeyF2",
+"enUS": "F2"
+},
+{
+"id": 3827,
+"Key": "KeyF3",
+"enUS": "F3"
+},
+{
+"id": 3828,
+"Key": "KeyF4",
+"enUS": "F4"
+},
+{
+"id": 3829,
+"Key": "KeyF5",
+"enUS": "F5"
+},
+{
+"id": 3830,
+"Key": "KeyF6",
+"enUS": "F6"
+},
+{
+"id": 3831,
+"Key": "KeyF7",
+"enUS": "F7"
+},
+{
+"id": 3832,
+"Key": "KeyF8",
+"enUS": "F8"
+},
+{
+"id": 3833,
+"Key": "KeyF9",
+"enUS": "F9"
+},
+{
+"id": 3834,
+"Key": "KeyF10",
+"enUS": "F10"
+},
+{
+"id": 3835,
+"Key": "KeyF11",
+"enUS": "F11"
+},
+{
+"id": 3836,
+"Key": "KeyF12",
+"enUS": "F12"
+},
+{
+"id": 3837,
+"Key": "KeyF13",
+"enUS": "F13"
+},
+{
+"id": 3838,
+"Key": "KeyF14",
+"enUS": "F14"
+},
+{
+"id": 3839,
+"Key": "KeyF15",
+"enUS": "F15"
+},
+{
+"id": 3840,
+"Key": "KeyF16",
+"enUS": "F16"
+},
+{
+"id": 3841,
+"Key": "KeyF17",
+"enUS": "F17"
+},
+{
+"id": 3842,
+"Key": "KeyF18",
+"enUS": "F18"
+},
+{
+"id": 3843,
+"Key": "KeyF19",
+"enUS": "F19"
+},
+{
+"id": 3844,
+"Key": "KeyF20",
+"enUS": "F20"
+},
+{
+"id": 3845,
+"Key": "KeyF21",
+"enUS": "F21"
+},
+{
+"id": 3846,
+"Key": "KeyF22",
+"enUS": "F22"
+},
+{
+"id": 3847,
+"Key": "KeyF23",
+"enUS": "F23"
+},
+{
+"id": 3848,
+"Key": "KeyF24",
+"enUS": "F24"
+},
+{
+"id": 3849,
+"Key": "KeyScroll",
+"enUS": "Scroll Lock"
+},
+{
+"id": 3850,
+"Key": "KeySemicolon",
+"enUS": ";"
+},
+{
+"id": 3851,
+"Key": "KeyEqual",
+"enUS": "="
+},
+{
+"id": 3852,
+"Key": "KeyComma",
+"enUS": ","
+},
+{
+"id": 3853,
+"Key": "KeyMinus",
+"enUS": "-"
+},
+{
+"id": 3854,
+"Key": "KeyPeriod",
+"enUS": "."
+},
+{
+"id": 3855,
+"Key": "KeySlash",
+"enUS": "/"
+},
+{
+"id": 3856,
+"Key": "KeyTilde",
+"enUS": "~"
+},
+{
+"id": 3857,
+"Key": "KeyLBracket",
+"enUS": "["
+},
+{
+"id": 3858,
+"Key": "KeyBackslash",
+"enUS": "\\"
+},
+{
+"id": 3859,
+"Key": "KeyRBracket",
+"enUS": "]"
+},
+{
+"id": 3860,
+"Key": "KeyApostrophe",
+"enUS": "'"
+},
+{
+"id": 3861,
+"Key": "ShorthandKeyMButton",
+"enUS": "m3"
+},
+{
+"id": 3862,
+"Key": "ShorthandKey4Button",
+"enUS": "m4"
+},
+{
+"id": 3863,
+"Key": "ShorthandKey5Button",
+"enUS": "m5"
+},
+{
+"id": 3864,
+"Key": "ShorthandKeyWheelUp",
+"enUS": "mwu"
+},
+{
+"id": 3865,
+"Key": "ShorthandKeyWheelDown",
+"enUS": "mwd"
+},
+{
+"id": 3866,
+"Key": "ShorthandKeyKana",
+"enUS": "kna"
+},
+{
+"id": 3867,
+"Key": "ShorthandKeyJunja",
+"enUS": "jun"
+},
+{
+"id": 3868,
+"Key": "ShorthandKeyFinal",
+"enUS": "fin"
+},
+{
+"id": 3869,
+"Key": "ShorthandKeyKanji",
+"enUS": "kji"
+},
+{
+"id": 3870,
+"Key": "ShorthandKeyEscape",
+"enUS": "esc"
+},
+{
+"id": 3871,
+"Key": "ShorthandKeyConvert",
+"enUS": "con"
+},
+{
+"id": 3872,
+"Key": "ShorthandKeyNonConvert",
+"enUS": "ncn"
+},
+{
+"id": 3873,
+"Key": "ShorthandKeyAccept",
+"enUS": "acc"
+},
+{
+"id": 3874,
+"Key": "ShorthandKeyModeChange",
+"enUS": "mdc"
+},
+{
+"id": 3875,
+"Key": "ShorthandKeyLeft",
+"enUS": "lft"
+},
+{
+"id": 3876,
+"Key": "ShorthandKeyRight",
+"enUS": "rgt"
+},
+{
+"id": 3877,
+"Key": "ShorthandKeyDown",
+"enUS": "Dwn"
+},
+{
+"id": 3878,
+"Key": "ShorthandKeySelect",
+"enUS": "Slt"
+},
+{
+"id": 3879,
+"Key": "ShorthandKeyExecute",
+"enUS": "exc"
+},
+{
+"id": 3880,
+"Key": "ShorthandKeyLeftWindows",
+"enUS": "lwn"
+},
+{
+"id": 3881,
+"Key": "ShorthandKeyRightWindows",
+"enUS": "rwn"
+},
+{
+"id": 3882,
+"Key": "ShorthandKeyApps",
+"enUS": "apm"
+},
+{
+"id": 3883,
+"Key": "ShorthandKeyNumLock",
+"enUS": "nml"
+},
+{
+"id": 3884,
+"Key": "ShorthandKeyBackspace",
+"enUS": "bks"
+},
+{
+"id": 3885,
+"Key": "ShorthandKeyClear",
+"enUS": "clr"
+},
+{
+"id": 3886,
+"Key": "ShorthandKeyEnter",
+"enUS": "ent"
+},
+{
+"id": 3887,
+"Key": "ShorthandKeyShift",
+"enUS": "sft"
+},
+{
+"id": 3888,
+"Key": "ShorthandKeyControl",
+"enUS": "ctl"
+},
+{
+"id": 3889,
+"Key": "ShorthandKeyPause",
+"enUS": "pse"
+},
+{
+"id": 3890,
+"Key": "ShorthandKeyCapsLock",
+"enUS": "clk"
+},
+{
+"id": 3891,
+"Key": "ShorthandKeySpace",
+"enUS": "spc"
+},
+{
+"id": 3892,
+"Key": "ShorthandKeyPageUp",
+"enUS": "pup"
+},
+{
+"id": 3893,
+"Key": "ShorthandKeyPageDown",
+"enUS": "pdn"
+},
+{
+"id": 3894,
+"Key": "ShorthandKeyHome",
+"enUS": "hme"
+},
+{
+"id": 3895,
+"Key": "ShorthandKeyPrintScreen",
+"enUS": "psn"
+},
+{
+"id": 3896,
+"Key": "ShorthandKeyInsert",
+"enUS": "ins"
+},
+{
+"id": 3897,
+"Key": "ShorthandKeyDelete",
+"enUS": "del"
+},
+{
+"id": 3898,
+"Key": "ShorthandKeyHelp",
+"enUS": "hel"
+},
+{
+"id": 3899,
+"Key": "ShorthandKeyNumPad0",
+"enUS": "np0"
+},
+{
+"id": 3900,
+"Key": "ShorthandKeyNumPad1",
+"enUS": "np1"
+},
+{
+"id": 3901,
+"Key": "ShorthandKeyNumPad2",
+"enUS": "np2"
+},
+{
+"id": 3902,
+"Key": "ShorthandKeyNumPad3",
+"enUS": "np3"
+},
+{
+"id": 3903,
+"Key": "ShorthandKeyNumPad4",
+"enUS": "np4"
+},
+{
+"id": 3904,
+"Key": "ShorthandKeyNumPad5",
+"enUS": "np5"
+},
+{
+"id": 3905,
+"Key": "ShorthandKeyNumPad6",
+"enUS": "np6"
+},
+{
+"id": 3906,
+"Key": "ShorthandKeyNumPad7",
+"enUS": "np7"
+},
+{
+"id": 3907,
+"Key": "ShorthandKeyNumPad8",
+"enUS": "np8"
+},
+{
+"id": 3908,
+"Key": "ShorthandKeyNumPad9",
+"enUS": "np9"
+},
+{
+"id": 3909,
+"Key": "ShorthandKeyNumPad*",
+"enUS": "np*"
+},
+{
+"id": 3910,
+"Key": "ShorthandKeyNumPad+",
+"enUS": "np+"
+},
+{
+"id": 3911,
+"Key": "ShorthandKeyNumPad-",
+"enUS": "np-"
+},
+{
+"id": 3912,
+"Key": "ShorthandKeyNumPad.",
+"enUS": "np."
+},
+{
+"id": 3913,
+"Key": "ShorthandKeyNumPad/",
+"enUS": "np/"
+},
+{
+"id": 3914,
+"Key": "ShorthandKeyScroll",
+"enUS": "slk"
+},
+{
+"id": 3915,
+"Key": "KeyMacOption",
+"enUS": "Option"
+},
+{
+"id": 3916,
+"Key": "KeyMacCommand",
+"enUS": "Command"
+},
+{
+"id": 3917,
+"Key": "KeyMacNumPad=",
+"enUS": "Num Pad ="
+},
+{
+"id": 3918,
+"Key": "ShorthandKeyMacOption",
+"enUS": "Opt"
+},
+{
+"id": 3919,
+"Key": "ShorthandKeyMacCommand",
+"enUS": "Cmd"
+},
+{
+"id": 3920,
+"Key": "ShorthandKeyMacNumPad=",
+"enUS": "NP="
+},
+{
+"id": 3921,
+"Key": "CfgFunction",
+"enUS": "Function"
+},
+{
+"id": 3922,
+"Key": "CfgPrimaryKey",
+"enUS": "Key/Button One"
+},
+{
+"id": 3923,
+"Key": "CfgSecondaryKey",
+"enUS": "Key/Button Two"
+},
+{
+"id": 3924,
+"Key": "CfgCharacter",
+"enUS": "Character Screen"
+},
+{
+"id": 3925,
+"Key": "CfgInventory",
+"enUS": "Inventory Screen"
+},
+{
+"id": 3926,
+"Key": "CfgParty",
+"enUS": "Party Screen"
+},
+{
+"id": 3927,
+"Key": "CfgMessageLog",
+"enUS": "Message Log"
+},
+{
+"id": 3928,
+"Key": "CfgQuestLog",
+"enUS": "Quest Log"
+},
+{
+"id": 3929,
+"Key": "CfgChat",
+"enUS": "Chat"
+},
+{
+"id": 3930,
+"Key": "CfgAutoMap",
+"enUS": "Automap"
+},
+{
+"id": 3931,
+"Key": "CfgAutoMapCenter",
+"enUS": "Center Automap"
+},
+{
+"id": 3932,
+"Key": "CfgMiniMap",
+"enUS": "Micromap"
+},
+{
+"id": 3933,
+"Key": "CfgHelp",
+"enUS": "Help Screen"
+},
+{
+"id": 3934,
+"Key": "CfgSkillTree",
+"enUS": "Skill Tree"
+},
+{
+"id": 3936,
+"Key": "CfgSkill1",
+"enUS": "Skill 1"
+},
+{
+"id": 3937,
+"Key": "CfgSkill2",
+"enUS": "Skill 2"
+},
+{
+"id": 3938,
+"Key": "CfgSkill3",
+"enUS": "Skill 3"
+},
+{
+"id": 3939,
+"Key": "CfgSkill4",
+"enUS": "Skill 4"
+},
+{
+"id": 3940,
+"Key": "CfgSkill5",
+"enUS": "Skill 5"
+},
+{
+"id": 3941,
+"Key": "CfgSkill6",
+"enUS": "Skill 6"
+},
+{
+"id": 3942,
+"Key": "CfgSkill7",
+"enUS": "Skill 7"
+},
+{
+"id": 3943,
+"Key": "CfgSkill8",
+"enUS": "Skill 8"
+},
+{
+"id": 3944,
+"Key": "Cfgskillup",
+"enUS": "Select Previous Skill"
+},
+{
+"id": 3945,
+"Key": "Cfgskilldown",
+"enUS": "Select Next Skill"
+},
+{
+"id": 3946,
+"Key": "CfgBeltShow",
+"enUS": "Show Belt"
+},
+{
+"id": 3947,
+"Key": "CfgBelt1",
+"enUS": "Use Belt 1"
+},
+{
+"id": 3948,
+"Key": "CfgBelt2",
+"enUS": "Use Belt 2"
+},
+{
+"id": 3949,
+"Key": "CfgBelt3",
+"enUS": "Use Belt 3"
+},
+{
+"id": 3950,
+"Key": "CfgBelt4",
+"enUS": "Use Belt 4"
+},
+{
+"id": 3951,
+"Key": "CfgBelt5",
+"enUS": "Use Belt 5"
+},
+{
+"id": 3952,
+"Key": "CfgBelt6",
+"enUS": "Use Belt 6"
+},
+{
+"id": 3953,
+"Key": "CfgBelt7",
+"enUS": "Use Belt 7"
+},
+{
+"id": 3954,
+"Key": "CfgBelt8",
+"enUS": "Use Belt 8"
+},
+{
+"id": 3955,
+"Key": "CfgBelt9",
+"enUS": "Use Belt 9"
+},
+{
+"id": 3956,
+"Key": "CfgBelt10",
+"enUS": "Use Belt 10"
+},
+{
+"id": 3957,
+"Key": "CfgBelt11",
+"enUS": "Use Belt 11"
+},
+{
+"id": 3958,
+"Key": "CfgBelt12",
+"enUS": "Use Belt 12"
+},
+{
+"id": 3959,
+"Key": "CfgSay0",
+"enUS": "Say 'Help'"
+},
+{
+"id": 3960,
+"Key": "CfgSay1",
+"enUS": "Say 'Follow me'"
+},
+{
+"id": 3961,
+"Key": "CfgSay2",
+"enUS": "Say 'This is for you'"
+},
+{
+"id": 3962,
+"Key": "CfgSay3",
+"enUS": "Say 'Thanks'"
+},
+{
+"id": 3963,
+"Key": "CfgSay4",
+"enUS": "Say 'Sorry'"
+},
+{
+"id": 3964,
+"Key": "CfgSay5",
+"enUS": "Say 'Bye'"
+},
+{
+"id": 3965,
+"Key": "CfgSay6",
+"enUS": "Say 'Now you die'"
+},
+{
+"id": 3966,
+"Key": "CfgRun",
+"enUS": "Run"
+},
+{
+"id": 3967,
+"Key": "CfgRunLock",
+"enUS": "Toggle Run/Walk"
+},
+{
+"id": 3968,
+"Key": "CfgStandStill",
+"enUS": "Stand Still"
+},
+{
+"id": 3969,
+"Key": "CfgShowItems",
+"enUS": "Show Items"
+},
+{
+"id": 3970,
+"Key": "CfgClearScreen",
+"enUS": "Clear Screen"
+},
+{
+"id": 3971,
+"Key": "CfgSnapshot",
+"enUS": "Screen Shot"
+},
+{
+"id": 3972,
+"Key": "CfgDefault",
+"enUS": "Default"
+},
+{
+"id": 3973,
+"Key": "CfgAccept",
+"enUS": "Accept"
+},
+{
+"id": 3974,
+"Key": "CfgCancel",
+"enUS": "Cancel"
+},
+{
+"id": 3976,
+"Key": "KeysAssigned",
+"enUS": "Keys assigned."
+},
+{
+"id": 3980,
+"Key": "CfgClearKey",
+"enUS": "Clear key"
+},
+{
+"id": 3981,
+"Key": "Cfgcleartextmsg",
+"enUS": "Clear Messages"
+},
+{
+"id": 3982,
+"Key": "CfgTogglePortraits",
+"enUS": "Show Portraits"
+},
+{
+"id": 3983,
+"Key": "CfgAutoMapFade",
+"enUS": "Fade Automap"
+},
+{
+"id": 3984,
+"Key": "CfgAutoMapNames",
+"enUS": "Names on Automap"
+},
+{
+"id": 3985,
+"Key": "CfgAutoMapParty",
+"enUS": "Party on Automap"
+},
+{
+"id": 3995,
+"Key": "space",
+"enUS": " "
+},
+{
+"id": 3996,
+"Key": "dash",
+"enUS": "-"
+},
+{
+"id": 3997,
+"Key": "colon",
+"enUS": ":"
+},
+{
+"id": 3998,
+"Key": "newline",
+"enUS": "\n"
+},
+{
+"id": 3999,
+"Key": "pipe",
+"enUS": "|"
+},
+{
+"id": 4000,
+"Key": "slash",
+"enUS": "/"
+},
+{
+"id": 4001,
+"Key": "percent",
+"enUS": "%"
+},
+{
+"id": 4002,
+"Key": "plus",
+"enUS": "+"
+},
+{
+"id": 10833,
+"Key": "CfgSkillPick",
+"enUS": "Skill Speed Bar"
+},
+{
+"id": 11083,
+"Key": "CfgSay7X",
+"enUS": "Say 'Retreat'"
+},
+{
+"id": 21804,
+"Key": "CfgSay7",
+"enUS": "Say 'Retreat'"
+},
+{
+"id": 22717,
+"Key": "CfgSkill9",
+"enUS": "Skill 9"
+},
+{
+"id": 22718,
+"Key": "CfgSkill10",
+"enUS": "Skill 10"
+},
+{
+"id": 22719,
+"Key": "CfgSkill11",
+"enUS": "Skill 11"
+},
+{
+"id": 22720,
+"Key": "CfgSkill12",
+"enUS": "Skill 12"
+},
+{
+"id": 22721,
+"Key": "CfgSkill13",
+"enUS": "Skill 13"
+},
+{
+"id": 22722,
+"Key": "CfgSkill14",
+"enUS": "Skill 14"
+},
+{
+"id": 22723,
+"Key": "CfgSkill15",
+"enUS": "Skill 15"
+},
+{
+"id": 22724,
+"Key": "CfgSkill16",
+"enUS": "Skill 16"
+},
+{
+"id": 22725,
+"Key": "CfgToggleminimap",
+"enUS": "Toggle MiniMap"
+},
+{
+"id": 22726,
+"Key": "Cfgswapweapons",
+"enUS": "Swap Weapons"
+},
+{
+"id": 22727,
+"Key": "Cfghireling",
+"enUS": "Hireling Screen"
+}
+]

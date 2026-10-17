@@ -1,0 +1,947 @@
+[
+{
+"id": 2197,
+"Key": "orifice",
+"enUS": "orifice"
+},
+{
+"id": 3222,
+"Key": "Barrel",
+"enUS": "Barrel"
+},
+{
+"id": 3223,
+"Key": "Lever1",
+"enUS": "Lever"
+},
+{
+"id": 3224,
+"Key": "BarrelEx",
+"enUS": "an Exploding Barrel"
+},
+{
+"id": 3225,
+"Key": "Door",
+"enUS": "Closed Door"
+},
+{
+"id": 3226,
+"Key": "Portal",
+"enUS": "Portal to "
+},
+{
+"id": 3227,
+"Key": "ODoor",
+"enUS": "Open Door"
+},
+{
+"id": 3228,
+"Key": "BlockedDoor",
+"enUS": "Blocked Door"
+},
+{
+"id": 3229,
+"Key": "LockedDoor",
+"enUS": "Locked Door"
+},
+{
+"id": 3230,
+"Key": "StoneAlpha",
+"enUS": "Cairn Stone"
+},
+{
+"id": 3231,
+"Key": "StoneBeta",
+"enUS": "Cairn Stone"
+},
+{
+"id": 3232,
+"Key": "StoneDelta",
+"enUS": "Cairn Stone"
+},
+{
+"id": 3233,
+"Key": "StoneGamma",
+"enUS": "Cairn Stone"
+},
+{
+"id": 3234,
+"Key": "StoneLambda",
+"enUS": "Cairn Stone"
+},
+{
+"id": 3235,
+"Key": "StoneTheta",
+"enUS": "Cairn Stone"
+},
+{
+"id": 3236,
+"Key": "Crate",
+"enUS": "Crate"
+},
+{
+"id": 3237,
+"Key": "Casket",
+"enUS": "Casket"
+},
+{
+"id": 3238,
+"Key": "Cabinet",
+"enUS": "Cabinet"
+},
+{
+"id": 3239,
+"Key": "Vase",
+"enUS": "Vase"
+},
+{
+"id": 3240,
+"Key": "Inifuss",
+"enUS": "Tree of Inifuss"
+},
+{
+"id": 3241,
+"Key": "corpse",
+"enUS": "Corpse"
+},
+{
+"id": 3242,
+"Key": "RogueCorpse",
+"enUS": "Dead Rogue"
+},
+{
+"id": 3243,
+"Key": "CorpseOnStick",
+"enUS": "Dead Rogue"
+},
+{
+"id": 3244,
+"Key": "TowerTome",
+"enUS": "The Moldy Tome"
+},
+{
+"id": 3247,
+"Key": "ArmorStand",
+"enUS": "Armor Stand"
+},
+{
+"id": 3248,
+"Key": "WeaponRack",
+"enUS": "Weapon Rack"
+},
+{
+"id": 3249,
+"Key": "Sarcophagus",
+"enUS": "Sarcophagus"
+},
+{
+"id": 3250,
+"Key": "Trap Door",
+"enUS": "Trap Door"
+},
+{
+"id": 3251,
+"Key": "LargeUrn",
+"enUS": "Large Urn"
+},
+{
+"id": 3252,
+"Key": "CanopicJar",
+"enUS": "Canopic Jar"
+},
+{
+"id": 3253,
+"Key": "Obelisk",
+"enUS": "Obelisk"
+},
+{
+"id": 3254,
+"Key": "HoleAnim",
+"enUS": "Undefiled Grave"
+},
+{
+"id": 3256,
+"Key": "Urn",
+"enUS": "Urn"
+},
+{
+"id": 3258,
+"Key": "Well",
+"enUS": "Well"
+},
+{
+"id": 3259,
+"Key": "bag",
+"enUS": "Bag"
+},
+{
+"id": 3260,
+"Key": "Chest",
+"enUS": "Chest"
+},
+{
+"id": 3261,
+"Key": "chest",
+"enUS": "Chest"
+},
+{
+"id": 3262,
+"Key": "lockedchest",
+"enUS": "Locked Chest"
+},
+{
+"id": 3264,
+"Key": "templeshrine",
+"enUS": "shrine"
+},
+{
+"id": 3265,
+"Key": "stair",
+"enUS": "Stair"
+},
+{
+"id": 3266,
+"Key": "coffin",
+"enUS": "Coffin"
+},
+{
+"id": 3267,
+"Key": "bookshelf",
+"enUS": "Bookshelf"
+},
+{
+"id": 3268,
+"Key": "loose boulder",
+"enUS": "Loose Boulder"
+},
+{
+"id": 3269,
+"Key": "loose rock",
+"enUS": "Loose Rock"
+},
+{
+"id": 3270,
+"Key": "hollow log",
+"enUS": "Hollow Log"
+},
+{
+"id": 3271,
+"Key": "hiding spot",
+"enUS": "Hiding Spot"
+},
+{
+"id": 3272,
+"Key": "fire",
+"enUS": "Fire"
+},
+{
+"id": 3273,
+"Key": "Chest3",
+"enUS": "Chest"
+},
+{
+"id": 3274,
+"Key": "hidden stash",
+"enUS": "Hidden Stash"
+},
+{
+"id": 3275,
+"Key": "GuardCorpse",
+"enUS": "Guard Corpse"
+},
+{
+"id": 3276,
+"Key": "bowl",
+"enUS": "Bowl"
+},
+{
+"id": 3278,
+"Key": "AmbientSound",
+"enUS": "Ambient Sound"
+},
+{
+"id": 3280,
+"Key": "burning body",
+"enUS": "Burning Body"
+},
+{
+"id": 3282,
+"Key": "door",
+"enUS": "Door"
+},
+{
+"id": 3284,
+"Key": "skullpile",
+"enUS": "Skullpile"
+},
+{
+"id": 3285,
+"Key": "cocoon",
+"enUS": "Cocoon"
+},
+{
+"id": 3286,
+"Key": "gidbinn altar",
+"enUS": "Gidbinn Altar"
+},
+{
+"id": 3287,
+"Key": "cowa",
+"enUS": "Cow"
+},
+{
+"id": 3288,
+"Key": "manashrine",
+"enUS": "Shrine"
+},
+{
+"id": 3290,
+"Key": "ratchest",
+"enUS": "Chest"
+},
+{
+"id": 3292,
+"Key": "bank",
+"enUS": "Your Private Stash"
+},
+{
+"id": 3293,
+"Key": "goo pile",
+"enUS": "Goo Pile"
+},
+{
+"id": 3294,
+"Key": "holyshrine",
+"enUS": "Holyshrine"
+},
+{
+"id": 3295,
+"Key": "teleportation pad",
+"enUS": "Teleport Pad"
+},
+{
+"id": 3296,
+"Key": "ratchest-r",
+"enUS": "Ratchest"
+},
+{
+"id": 3297,
+"Key": "skull pile",
+"enUS": "Skull Pile"
+},
+{
+"id": 3298,
+"Key": "body",
+"enUS": "Body"
+},
+{
+"id": 3299,
+"Key": "hell bridge",
+"enUS": "Hell Bridge"
+},
+{
+"id": 3300,
+"Key": "compellingorb",
+"enUS": "Compelling Orb"
+},
+{
+"id": 3301,
+"Key": "basket",
+"enUS": "Basket"
+},
+{
+"id": 3302,
+"Key": "Basket",
+"enUS": "Basket"
+},
+{
+"id": 3303,
+"Key": "RockPIle",
+"enUS": "Rock Pile"
+},
+{
+"id": 3305,
+"Key": "dead body",
+"enUS": "Dead Body"
+},
+{
+"id": 3306,
+"Key": "eunuch",
+"enUS": "Eunuch"
+},
+{
+"id": 3307,
+"Key": "dead guard",
+"enUS": "Dead Guard"
+},
+{
+"id": 3308,
+"Key": "portal",
+"enUS": "Portal"
+},
+{
+"id": 3309,
+"Key": "sarcophagus",
+"enUS": "Sarcophagus"
+},
+{
+"id": 3310,
+"Key": "dead villager",
+"enUS": "Dead Villager"
+},
+{
+"id": 3311,
+"Key": "sewer lever",
+"enUS": "Sewer Lever"
+},
+{
+"id": 3312,
+"Key": "sewer stairs",
+"enUS": "Sewer Stairs"
+},
+{
+"id": 3313,
+"Key": "magic shrine",
+"enUS": "Magic Shrine"
+},
+{
+"id": 3315,
+"Key": "stash",
+"enUS": "Stash"
+},
+{
+"id": 3316,
+"Key": "guyq",
+"enUS": "Suffering Soul"
+},
+{
+"id": 3317,
+"Key": "taintedsunaltar",
+"enUS": "Tainted Sun Altar"
+},
+{
+"id": 3318,
+"Key": "Hellforge",
+"enUS": "Hellforge"
+},
+{
+"id": 3320,
+"Key": "fissure",
+"enUS": "fissure"
+},
+{
+"id": 3321,
+"Key": "BoneChest",
+"enUS": "Bone Chest"
+},
+{
+"id": 3322,
+"Key": "casket",
+"enUS": "Casket"
+},
+{
+"id": 3323,
+"Key": "HungSkeleton",
+"enUS": "Hung Skeleton"
+},
+{
+"id": 3324,
+"Key": "pillar",
+"enUS": "Pillar"
+},
+{
+"id": 3326,
+"Key": "Turret",
+"enUS": "a Turret"
+},
+{
+"id": 3327,
+"Key": "a trap",
+"enUS": "a Trap"
+},
+{
+"id": 22484,
+"Key": "POW",
+"enUS": "Barbarian Captive"
+},
+{
+"id": 22520,
+"Key": "chestr",
+"enUS": "Chest"
+},
+{
+"id": 22521,
+"Key": "barrel wilderness",
+"enUS": "Barrel"
+},
+{
+"id": 22522,
+"Key": "woodchestL",
+"enUS": "Wooden Chest"
+},
+{
+"id": 22523,
+"Key": "burialchestL",
+"enUS": "Burial Chest"
+},
+{
+"id": 22524,
+"Key": "burialchestR",
+"enUS": "Burial Chest"
+},
+{
+"id": 22525,
+"Key": "well",
+"enUS": "Well"
+},
+{
+"id": 22526,
+"Key": "Waypoint",
+"enUS": "Waypoint"
+},
+{
+"id": 22527,
+"Key": "ChestL",
+"enUS": "Chest"
+},
+{
+"id": 22528,
+"Key": "ChestSL",
+"enUS": "Chest"
+},
+{
+"id": 22529,
+"Key": "ChestSR",
+"enUS": "Chest"
+},
+{
+"id": 22530,
+"Key": "woodchestR",
+"enUS": "Wooden Chest"
+},
+{
+"id": 22531,
+"Key": "chestR",
+"enUS": "Chest"
+},
+{
+"id": 22532,
+"Key": "burningbodies",
+"enUS": "Pyre of Flesh"
+},
+{
+"id": 22533,
+"Key": "burningpit",
+"enUS": "Burning Pit"
+},
+{
+"id": 22534,
+"Key": "tribal flag",
+"enUS": "Tribal Flag"
+},
+{
+"id": 22535,
+"Key": "flag widlerness",
+"enUS": "Flag"
+},
+{
+"id": 22536,
+"Key": "eflg",
+"enUS": "Town Flag"
+},
+{
+"id": 22537,
+"Key": "chan",
+"enUS": "Chandelier"
+},
+{
+"id": 22538,
+"Key": "jar",
+"enUS": "Jar"
+},
+{
+"id": 22539,
+"Key": "jar2",
+"enUS": "Jar"
+},
+{
+"id": 22540,
+"Key": "jar3",
+"enUS": "Jar"
+},
+{
+"id": 22541,
+"Key": "swingingheads",
+"enUS": "Swinging Heads"
+},
+{
+"id": 22542,
+"Key": "pole",
+"enUS": "Pole"
+},
+{
+"id": 22543,
+"Key": "animatedskullsandrocks",
+"enUS": "Skulls and Rocks"
+},
+{
+"id": 22544,
+"Key": "hellgate",
+"enUS": "Hell Gate"
+},
+{
+"id": 22545,
+"Key": "gate",
+"enUS": "Main Gate"
+},
+{
+"id": 22546,
+"Key": "banner1",
+"enUS": "Banner"
+},
+{
+"id": 22547,
+"Key": "banner2",
+"enUS": "Banner"
+},
+{
+"id": 22548,
+"Key": "mrpole",
+"enUS": "Pole"
+},
+{
+"id": 22549,
+"Key": "pene",
+"enUS": "Stash"
+},
+{
+"id": 22550,
+"Key": "debris",
+"enUS": "Debris"
+},
+{
+"id": 22551,
+"Key": "woodchest2R",
+"enUS": "Wooden Chest"
+},
+{
+"id": 22552,
+"Key": "woodchest2L",
+"enUS": "Wooden Chest"
+},
+{
+"id": 22553,
+"Key": "object1",
+"enUS": "Hidden Stash"
+},
+{
+"id": 22554,
+"Key": "magic shrine2",
+"enUS": "Magic Shrine"
+},
+{
+"id": 22555,
+"Key": "torch2",
+"enUS": "Torch"
+},
+{
+"id": 22556,
+"Key": "torch1",
+"enUS": "Torch"
+},
+{
+"id": 22557,
+"Key": "tomb3",
+"enUS": "Tomb"
+},
+{
+"id": 22558,
+"Key": "tomb2",
+"enUS": "Tomb"
+},
+{
+"id": 22559,
+"Key": "tomb1",
+"enUS": "Tomb"
+},
+{
+"id": 22560,
+"Key": "ttor",
+"enUS": "Torch"
+},
+{
+"id": 22561,
+"Key": "icecave_torch2",
+"enUS": "Torch"
+},
+{
+"id": 22562,
+"Key": "icecave_torch1",
+"enUS": "Torch"
+},
+{
+"id": 22563,
+"Key": "clientsmoke",
+"enUS": "Smoke"
+},
+{
+"id": 22564,
+"Key": "deadbarbarian",
+"enUS": "Dead Barbarian"
+},
+{
+"id": 22565,
+"Key": "deadbarbarian18",
+"enUS": "Dead Barbarian"
+},
+{
+"id": 22566,
+"Key": "uncle f#%* comedy central(c)",
+"enUS": "Moe"
+},
+{
+"id": 22567,
+"Key": "cagedwussie1",
+"enUS": "Cage"
+},
+{
+"id": 22568,
+"Key": "icecaveshrine2",
+"enUS": "Shrine"
+},
+{
+"id": 22569,
+"Key": "icecavejar4",
+"enUS": "Jar"
+},
+{
+"id": 22570,
+"Key": "icecavejar3",
+"enUS": "Jar"
+},
+{
+"id": 22571,
+"Key": "icecavejar2",
+"enUS": "Jar"
+},
+{
+"id": 22572,
+"Key": "icecavejar1",
+"enUS": "Jar"
+},
+{
+"id": 22573,
+"Key": "evilurn",
+"enUS": "Evil Urn"
+},
+{
+"id": 22574,
+"Key": "secret object",
+"enUS": "secret object"
+},
+{
+"id": 22575,
+"Key": "Altar",
+"enUS": "Altar"
+},
+{
+"id": 22576,
+"Key": "Ldeathpole",
+"enUS": "Death Pole"
+},
+{
+"id": 22577,
+"Key": "deathpole",
+"enUS": "Death Pole"
+},
+{
+"id": 22578,
+"Key": "explodingchest",
+"enUS": "Chest"
+},
+{
+"id": 22579,
+"Key": "banner 2",
+"enUS": "Banner"
+},
+{
+"id": 22580,
+"Key": "banner 1",
+"enUS": "Banner"
+},
+{
+"id": 22581,
+"Key": "pileofskullsandrocks",
+"enUS": "Skulls and Rocks"
+},
+{
+"id": 22582,
+"Key": "animated skulland rockpile",
+"enUS": "Skulls and Rocks"
+},
+{
+"id": 22583,
+"Key": "jar1",
+"enUS": "Jar"
+},
+{
+"id": 22584,
+"Key": "etorch2",
+"enUS": "Torch"
+},
+{
+"id": 22585,
+"Key": "ettr",
+"enUS": "Torch"
+},
+{
+"id": 22586,
+"Key": "ecfra",
+"enUS": "Fire"
+},
+{
+"id": 22587,
+"Key": "etorch1",
+"enUS": "Torch"
+},
+{
+"id": 22588,
+"Key": "healthshrine",
+"enUS": "Health Shrine"
+},
+{
+"id": 22589,
+"Key": "explodingbarrel",
+"enUS": "Barrel"
+},
+{
+"id": 22590,
+"Key": "flag wilderness",
+"enUS": "Flag"
+},
+{
+"id": 22591,
+"Key": "object",
+"enUS": "Hidden Stash"
+},
+{
+"id": 22594,
+"Key": "pyox",
+"enUS": "Fire Pit"
+},
+{
+"id": 22595,
+"Key": "ptox",
+"enUS": "Torch Pit"
+},
+{
+"id": 22596,
+"Key": "Siege Control",
+"enUS": "Siege Control"
+},
+{
+"id": 22597,
+"Key": "mrjar",
+"enUS": "Hidden Stash"
+},
+{
+"id": 22598,
+"Key": "object2",
+"enUS": "Hidden Stash"
+},
+{
+"id": 22599,
+"Key": "mrbox",
+"enUS": "Box"
+},
+{
+"id": 22600,
+"Key": "tomb3L",
+"enUS": "Tomb"
+},
+{
+"id": 22601,
+"Key": "tomb2L",
+"enUS": "Tomb"
+},
+{
+"id": 22602,
+"Key": "tomb1L",
+"enUS": "Tomb"
+},
+{
+"id": 22603,
+"Key": "red light",
+"enUS": "Red Light"
+},
+{
+"id": 22604,
+"Key": "groundtombL",
+"enUS": "Tomb"
+},
+{
+"id": 22605,
+"Key": "groundtomb",
+"enUS": "Tomb"
+},
+{
+"id": 22606,
+"Key": "deadperson",
+"enUS": "Corpse"
+},
+{
+"id": 22607,
+"Key": "candles",
+"enUS": "Candles"
+},
+{
+"id": 22608,
+"Key": "sbub",
+"enUS": "Shrub"
+},
+{
+"id": 22609,
+"Key": "ubub",
+"enUS": "Shrub"
+},
+{
+"id": 22610,
+"Key": "deadperson2",
+"enUS": "Corpse"
+},
+{
+"id": 22611,
+"Key": "Prison Door",
+"enUS": "Prison Door"
+},
+{
+"id": 22612,
+"Key": "ancientsaltar",
+"enUS": "Altar of the Heavens"
+},
+{
+"id": 22613,
+"Key": "hiddenstash",
+"enUS": "Hidden Stash"
+},
+{
+"id": 22614,
+"Key": "eweaponrackL",
+"enUS": "Weapon Rack"
+},
+{
+"id": 22615,
+"Key": "eweaponrackR",
+"enUS": "Weapon Rack"
+},
+{
+"id": 22616,
+"Key": "earmorstandL",
+"enUS": "Armor Stand"
+},
+{
+"id": 22617,
+"Key": "earmorstandR",
+"enUS": "Armor Stand"
+}
+]

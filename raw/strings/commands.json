@@ -1,0 +1,1082 @@
+[
+{
+"id": 25000,
+"Key": "D2CommandsFriends",
+"enUS": "friends"
+},
+{
+"id": 25001,
+"Key": "D2CommandsFriendsList",
+"enUS": "list"
+},
+{
+"id": 25002,
+"Key": "D2CommandsFriendsListHelp",
+"enUS": "Lists all of your Battle.net friends."
+},
+{
+"id": 25003,
+"Key": "D2CommandsFriendsAdd",
+"enUS": "add"
+},
+{
+"id": 25004,
+"Key": "D2CommandsFriendsAddHelp",
+"enUS": "Send an invite to become Battle.net friends with another player."
+},
+{
+"id": 25005,
+"Key": "D2CommandsFriendsRemove",
+"enUS": "remove"
+},
+{
+"id": 25006,
+"Key": "D2CommandsFriendsRemoveHelp",
+"enUS": "Removes an account from your Battle.net friends list."
+},
+{
+"id": 25007,
+"Key": "D2CommandsFriendsMsg",
+"enUS": "msg"
+},
+{
+"id": 25008,
+"Key": "D2CommandsFriendsMsgHelp",
+"enUS": "Sends a message to everyone on your friends list."
+},
+{
+"id": 25009,
+"Key": "D2CommandsFriendsAccept",
+"enUS": "accept"
+},
+{
+"id": 25010,
+"Key": "D2CommandsFriendsReject",
+"enUS": "reject"
+},
+{
+"id": 25011,
+"Key": "D2CommandsFriendsRevoke",
+"enUS": "revoke"
+},
+{
+"id": 25012,
+"Key": "D2CommandsFriendsListSent",
+"enUS": "sent"
+},
+{
+"id": 25013,
+"Key": "D2CommandsFriendsListRecv",
+"enUS": "received"
+},
+{
+"id": 25014,
+"Key": "D2CommandsFriendsResponseFriendsList",
+"enUS": "Friends:"
+},
+{
+"id": 25015,
+"Key": "D2CommandsFriendsResponseNoFriends",
+"enUS": "You don't have any friends."
+},
+{
+"id": 25016,
+"Key": "D2CommandsFriendsResponseNoFriendByName",
+"enUS": "You don't have a friend by that name."
+},
+{
+"id": 25017,
+"Key": "D2CommandsFriendsResponsePlayerNameExpected",
+"enUS": "Player name expected."
+},
+{
+"id": 25018,
+"Key": "D2CommandsFriendsResponseMessageExpected",
+"enUS": "Message expected."
+},
+{
+"id": 25019,
+"Key": "D2CommandsFriendsResponseInviteSent",
+"enUS": "Friend request sent to %s."
+},
+{
+"id": 25020,
+"Key": "D2CommandsFriendsResponseInviteSendFail",
+"enUS": "Failed to send request to %s."
+},
+{
+"id": 25021,
+"Key": "D2CommandsFriendsResponseTargetMaxInvites",
+"enUS": "%s has too many pending invites."
+},
+{
+"id": 25022,
+"Key": "D2CommandsFriendsResponseUserMaxInvites",
+"enUS": "You have too many still pending invites."
+},
+{
+"id": 25023,
+"Key": "D2CommandsFriendsResponseAlreadyFriend",
+"enUS": "You are already friends with %s."
+},
+{
+"id": 25024,
+"Key": "D2CommandsFriendsInviteExists",
+"enUS": "You have already invited %s."
+},
+{
+"id": 25025,
+"Key": "D2CommandsFriendsUserMaxFriends",
+"enUS": "You cannot add more friends."
+},
+{
+"id": 25026,
+"Key": "D2CommandsFriendsTargetMaxFriends",
+"enUS": "%s cannot add more friends."
+},
+{
+"id": 25027,
+"Key": "D2CommandsFriendsInviteInvalid",
+"enUS": "The given invite is no longer valid."
+},
+{
+"id": 25028,
+"Key": "D2CommandsAccountIsBlocked",
+"enUS": "You have blocked %s."
+},
+{
+"id": 25029,
+"Key": "D2CommandsFriendsResponseRecvInvitesPending",
+"enUS": "Invites pending:"
+},
+{
+"id": 25030,
+"Key": "D2CommandsFriendsResponseSentInvitesPending",
+"enUS": "Sent invites pending:"
+},
+{
+"id": 25031,
+"Key": "D2CommandsFriendsResponseNoPendingRecvInvites",
+"enUS": "You have no pending invites."
+},
+{
+"id": 25032,
+"Key": "D2CommandsFriendsResponseNoPendingSentInvites",
+"enUS": "You have no pending sent invites."
+},
+{
+"id": 25033,
+"Key": "D2CommandsFriendsResponseNoPendingInviteFrom",
+"enUS": "No pending invite from %s"
+},
+{
+"id": 25034,
+"Key": "D2CommandsFriendsResponseNoPendingInviteTo",
+"enUS": "No pending invite sent to %s"
+},
+{
+"id": 25035,
+"Key": "D2CommandsChannel",
+"enUS": "channel"
+},
+{
+"id": 25036,
+"Key": "D2CommandsJoin",
+"enUS": "join"
+},
+{
+"id": 25037,
+"Key": "D2CommandsDesignate",
+"enUS": "designate"
+},
+{
+"id": 25038,
+"Key": "D2CommandsInvite",
+"enUS": "invite"
+},
+{
+"id": 25039,
+"Key": "D2CommandsKick",
+"enUS": "kick"
+},
+{
+"id": 25040,
+"Key": "D2CommandsLeave",
+"enUS": "leave"
+},
+{
+"id": 25041,
+"Key": "D2CommandsPrivate",
+"enUS": "private"
+},
+{
+"id": 25042,
+"Key": "D2CommandsWho",
+"enUS": "who"
+},
+{
+"id": 25043,
+"Key": "D2CommandsChannelResponseChannelNameExpected",
+"enUS": "Channel name expected."
+},
+{
+"id": 25044,
+"Key": "D2CommandsChannelResponseNotInChannel",
+"enUS": "Must specify channel name or be in a channel."
+},
+{
+"id": 25045,
+"Key": "D2CommandsChannelResponseMembersInChannel",
+"enUS": "Members in channel [%s]:"
+},
+{
+"id": 25046,
+"Key": "D2CommandsChannelResponseCantInviteNotPrivate",
+"enUS": "Players may only be invited to private channels."
+},
+{
+"id": 25047,
+"Key": "D2CommandsChannelResponseCantKickNotPrivate",
+"enUS": "Players may only be kicked from private channels."
+},
+{
+"id": 25048,
+"Key": "D2CommandsChannelResponseCantDesignateNotPrivate",
+"enUS": "Players may only be moderators in private channels."
+},
+{
+"id": 25049,
+"Key": "D2CommandsWhisper",
+"enUS": "whisper"
+},
+{
+"id": 25050,
+"Key": "D2CommandsMessage",
+"enUS": "message"
+},
+{
+"id": 25051,
+"Key": "D2CommandsDnd",
+"enUS": "dnd"
+},
+{
+"id": 25052,
+"Key": "D2CommandsDndDescription",
+"enUS": "Sets your online status to Busy"
+},
+{
+"id": 25053,
+"Key": "D2CommandsAway",
+"enUS": "away"
+},
+{
+"id": 25054,
+"Key": "D2CommandsAwayDescription",
+"enUS": "Sets your online status to Away"
+},
+{
+"id": 25055,
+"Key": "D2CommandsOnline",
+"enUS": "online"
+},
+{
+"id": 25056,
+"Key": "D2CommandsOnlineDescription",
+"enUS": "Sets your online status to Online"
+},
+{
+"id": 25057,
+"Key": "D2CommandsSetAvailability",
+"enUS": "setavailability"
+},
+{
+"id": 25058,
+"Key": "D2CommandsSetAvailabilityDescription",
+"enUS": "Sets your online status"
+},
+{
+"id": 25059,
+"Key": "D2CommandsOption",
+"enUS": "option"
+},
+{
+"id": 25060,
+"Key": "D2CommandsOptionDescription",
+"enUS": "Sets or clears an option."
+},
+{
+"id": 25061,
+"Key": "D2CommandsOptionSet",
+"enUS": "set"
+},
+{
+"id": 25062,
+"Key": "D2CommandsOptionSetDescription",
+"enUS": "Enables the option specified."
+},
+{
+"id": 25063,
+"Key": "D2CommandsOptionClear",
+"enUS": "clear"
+},
+{
+"id": 25064,
+"Key": "D2CommandsOptionClearDescription",
+"enUS": "Disables the option specified"
+},
+{
+"id": 25065,
+"Key": "D2CommandsD2Notify",
+"enUS": "d2notify"
+},
+{
+"id": 25066,
+"Key": "D2CommandsD2NotifyDescription",
+"enUS": "Option that controls if you're notified of players entering or exiting a channel."
+},
+{
+"id": 25067,
+"Key": "D2CommandsIgnoreWhisper",
+"enUS": "ignorewhisper"
+},
+{
+"id": 25068,
+"Key": "D2CommandsIgnoreWhisperDescription",
+"enUS": "Ignore messages from whispers."
+},
+{
+"id": 25069,
+"Key": "D2CommandsUnignoreWhisper",
+"enUS": "unignorewhisper"
+},
+{
+"id": 25070,
+"Key": "D2CommandsUnignoreWhisperDescription",
+"enUS": "Receive messages from whispers."
+},
+{
+"id": 25071,
+"Key": "D2CommandsIgnorePrivate",
+"enUS": "ignoreprivate"
+},
+{
+"id": 25072,
+"Key": "D2CommandsIgnorePrivateDescription",
+"enUS": "Ignore messages from private channels."
+},
+{
+"id": 25073,
+"Key": "D2CommandsUnignorePrivate",
+"enUS": "unignoreprivate"
+},
+{
+"id": 25074,
+"Key": "D2CommandsUnignorePrivateDescription",
+"enUS": "Receive messages from private channels."
+},
+{
+"id": 25075,
+"Key": "D2CommandsIgnorePublic",
+"enUS": "ignorepublic"
+},
+{
+"id": 25076,
+"Key": "D2CommandsIgnorePublicDescription",
+"enUS": "Ignore messages from public channels."
+},
+{
+"id": 25077,
+"Key": "D2CommandsUnignorePublic",
+"enUS": "unignorepublic"
+},
+{
+"id": 25078,
+"Key": "D2CommandsUnignorePublicDescription",
+"enUS": "Receive messages from public channels."
+},
+{
+"id": 25079,
+"Key": "D2CommandsTime",
+"enUS": "time"
+},
+{
+"id": 25080,
+"Key": "D2CommandsTimeDescription",
+"enUS": "Reports the current time."
+},
+{
+"id": 25081,
+"Key": "D2CommandsWhisperIgnoredResponse",
+"enUS": "I currently have whispers disabled, please try again later."
+},
+{
+"id": 25082,
+"Key": "D2CommandsFriendsResponseAcceptedInvite",
+"enUS": "Accepted friend request from %s."
+},
+{
+"id": 25083,
+"Key": "D2CommandsFriendsResponseFailedToAcceptInvite",
+"enUS": "Failed to accept friend request from %s."
+},
+{
+"id": 25084,
+"Key": "D2CommandsFriendsResponseRejectedInvite",
+"enUS": "Rejected friend request from %s."
+},
+{
+"id": 25085,
+"Key": "D2CommandsFriendsFailedToRejectInvite",
+"enUS": "Failed to reject friend request from %s."
+},
+{
+"id": 25086,
+"Key": "D2CommandsFriendsResponseRemove",
+"enUS": "Removed friend %s."
+},
+{
+"id": 25087,
+"Key": "D2CommandsFriendsResponseRemoveFailed",
+"enUS": "Failed to remove friend %s."
+},
+{
+"id": 25090,
+"Key": "D2CommandsBug",
+"enUS": "bug"
+},
+{
+"id": 25091,
+"Key": "D2CommandsBugDescription",
+"enUS": "File a bug or feedback."
+},
+{
+"id": 25092,
+"Key": "D2CommandsIgnore",
+"enUS": "ignore"
+},
+{
+"id": 25093,
+"Key": "D2CommandsIgnoreDescription",
+"enUS": "Ignore all communications from a player."
+},
+{
+"id": 25094,
+"Key": "D2CommandsUnignore",
+"enUS": "unignore"
+},
+{
+"id": 25095,
+"Key": "D2CommandsUnignoreDescription",
+"enUS": "Remove a player from your ignore list."
+},
+{
+"id": 25096,
+"Key": "D2CommandsWhoAmI",
+"enUS": "whoami"
+},
+{
+"id": 25097,
+"Key": "D2CommandsWhoAmIDescription",
+"enUS": "Displays your account information."
+},
+{
+"id": 25098,
+"Key": "D2CommandsWhoIs",
+"enUS": "whois"
+},
+{
+"id": 25099,
+"Key": "D2CommandsWhoIsDescription",
+"enUS": "Displays more info about the specified player."
+},
+{
+"id": 25100,
+"Key": "D2CommandsReply",
+"enUS": "reply"
+},
+{
+"id": 25101,
+"Key": "D2CommandsReplyDescription",
+"enUS": "Send a message to a player who has messaged you."
+},
+{
+"id": 25102,
+"Key": "D2CommandsNoPickUp",
+"enUS": "nopickup"
+},
+{
+"id": 25103,
+"Key": "D2CommandsNoPickUpDescription",
+"enUS": "Toggles whether or not you can pick up items."
+},
+{
+"id": 25105,
+"Key": "D2CommandsPlayers",
+"enUS": "players"
+},
+{
+"id": 25106,
+"Key": "D2CommandsPlayersDescription",
+"enUS": "Simulates more players in the game to increase drops and difficulty."
+},
+{
+"id": 25107,
+"Key": "D2CommandsUsers",
+"enUS": "users"
+},
+{
+"id": 25108,
+"Key": "D2CommandsUsersDescription",
+"enUS": "Displays the number of users and games."
+},
+{
+"id": 25109,
+"Key": "D2CommandsResign",
+"enUS": "resign"
+},
+{
+"id": 25110,
+"Key": "D2CommandsResignDescription",
+"enUS": "Step down from being a private channel moderator."
+},
+{
+"id": 25111,
+"Key": "D2CommandsIgnoreResponsePlayerAlreadyIgnored",
+"enUS": "This player is already being ignored."
+},
+{
+"id": 25112,
+"Key": "D2CommandsIgnoreResponsePlayerNotIgnored",
+"enUS": "This player is not being ignored."
+},
+{
+"id": 25113,
+"Key": "D2CommandsWhoAmIResponse",
+"enUS": "You are %s (%s)."
+},
+{
+"id": 25114,
+"Key": "D2CommandsResponseAmbiguousUser",
+"enUS": "Multiple users matched the name, %s. Please use a complete BattleTag."
+},
+{
+"id": 25115,
+"Key": "D2CommandsResponseNoUser",
+"enUS": "No users matched the information provided. Please specify a player name or BattleTag"
+},
+{
+"id": 25116,
+"Key": "D2CommandsResponseD2NotifyEnabled",
+"enUS": "Player entering/leaving notifications are enabled."
+},
+{
+"id": 25117,
+"Key": "D2CommandsResponseD2NotifyDisabled",
+"enUS": "Player entering/leaving notifications are disabled."
+},
+{
+"id": 25118,
+"Key": "D2CommandChannelDescription",
+"enUS": "Enter or create a public channel with the specified name."
+},
+{
+"id": 25119,
+"Key": "D2CommandDesignateDescription",
+"enUS": "Specify another player to be the moderator of a private channel."
+},
+{
+"id": 25120,
+"Key": "D2CommandFriendsDescription",
+"enUS": "Interact with your Battle.net friends."
+},
+{
+"id": 25121,
+"Key": "D2CommandFriendsAcceptDescription",
+"enUS": "Accept a friend request from another Battle.net player. Use the /friends list received command to see a list of pending requests."
+},
+{
+"id": 25122,
+"Key": "D2CommandFriendsRejectDescription",
+"enUS": "Reject a Battle.net friend request from another player. Use the /friends list received command to see a list of pending requests."
+},
+{
+"id": 25123,
+"Key": "D2CommandFriendsRevokeDescription",
+"enUS": "Revoke a Battle.net friend request sent to another player. Use the /friends list sent command to see a list of friend requests."
+},
+{
+"id": 25124,
+"Key": "D2CommandFriendsListSentDescription",
+"enUS": "Lists all of your sent Battle.net friend requests."
+},
+{
+"id": 25125,
+"Key": "D2CommandFriendsListReceivedDescription",
+"enUS": "Lists all of your recieved Battle.net friend requests."
+},
+{
+"id": 25126,
+"Key": "D2CommandInviteDescription",
+"enUS": "Invite another player into this channel."
+},
+{
+"id": 25127,
+"Key": "D2CommandKickDescription",
+"enUS": "Remove a player from a private channel."
+},
+{
+"id": 25128,
+"Key": "D2CommandLeaveDescription",
+"enUS": "Leave the current or specified channel."
+},
+{
+"id": 25129,
+"Key": "D2CommandMessageDescription",
+"enUS": "Send a private message to another player."
+},
+{
+"id": 25130,
+"Key": "D2CommandsPrivateDescription",
+"enUS": "Create a private channel with the specified name."
+},
+{
+"id": 25131,
+"Key": "D2CommandsWhoDescription",
+"enUS": "List the players in this channel."
+},
+{
+"id": 25132,
+"Key": "D2CommandsResponseIgnorePublic",
+"enUS": "You are ignoring messages from public channels."
+},
+{
+"id": 25133,
+"Key": "D2CommandsResponseIgnorePrivate",
+"enUS": "You are ignoring messages from private channels."
+},
+{
+"id": 25134,
+"Key": "D2CommandsResponseIgnoreWhisper",
+"enUS": "You are ignoring messages from whispers."
+},
+{
+"id": 25135,
+"Key": "D2CommandsResponseUnignorePublic",
+"enUS": "You are no longer ignoring messages from public channels."
+},
+{
+"id": 25136,
+"Key": "D2CommandsResponseUnignorePrivate",
+"enUS": "You are no longer ignoring messages from private channels."
+},
+{
+"id": 25137,
+"Key": "D2CommandsResponseUnignoreWhisper",
+"enUS": "You are no longer ignoring messages from whispers."
+},
+{
+"id": 25138,
+"Key": "D2CommandsChannelListDescription",
+"enUS": "List all of the channels you're currently in."
+},
+{
+"id": 25139,
+"Key": "D2CommandChannelListSentDescription",
+"enUS": "List all of the channels invites you've sent."
+},
+{
+"id": 25140,
+"Key": "D2CommandChannelListReceivedDescription",
+"enUS": "List all of the channels invites you've received."
+},
+{
+"id": 25141,
+"Key": "D2CommandChannelAcceptDescription",
+"enUS": "Accept an invite to a channel."
+},
+{
+"id": 25142,
+"Key": "D2CommandChannelRejectDescription",
+"enUS": "Reject an invite to a channel."
+},
+{
+"id": 25143,
+"Key": "D2CommandChannelResponseListChannels",
+"enUS": "Active Channels:"
+},
+{
+"id": 25144,
+"Key": "D2CommandChannelResponseListReceivedInvites",
+"enUS": "Received Channel Invitations:"
+},
+{
+"id": 25145,
+"Key": "D2CommandChannelResponseListSentInvites",
+"enUS": "Sent Channel Invitations:"
+},
+{
+"id": 25146,
+"Key": "D2CommandChannelTypePublic",
+"enUS": "public"
+},
+{
+"id": 25147,
+"Key": "D2CommandChannelTypePrivate",
+"enUS": "private"
+},
+{
+"id": 25148,
+"Key": "D2CommandChannelTypeDefault",
+"enUS": "default"
+},
+{
+"id": 25149,
+"Key": "D2CommandChannelResponseNoReceivedInvites",
+"enUS": "You haven't received any channel invitations."
+},
+{
+"id": 25150,
+"Key": "D2CommandChannelResponseCantFindInvite",
+"enUS": "Could not find an invite that matched the invite ID provided. Please use the /channel list received command to see a list of received channel invitations and enter the corresponding invite ID."
+},
+{
+"id": 25151,
+"Key": "D2CommandChannelResponseCantKickNoPermissions",
+"enUS": "Only channel moderators can kick players from private channels."
+},
+{
+"id": 25152,
+"Key": "D2CommandChannelResponseInviteReceived",
+"enUS": "%s has invited you to join a %s channel: %s"
+},
+{
+"id": 25153,
+"Key": "D2CommandResponseNoReply",
+"enUS": "No valid reply recipients."
+},
+{
+"id": 25154,
+"Key": "D2CommandChannelHelp",
+"enUS": "Interact with other players by joining, creating, and inviting others to chat channels."
+},
+{
+"id": 25155,
+"Key": "D2CommandsOffline",
+"enUS": "offline"
+},
+{
+"id": 25156,
+"Key": "D2CommandsOfflineDescription",
+"enUS": "Sets your online status to Offline"
+},
+{
+"id": 25157,
+"Key": "D2CommandChannelResponsePlayerKicked",
+"enUS": "%s was kicked from channel %s."
+},
+{
+"id": 25158,
+"Key": "D2CommandChannelResponsePlayerKickFailed",
+"enUS": "Could not kick %s from channel %s."
+},
+{
+"id": 25159,
+"Key": "D2CommandChannelResponseDesignateSuccess",
+"enUS": "You have designated %s as the moderator for channel %s."
+},
+{
+"id": 25160,
+"Key": "D2CommandChannelResponseDesignateFailed",
+"enUS": "Could not designate %s as the moderator for channel %s."
+},
+{
+"id": 25161,
+"Key": "D2CommandChannelResponseRejectSuccess",
+"enUS": "You rejected an invite to channel %s from %s."
+},
+{
+"id": 25162,
+"Key": "D2CommandChannelResponseRejectFailed",
+"enUS": "Could not reject invite to channel %s from %s."
+},
+{
+"id": 25163,
+"Key": "D2CommandChannelResponseAcceptSuccess",
+"enUS": "You accepted an invite to channel %s from %s."
+},
+{
+"id": 25164,
+"Key": "D2CommandChannelResponseAcceptFailed",
+"enUS": "Could not accept invite to channel %s from %s."
+},
+{
+"id": 25165,
+"Key": "D2CommandChannelResponseInviteSuccess",
+"enUS": "You invited %s to join channel %s."
+},
+{
+"id": 25166,
+"Key": "D2CommandChannelResponseInviteFailed",
+"enUS": "Could not invite %s to channel %s."
+},
+{
+"id": 25167,
+"Key": "D2CommandChannelResponseDesignateFailedNoPermissions",
+"enUS": "Only the channel moderator can designate a new moderator for private channels."
+},
+{
+"id": 25168,
+"Key": "D2CommandChannelResponseNewModerator",
+"enUS": "%s is now the moderator for channel %s."
+},
+{
+"id": 25169,
+"Key": "D2CommandChannelResponseBadChannelName",
+"enUS": "Invalid channel name."
+},
+{
+"id": 25170,
+"Key": "D2CommandsGameInviteSuccess",
+"enUS": "You invited %s to a game."
+},
+{
+"id": 25171,
+"Key": "D2CommandsGameInviteFailure",
+"enUS": "You failed to invite %s to a game."
+},
+{
+"id": 25172,
+"Key": "D2CommandsResponseSetPresenceSuccess",
+"enUS": "Your online status was set to %s."
+},
+{
+"id": 25173,
+"Key": "D2CommandsResponseSetPresenceFailed",
+"enUS": "Failed to set your online status to %s."
+},
+{
+"id": 25174,
+"Key": "D2CommandsResponseSetPresenceAlreadySet",
+"enUS": "Your online status is already set to %s."
+},
+{
+"id": 25175,
+"Key": "D2CommandsResponsePickupEnabled",
+"enUS": "Item Pickup Enabled"
+},
+{
+"id": 25176,
+"Key": "D2CommandsResponsePickupDisabled",
+"enUS": "Item Pickup Disabled"
+},
+{
+"id": 25177,
+"Key": "UnknownLeaderboardName",
+"enUS": " "
+},
+{
+"id": 25178,
+"Key": "strFraudWarning",
+"enUS": "Chat is temporarily unavailable because this account is under review. Please wait a few hours before restarting the application and trying again. The account can continue play in the meantime."
+},
+{
+"id": 25179,
+"Key": "D2CommandsFriendsRevoke",
+"enUS": "revoke"
+},
+{
+"id": 25181,
+"Key": "D2CommandsFriendsResponseRevokedInvite",
+"enUS": "Friend request revoked."
+},
+{
+"id": 25182,
+"Key": "D2CommandsFriendsFailedToRevokeInvite",
+"enUS": "Unable to revoke friend request."
+},
+{
+"id": 25183,
+"Key": "D2CommandFriendsRevokeDescription",
+"enUS": "Revokes a pending friend request."
+},
+{
+"id": 25184,
+"Key": "D2CommandsTimeDisplay",
+"enUS": "Local Time: %s\nServer Time: %s"
+},
+{
+"id": 25185,
+"Key": "D2CommandsLadder",
+"enUS": "ladder"
+},
+{
+"id": 25186,
+"Key": "D2CommandsLadderSeasonOnly",
+"enUS": "The current ladder season is %d."
+},
+{
+"id": 25187,
+"Key": "D2CommandsLadderSeasonAndDate",
+"enUS": "Season %d will end on %s."
+},
+{
+"id": 25188,
+"Key": "D2CommandsLadderNoSeason",
+"enUS": "There is no active ladder season."
+},
+{
+"id": 25189,
+"Key": "D2CommandsLadderUpcomingSeason",
+"enUS": "The next season will start on %s."
+},
+{
+"id": 25190,
+"Key": "D2CommandsLadderDescription",
+"enUS": "Displays the current season and when it will end if known."
+},
+{
+"id": 25191,
+"Key": "D2CommandsDateHelper",
+"enUS": "%m/%d/%Y %I:%M%p"
+},
+{
+"id": 25192,
+"Key": "D2CommandsUberDiablo",
+"enUS": "uberdiablo"
+},
+{
+"id": 25193,
+"Key": "D2CommandsUberDiabloDescription",
+"enUS": "Display the current progress towards an Uber Diablo spawn for the active game type."
+},
+{
+"id": 25194,
+"Key": "D2CommandsDesecrated",
+"enUS": "terrorized"
+},
+{
+"id": 25195,
+"Key": "D2CommandsDesecratedDescription",
+"enUS": "Display the current levels that are terrorized."
+},
+{
+"id": 25196,
+"Key": "D2CommandsDesecratedOnline",
+"enUS": "online"
+},
+{
+"id": 25197,
+"Key": "D2CommandsDesecratedOnlineDescription",
+"enUS": "Display the current online levels that are terrorized."
+},
+{
+"id": 25198,
+"Key": "D2CommandsDesecratedOffline",
+"enUS": "offline"
+},
+{
+"id": 25199,
+"Key": "D2CommandsDesecratedOfflineDescription",
+"enUS": "Display the current offline levels that are terrorized."
+},
+{
+"id": 25990,
+"Key": "D2CommandsHelp",
+"enUS": "help"
+},
+{
+"id": 25991,
+"Key": "D2CommandsHelpText",
+"enUS": "Type /%s TOPIC for information about a specific topic."
+},
+{
+"id": 25992,
+"Key": "D2CommandsHelpHelp",
+"enUS": "Displays help for a specific TOPIC"
+},
+{
+"id": 25993,
+"Key": "D2CommandsHelpExample",
+"enUS": "Example:"
+},
+{
+"id": 25994,
+"Key": "D2CommandsHelpCommandsAre",
+"enUS": "Commands are:"
+},
+{
+"id": 25995,
+"Key": "D2CommandsHelpParticularCommand",
+"enUS": "To get help on a particular command use"
+},
+{
+"id": 25996,
+"Key": "D2CommandsCommand",
+"enUS": "command"
+},
+{
+"id": 26385,
+"Key": "DebugDisplayFPS",
+"enUS": "FPS: %d"
+},
+{
+"id": 26386,
+"Key": "DebugDisplayPing",
+"enUS": "Ping: %d"
+},
+{
+"id": 26387,
+"Key": "DebugDisplayPhysicalMemory",
+"enUS": "Phys: %u / %u m"
+},
+{
+"id": 26388,
+"Key": "DebugDisplayMemoryPage",
+"enUS": "Page: %u / %u m"
+},
+{
+"id": 26389,
+"Key": "DebugDisplayVideo",
+"enUS": "Video: %s"
+},
+{
+"id": 26390,
+"Key": "DebugDisplayGFXMemory",
+"enUS": "GFX Memory -> %i"
+},
+{
+"id": 26391,
+"Key": "DebugDisplayCOFMemory",
+"enUS": "COF Memory -> %i of %i"
+},
+{
+"id": 26392,
+"Key": "DebugDisplaySpriteCacheMemory",
+"enUS": "Sprite Cache Memory -> %u of %u"
+},
+{
+"id": 26393,
+"Key": "DebugDisplayCELDataCacheMemory",
+"enUS": "CEL Data Cache Memory -> %u of %u"
+},
+{
+"id": 26394,
+"Key": "DebugDisplayTileCache",
+"enUS": "Tile Cache: (%.2fK) %3.2f%%, Misses: %d, %d percent utilized"
+},
+{
+"id": 27001,
+"Key": "strSpamWarning",
+"enUS": "Please wait a moment before sending additional messages."
+},
+{
+"id": 27054,
+"Key": "D2CommandsChannelResponseCantInvite",
+"enUS": "You may not invite a player to that channel."
+},
+{
+"id": 251780,
+"Key": "D2CommandsFriendsNoInviteTo",
+"enUS": "No pending invite to %s"
+}
+]

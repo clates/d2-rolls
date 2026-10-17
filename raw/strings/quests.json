@@ -1,0 +1,797 @@
+[
+{
+"id": 922,
+"Key": "qstsa2q0",
+"enUS": "Act 2 Prologue"
+},
+{
+"id": 923,
+"Key": "qstsa2q1",
+"enUS": "Radament's Lair"
+},
+{
+"id": 924,
+"Key": "qstsa2q2",
+"enUS": "The Horadric Staff"
+},
+{
+"id": 925,
+"Key": "qstsa2q3",
+"enUS": "Tainted Sun"
+},
+{
+"id": 926,
+"Key": "qstsa2q4",
+"enUS": "Arcane Sanctuary"
+},
+{
+"id": 927,
+"Key": "qstsa2q5",
+"enUS": "The Summoner"
+},
+{
+"id": 928,
+"Key": "qstsa2q6",
+"enUS": "The Seven Tombs"
+},
+{
+"id": 929,
+"Key": "qstsa3q0",
+"enUS": "Act 3 Prologue"
+},
+{
+"id": 930,
+"Key": "qstsa3q1",
+"enUS": "Lam Esen's Tome"
+},
+{
+"id": 931,
+"Key": "qstsa3q2",
+"enUS": "Khalim's Will"
+},
+{
+"id": 932,
+"Key": "qstsa3q3",
+"enUS": "Blade of the Old Religion"
+},
+{
+"id": 933,
+"Key": "qstsa3q4",
+"enUS": "The Golden Bird"
+},
+{
+"id": 934,
+"Key": "qstsa3q5",
+"enUS": "The Blackened Temple"
+},
+{
+"id": 935,
+"Key": "qstsa3q6",
+"enUS": "The Guardian"
+},
+{
+"id": 936,
+"Key": "qstsa4q0",
+"enUS": "Act 4 Prologue"
+},
+{
+"id": 937,
+"Key": "qstsa4q1",
+"enUS": "The Fallen Angel"
+},
+{
+"id": 938,
+"Key": "qstsa4q2",
+"enUS": "Terror's End"
+},
+{
+"id": 939,
+"Key": "qstsa4q3",
+"enUS": "Hell's Forge"
+},
+{
+"id": 940,
+"Key": "qstsa2q01",
+"enUS": "Lut Gholein"
+},
+{
+"id": 941,
+"Key": "qstsa2q11",
+"enUS": "Find Radament's Lair in the Lut Gholein sewers."
+},
+{
+"id": 942,
+"Key": "qstsa2q12",
+"enUS": "Kill Radament."
+},
+{
+"id": 943,
+"Key": "qstsa2q13",
+"enUS": "Return to Atma for a reward."
+},
+{
+"id": 944,
+"Key": "qstsa2q21",
+"enUS": "Show the scroll to Cain in Lut Gholein."
+},
+{
+"id": 945,
+"Key": "qstsa2q22",
+"enUS": "Search the Halls of the Dead under the Dry Hills for the Cube. Search the Maggot Lair under the Far Oasis for the Shaft. Search the Claw Viper Temple for the Headpiece."
+},
+{
+"id": 946,
+"Key": "qstsa2q23",
+"enUS": "Use the Horadric Cube to restore the Staff."
+},
+{
+"id": 947,
+"Key": "qstsa2q24",
+"enUS": "Take the Staff into Tal Rasha's Tomb."
+},
+{
+"id": 948,
+"Key": "qstsa2q25",
+"enUS": "Take the artifacts to Cain in Lut Gholein."
+},
+{
+"id": 949,
+"Key": "qstsa2q31",
+"enUS": "Look for the source of the darkness."
+},
+{
+"id": 950,
+"Key": "qstsa2q31a",
+"enUS": "Ask Drognan about the strange darkness."
+},
+{
+"id": 951,
+"Key": "qstsa2q32",
+"enUS": "Destroy the Serpent Altar in the Claw Viper Temple beneath the Valley of Snakes."
+},
+{
+"id": 952,
+"Key": "qstsa2q33",
+"enUS": "Speak with the townsfolk in Lut Gholein."
+},
+{
+"id": 953,
+"Key": "qstsa2q41",
+"enUS": "Look for the Arcane Sanctuary within the Palace."
+},
+{
+"id": 954,
+"Key": "qstsa2q41a",
+"enUS": "Talk to Drognan."
+},
+{
+"id": 955,
+"Key": "qstsa2q42",
+"enUS": "Find Horazon's Journal."
+},
+{
+"id": 956,
+"Key": "qstsa2q43",
+"enUS": "Continue the search for the Seventh Tomb."
+},
+{
+"id": 957,
+"Key": "qstsa2q51",
+"enUS": "Beware the Summoner."
+},
+{
+"id": 958,
+"Key": "qstsa2q52",
+"enUS": "Kill the Summoner."
+},
+{
+"id": 959,
+"Key": "qstsa2q53",
+"enUS": "Return to town for more information."
+},
+{
+"id": 960,
+"Key": "qstsa2q61",
+"enUS": "Find Tal Rasha's Tomb."
+},
+{
+"id": 961,
+"Key": "qstsa2q61a",
+"enUS": "The Symbol of the True Tomb of Tal Rasha."
+},
+{
+"id": 962,
+"Key": "qstsa2q62",
+"enUS": "Kill Duriel."
+},
+{
+"id": 963,
+"Key": "qstsa2q63",
+"enUS": "Explore Tal Rasha'a Chamber."
+},
+{
+"id": 964,
+"Key": "qstsa2q63a",
+"enUS": "Talk to Jerhyn."
+},
+{
+"id": 965,
+"Key": "qstsa2q64",
+"enUS": "Talk to Jerhyn."
+},
+{
+"id": 966,
+"Key": "qstsa2q65",
+"enUS": "Talk to Meshif."
+},
+{
+"id": 967,
+"Key": "qstsa3q01",
+"enUS": "Jungle Village"
+},
+{
+"id": 968,
+"Key": "qstsa3q11",
+"enUS": "Search the six temples in the Bazaar, Upper Kurast, and the Causeway for Lam Esen's Tome."
+},
+{
+"id": 969,
+"Key": "qstsa3q12",
+"enUS": "Talk to Alkor."
+},
+{
+"id": 970,
+"Key": "qstsa3q21",
+"enUS": "Find Khalim's relics. Search for his Eye in the Spider Cavern."
+},
+{
+"id": 971,
+"Key": "qstsa3q22",
+"enUS": "Search for Khalim's Brain in the Flayer Dungeon."
+},
+{
+"id": 972,
+"Key": "qstsa3q23",
+"enUS": "Search for Khalim's Flail in Travincal. Beware the High Council."
+},
+{
+"id": 973,
+"Key": "qstsa3q24",
+"enUS": "Search for Khalim's Heart in the Sewers under the Kurast Bazaar."
+},
+{
+"id": 974,
+"Key": "qstsa3q25",
+"enUS": "Transmute Khalim's relics - the Flail, Eye, Heart, and Brain - with the Horadric Cube."
+},
+{
+"id": 975,
+"Key": "qstsa3q26",
+"enUS": "Use Khalim's Will to smash the Compelling Orb."
+},
+{
+"id": 976,
+"Key": "qstsa3q21a",
+"enUS": "Ask Cain about Khalim's relics."
+},
+{
+"id": 977,
+"Key": "qstsa3q31",
+"enUS": "Look for the Gidbinn in the Flayer Jungle."
+},
+{
+"id": 978,
+"Key": "qstsa3q32",
+"enUS": "Pick up the Gidbinn."
+},
+{
+"id": 979,
+"Key": "qstsa3q33",
+"enUS": "Return the Gidbinn to Ormus."
+},
+{
+"id": 980,
+"Key": "qstsa3q34",
+"enUS": "Talk to Asheara."
+},
+{
+"id": 981,
+"Key": "qstsa3q35",
+"enUS": "Talk to Ormus."
+},
+{
+"id": 982,
+"Key": "qstsa3q41",
+"enUS": "Ask Cain about the Jade Figurine."
+},
+{
+"id": 983,
+"Key": "qstsa3q42",
+"enUS": "Show Meshif the Figurine."
+},
+{
+"id": 984,
+"Key": "qstsa3q43",
+"enUS": "Ask Cain about the Golden Bird."
+},
+{
+"id": 985,
+"Key": "qstsa3q44",
+"enUS": "Give the Golden Bird to Alkor."
+},
+{
+"id": 986,
+"Key": "qstsa3q45",
+"enUS": "Return to Alkor for reward."
+},
+{
+"id": 987,
+"Key": "qstsa3q51",
+"enUS": "Find the Blackened Temple within Travincal."
+},
+{
+"id": 988,
+"Key": "qstsa3q52",
+"enUS": "Kill the High Council."
+},
+{
+"id": 989,
+"Key": "qstsa3q53",
+"enUS": "Ask Cain for help."
+},
+{
+"id": 990,
+"Key": "qstsa3q61",
+"enUS": "Smash the Compelling Orb with Khalim's Will to open the way to Mephisto's Durance."
+},
+{
+"id": 991,
+"Key": "qstsa3q62",
+"enUS": "Search for Mephisto in his Durance."
+},
+{
+"id": 992,
+"Key": "qstsa3q63",
+"enUS": "Kill Mephisto."
+},
+{
+"id": 993,
+"Key": "qstsa3q31a",
+"enUS": "Ask around the Docks about the Gidbinn."
+},
+{
+"id": 994,
+"Key": "qstsa3q51a",
+"enUS": "Ask Ormus about the Blackened Temple."
+},
+{
+"id": 995,
+"Key": "qstsa3q61a",
+"enUS": "Ormus has news about the Guardian."
+},
+{
+"id": 996,
+"Key": "qstsa4q11",
+"enUS": "Look for Izual in the Plains of Despair."
+},
+{
+"id": 997,
+"Key": "qstsa4q12",
+"enUS": "Destroy the demon that holds Izual's soul."
+},
+{
+"id": 998,
+"Key": "qstsa4q13a",
+"enUS": "Talk to Izual's Spirit."
+},
+{
+"id": 999,
+"Key": "qstsa4q13",
+"enUS": "See Tyrael for reward."
+},
+{
+"id": 1000,
+"Key": "qstsa4q31",
+"enUS": "Take Mephisto's Soulstone to the Hellforge."
+},
+{
+"id": 1001,
+"Key": "qstsa4q32",
+"enUS": "Destroy Mephisto's Soulstone at the Hellforge."
+},
+{
+"id": 1002,
+"Key": "qstsa4q33",
+"enUS": "Use the Hellforge Hammer on the Forge."
+},
+{
+"id": 1003,
+"Key": "qstsa4q34",
+"enUS": "Consult with Cain."
+},
+{
+"id": 1004,
+"Key": "qstsa4q21",
+"enUS": "Find Diablo in his Sanctuary."
+},
+{
+"id": 1005,
+"Key": "qstsa4q22",
+"enUS": "Kill Diablo."
+},
+{
+"id": 1006,
+"Key": "qstsa4q23",
+"enUS": "Break the remaining %d seals."
+},
+{
+"id": 1007,
+"Key": "qstsa4q24",
+"enUS": "Break the final seal."
+},
+{
+"id": 3711,
+"Key": "qstsa1qt",
+"enUS": "The Townspeople"
+},
+{
+"id": 3712,
+"Key": "qstsa1qt0",
+"enUS": "introduction"
+},
+{
+"id": 3713,
+"Key": "qstsa1q0",
+"enUS": "Act 1 Prologue"
+},
+{
+"id": 3714,
+"Key": "qstsa1q1",
+"enUS": "Den of Evil"
+},
+{
+"id": 3715,
+"Key": "qstsa1q2",
+"enUS": "Sisters' Burial Grounds"
+},
+{
+"id": 3716,
+"Key": "qstsa1q3",
+"enUS": "Tools of the Trade"
+},
+{
+"id": 3717,
+"Key": "qstsa1q4",
+"enUS": "The Search for Cain"
+},
+{
+"id": 3718,
+"Key": "qstsa1q5",
+"enUS": "The Forgotten Tower"
+},
+{
+"id": 3719,
+"Key": "qstsa1q6",
+"enUS": "Sisters to the Slaughter"
+},
+{
+"id": 3735,
+"Key": "qstsa1q11",
+"enUS": "Look for the Den in the wilderness outside the Rogues' Camp."
+},
+{
+"id": 3736,
+"Key": "qstsa1q12",
+"enUS": "Kill all the monsters in the Den."
+},
+{
+"id": 3737,
+"Key": "qstsa1q13",
+"enUS": ""
+},
+{
+"id": 3738,
+"Key": "qstsa1q14",
+"enUS": "Monsters remaining: %d"
+},
+{
+"id": 3739,
+"Key": "qstsa1q140",
+"enUS": "One monster left."
+},
+{
+"id": 3740,
+"Key": "qstsa1q15",
+"enUS": "Return to Akara for a reward."
+},
+{
+"id": 3741,
+"Key": "qstsa1q21",
+"enUS": "Look for Blood Raven in the Burial Grounds next to the Cold Plains."
+},
+{
+"id": 3742,
+"Key": "qstsa1q22",
+"enUS": "Kill Blood Raven."
+},
+{
+"id": 3743,
+"Key": "qstsa1q23",
+"enUS": "Return to Kashya for a reward."
+},
+{
+"id": 3744,
+"Key": "qstsa1q41",
+"enUS": "Go through the Underground Passage to the Dark Wood, search for the Tree of Inifuss, and recover the Scroll."
+},
+{
+"id": 3745,
+"Key": "qstsa1q42",
+"enUS": "Take the Scroll of Inifuss to Akara."
+},
+{
+"id": 3746,
+"Key": "qstsa1q43",
+"enUS": "Go to the Cairn Stones in the Stony Field. Touch the Stones in the order found on the Scroll of Inifuss. Enter the portal to Tristram, but beware the danger that lies ahead."
+},
+{
+"id": 3747,
+"Key": "qstsa1q44",
+"enUS": "Find and rescue Deckard Cain."
+},
+{
+"id": 3748,
+"Key": "qstsa1q45",
+"enUS": "Cain has been rescued and is now at the Rogue Encampment."
+},
+{
+"id": 3749,
+"Key": "qstsa1q46",
+"enUS": "Visit Cain and Akara in the Rogue Encampment."
+},
+{
+"id": 3750,
+"Key": "qstsa1q46b",
+"enUS": "Talk to Akara for a reward."
+},
+{
+"id": 3751,
+"Key": "qstsa1q51",
+"enUS": "Look for the Tower in the Black Marsh beyond the Dark Wood."
+},
+{
+"id": 3752,
+"Key": "qstsa1q51a",
+"enUS": "Explore the cellar dungeons beneath the Tower ruins."
+},
+{
+"id": 3753,
+"Key": "qstsa1q51b",
+"enUS": "Explore the cellar dungeons beneath the Tower ruins."
+},
+{
+"id": 3754,
+"Key": "qstsa1q52",
+"enUS": "Dispose of the evil Countess."
+},
+{
+"id": 3755,
+"Key": "qstsa1q31",
+"enUS": "Look for the Horadric Malus in the Monastery Barracks. Beware of the Smith that guards it."
+},
+{
+"id": 3756,
+"Key": "qstsa1q32",
+"enUS": "Return the Horadric Malus to Charsi."
+},
+{
+"id": 3757,
+"Key": "qstsa1q32b",
+"enUS": "Charsi will imbue an item with magical power."
+},
+{
+"id": 3758,
+"Key": "qstsa1q61",
+"enUS": "Find Andariel's Lair in the depths of the Monastery Catacombs."
+},
+{
+"id": 3759,
+"Key": "qstsa1q62",
+"enUS": "Kill Andariel."
+},
+{
+"id": 3760,
+"Key": "qstsa1q62b",
+"enUS": "Return to Warriv to take the Caravan East."
+},
+{
+"id": 3761,
+"Key": "qstsa1q63",
+"enUS": "Return to Warriv to take the Caravan East."
+},
+{
+"id": 11030,
+"Key": "qstsa2q63f",
+"enUS": "Explore Tal Rasha's Tomb"
+},
+{
+"id": 21786,
+"Key": "qsta5q14",
+"enUS": "Larzuk will add sockets to the item of your choice."
+},
+{
+"id": 21787,
+"Key": "qstsa5q42a",
+"enUS": "Find Nihlathak in the Halls of Vaught."
+},
+{
+"id": 21788,
+"Key": "qstsa5q31a",
+"enUS": "Rescue Anya."
+},
+{
+"id": 21789,
+"Key": "qstsa5q21a",
+"enUS": "Free the soldiers from their prison and lead them back to town."
+},
+{
+"id": 21790,
+"Key": "qstsa5q43a",
+"enUS": "Anya will personalize an item for you."
+},
+{
+"id": 21791,
+"Key": "qstsa5q62a",
+"enUS": "Kill Baal in the Worldstone Chamber before he corrupts it."
+},
+{
+"id": 21792,
+"Key": "qstsa5q61a",
+"enUS": "Find Baal's Throne Room."
+},
+{
+"id": 21881,
+"Key": "qstsa5q62b",
+"enUS": "Kill Baal's Minions."
+},
+{
+"id": 22618,
+"Key": "qstsa5q1",
+"enUS": "Siege on Harrogath"
+},
+{
+"id": 22619,
+"Key": "qsta5q11",
+"enUS": "Stop the Siege by killing Shenk the Overseer in the Bloody Foothills."
+},
+{
+"id": 22620,
+"Key": "qsta5q12",
+"enUS": "Kill Shenk the Overseer."
+},
+{
+"id": 22621,
+"Key": "qsta5q13",
+"enUS": "Go talk to Larzuk for your reward."
+},
+{
+"id": 22622,
+"Key": "qstsa5q2",
+"enUS": "Rescue on Mount Arreat"
+},
+{
+"id": 22623,
+"Key": "qstsa5q21",
+"enUS": "Find the Soldiers in the Frigid Highlands."
+},
+{
+"id": 22624,
+"Key": "qstsa5q22",
+"enUS": "Rescue %d more Soldiers in the Frigid Highlands."
+},
+{
+"id": 22625,
+"Key": "qstsa5q23",
+"enUS": "Return to Qual-Kehk for your reward."
+},
+{
+"id": 22626,
+"Key": "qstsa5q24",
+"enUS": "Apply the Runes to a Socketed item in this order:"
+},
+{
+"id": 22627,
+"Key": "qstsa5q3",
+"enUS": "Prison of Ice"
+},
+{
+"id": 22628,
+"Key": "qstsa5q31",
+"enUS": "Look for Anya under the Crystalline Passage by the Frozen River."
+},
+{
+"id": 22629,
+"Key": "qstsa5q32",
+"enUS": "Talk to Malah."
+},
+{
+"id": 22630,
+"Key": "qstsa5q33",
+"enUS": "Use the potion Malah gave you to thaw Anya."
+},
+{
+"id": 22631,
+"Key": "qstsa5q34",
+"enUS": "Talk to Malah for your reward."
+},
+{
+"id": 22632,
+"Key": "qstsa5q35",
+"enUS": "Talk to Anya."
+},
+{
+"id": 22633,
+"Key": "qstsa5q4",
+"enUS": "Betrayal of Harrogath"
+},
+{
+"id": 22634,
+"Key": "qstsa5q41",
+"enUS": "Take Anya's portal to Nihlathak's Temple."
+},
+{
+"id": 22635,
+"Key": "qstsa5q42",
+"enUS": "Kill Nihlathak."
+},
+{
+"id": 22636,
+"Key": "qstsa5q43",
+"enUS": "Talk to Anya before you continue through the Crystalline Passage, past the Glacial Trail, to proceed up Mount Arreat to the Summit."
+},
+{
+"id": 22637,
+"Key": "qstsa5q5",
+"enUS": "Rite of Passage"
+},
+{
+"id": 22638,
+"Key": "qstsa5q51",
+"enUS": "Travel through the Ancient's Way to find the Ancients at the Arreat Summit."
+},
+{
+"id": 22639,
+"Key": "qstsa5q52",
+"enUS": "Consult with the Ancients by activating the Altar of the Heavens."
+},
+{
+"id": 22640,
+"Key": "qstsa5q53",
+"enUS": "Defeat all three Ancients without leaving Mount Arreat."
+},
+{
+"id": 22641,
+"Key": "qstsa5q6",
+"enUS": "Eve of Destruction"
+},
+{
+"id": 22642,
+"Key": "qstsa5q61",
+"enUS": "Consult with the Ancients."
+},
+{
+"id": 22643,
+"Key": "qstsa5q62",
+"enUS": "Kill Baal."
+},
+{
+"id": 22644,
+"Key": "qstsa5q63",
+"enUS": "Talk to Tyreal."
+},
+{
+"id": 22645,
+"Key": "qstsa5q64",
+"enUS": "Take Tyreal's Portal to Safety."
+}
+]

@@ -1,0 +1,4537 @@
+[
+{
+"id": 1633,
+"Key": "CapsJoinMenu4",
+"enUS": "     "
+},
+{
+"id": 1634,
+"Key": "CapsJoinMenu5",
+"enUS": "     "
+},
+{
+"id": 1635,
+"Key": "Guild 1",
+"enUS": "       "
+},
+{
+"id": 1636,
+"Key": "Guild 2",
+"enUS": "       "
+},
+{
+"id": 1637,
+"Key": "Guild 3",
+"enUS": "       "
+},
+{
+"id": 1638,
+"Key": "Guild 4",
+"enUS": "       "
+},
+{
+"id": 1639,
+"Key": "Guild 5",
+"enUS": "       "
+},
+{
+"id": 1645,
+"Key": "CapsBnet9",
+"enUS": "      "
+},
+{
+"id": 1646,
+"Key": "CapsBnet10",
+"enUS": "                "
+},
+{
+"id": 1647,
+"Key": "CapsBnet11",
+"enUS": "             "
+},
+{
+"id": 1648,
+"Key": "CapsBnet12",
+"enUS": "          "
+},
+{
+"id": 1649,
+"Key": "CapsBnet13",
+"enUS": "            "
+},
+{
+"id": 1650,
+"Key": "CapsBnet14",
+"enUS": "                 "
+},
+{
+"id": 1651,
+"Key": "CapsBnet15",
+"enUS": "                                                           "
+},
+{
+"id": 1652,
+"Key": "CapsGuildName",
+"enUS": "          "
+},
+{
+"id": 1653,
+"Key": "CapsGuildTag",
+"enUS": "         "
+},
+{
+"id": 1654,
+"Key": "GuildText1",
+"enUS": "                            "
+},
+{
+"id": 1655,
+"Key": "GuildText2",
+"enUS": "                                     "
+},
+{
+"id": 1656,
+"Key": "Ladder3",
+"enUS": "            "
+},
+{
+"id": 1657,
+"Key": "Ladder7",
+"enUS": "          "
+},
+{
+"id": 1658,
+"Key": "gmGuildTitle",
+"enUS": "                  "
+},
+{
+"id": 1659,
+"Key": "gmGuildName",
+"enUS": "    "
+},
+{
+"id": 1660,
+"Key": "gmGuildTag",
+"enUS": "   "
+},
+{
+"id": 1661,
+"Key": "gmWWW",
+"enUS": "              "
+},
+{
+"id": 1662,
+"Key": "gmGuildCharter",
+"enUS": "              "
+},
+{
+"id": 1663,
+"Key": "gmGuildCurrentGolds",
+"enUS": "             "
+},
+{
+"id": 1664,
+"Key": "gmGuildNextLevel",
+"enUS": "           "
+},
+{
+"id": 1665,
+"Key": "gmGuildMaster",
+"enUS": "             "
+},
+{
+"id": 1666,
+"Key": "gmOfficer",
+"enUS": "       "
+},
+{
+"id": 1667,
+"Key": "gmName",
+"enUS": "    "
+},
+{
+"id": 1668,
+"Key": "gmClass",
+"enUS": "     "
+},
+{
+"id": 1669,
+"Key": "gmLevel",
+"enUS": "   "
+},
+{
+"id": 1670,
+"Key": "gmDonate",
+"enUS": "      "
+},
+{
+"id": 1671,
+"Key": "gmRemove",
+"enUS": "             "
+},
+{
+"id": 1672,
+"Key": "gmPal",
+"enUS": "   "
+},
+{
+"id": 1673,
+"Key": "gmSor",
+"enUS": "   "
+},
+{
+"id": 1674,
+"Key": "gmAma",
+"enUS": "   "
+},
+{
+"id": 1675,
+"Key": "gmNec",
+"enUS": "   "
+},
+{
+"id": 1676,
+"Key": "gmBar",
+"enUS": "   "
+},
+{
+"id": 1677,
+"Key": "gmChangeSym",
+"enUS": "                              "
+},
+{
+"id": 1678,
+"Key": "gmChangeCharter",
+"enUS": "                             "
+},
+{
+"id": 1679,
+"Key": "gmChangeWebLink",
+"enUS": "                                 "
+},
+{
+"id": 1680,
+"Key": "Guild Portal",
+"enUS": "            "
+},
+{
+"id": 1681,
+"Key": "createdguildsuccess",
+"enUS": "                                "
+},
+{
+"id": 1682,
+"Key": "createdguildfailure",
+"enUS": "                            "
+},
+{
+"id": 1683,
+"Key": "inviteguildsuccess",
+"enUS": "                      "
+},
+{
+"id": 1684,
+"Key": "inviteguildfailure",
+"enUS": "                        "
+},
+{
+"id": 1685,
+"Key": "inviteguildins",
+"enUS": "                                                                  "
+},
+{
+"id": 1686,
+"Key": "joinedguildsuccess",
+"enUS": "                               "
+},
+{
+"id": 1687,
+"Key": "joinedguildfailure",
+"enUS": "                     "
+},
+{
+"id": 1688,
+"Key": "quitguildsuccess",
+"enUS": "                                      "
+},
+{
+"id": 1689,
+"Key": "quitguildfailure",
+"enUS": "                     "
+},
+{
+"id": 1690,
+"Key": "guildentererror",
+"enUS": "                      "
+},
+{
+"id": 1691,
+"Key": "strGuildMasterKicked",
+"enUS": "                                 "
+},
+{
+"id": 1692,
+"Key": "strGuildPerk1",
+"enUS": "      "
+},
+{
+"id": 1693,
+"Key": "strGuildPerk2",
+"enUS": "              "
+},
+{
+"id": 1694,
+"Key": "strGuildPerk3",
+"enUS": "     "
+},
+{
+"id": 1695,
+"Key": "strGuildPerk4",
+"enUS": "             "
+},
+{
+"id": 1696,
+"Key": "strGuildPerk5",
+"enUS": "           "
+},
+{
+"id": 1697,
+"Key": "strGuildPerk6",
+"enUS": "                 "
+},
+{
+"id": 1698,
+"Key": "strGuildGoldDonated",
+"enUS": "               "
+},
+{
+"id": 1699,
+"Key": "strGuildDonateGold",
+"enUS": "                                                 "
+},
+{
+"id": 1700,
+"Key": "gmGuildCurrentGoldPopup",
+"enUS": "                     "
+},
+{
+"id": 1701,
+"Key": "gmGuildNextLevelPopup",
+"enUS": "                            "
+},
+{
+"id": 1702,
+"Key": "gmGuildDonateGoldPopup",
+"enUS": "                    "
+},
+{
+"id": 1703,
+"Key": "Message Board",
+"enUS": "             "
+},
+{
+"id": 1704,
+"Key": "Trophy Case",
+"enUS": "           "
+},
+{
+"id": 1705,
+"Key": "Guild Vault",
+"enUS": "           "
+},
+{
+"id": 1706,
+"Key": "Steeg Stone",
+"enUS": "           "
+},
+{
+"id": 1707,
+"Key": "guildaccepticon",
+"enUS": "                  "
+},
+{
+"id": 1708,
+"Key": "guildmsgtext",
+"enUS": "    "
+},
+{
+"id": 1709,
+"Key": "ScrollFormat",
+"enUS": "%0 %1"
+},
+{
+"id": 1710,
+"Key": "BookFormat",
+"enUS": "%0 %1"
+},
+{
+"id": 1711,
+"Key": "HiqualityFormat",
+"enUS": "%0 %1"
+},
+{
+"id": 1712,
+"Key": "LowqualityFormat",
+"enUS": "%0 %1"
+},
+{
+"id": 1713,
+"Key": "HerbFormat",
+"enUS": "%0 %1"
+},
+{
+"id": 1714,
+"Key": "MagicFormat",
+"enUS": "%0 %1 %2"
+},
+{
+"id": 1715,
+"Key": "GemmedNormalName",
+"enUS": "%0 %1"
+},
+{
+"id": 1716,
+"Key": "BodyPartsFormat",
+"enUS": "%0 %1"
+},
+{
+"id": 1717,
+"Key": "PlayerBodyPartFormat",
+"enUS": "%0 %1"
+},
+{
+"id": 1718,
+"Key": "RareFormat",
+"enUS": "%0 %1"
+},
+{
+"id": 1719,
+"Key": "SetItemFormat",
+"enUS": "%0 %1"
+},
+{
+"id": 1720,
+"Key": "ChampionFormat",
+"enUS": "%0 %1"
+},
+{
+"id": 1721,
+"Key": "Monster1Format",
+"enUS": "%0 %1"
+},
+{
+"id": 1722,
+"Key": "Monster2Format",
+"enUS": "%0 %1 %2"
+},
+{
+"id": 1831,
+"Key": "Strengthening",
+"enUS": "Strengthening"
+},
+{
+"id": 2203,
+"Key": "UseItem",
+"enUS": "Right Click to Use"
+},
+{
+"id": 2204,
+"Key": "OpenHoradricCube",
+"enUS": "Right Click to Open"
+},
+{
+"id": 2205,
+"Key": "ReadScroll",
+"enUS": "Right Click to Read"
+},
+{
+"id": 2206,
+"Key": "InsertScrolls",
+"enUS": "Insert Scrolls"
+},
+{
+"id": 2224,
+"Key": "xyz",
+"enUS": "Potion of Life"
+},
+{
+"id": 2226,
+"Key": "teleport pad",
+"enUS": "Teleport Pad"
+},
+{
+"id": 2234,
+"Key": "ass",
+"enUS": "Book of Skill"
+},
+{
+"id": 2442,
+"Key": "strap",
+"enUS": "Strap"
+},
+{
+"id": 3329,
+"Key": "cost",
+"enUS": "Cost: %d"
+},
+{
+"id": 3330,
+"Key": "Repair",
+"enUS": "Repair Cost: %d"
+},
+{
+"id": 3331,
+"Key": "Sell",
+"enUS": "Sell value: %d"
+},
+{
+"id": 3332,
+"Key": "Identify",
+"enUS": "Identify cost: "
+},
+{
+"id": 3334,
+"Key": "NPCMenuTradeRepair",
+"enUS": "trade/repair"
+},
+{
+"id": 3335,
+"Key": "NPCPurchaseItems",
+"enUS": "Buy"
+},
+{
+"id": 3336,
+"Key": "NPCSellItems",
+"enUS": "Sell"
+},
+{
+"id": 3337,
+"Key": "NPCHeal",
+"enUS": "Heal :"
+},
+{
+"id": 3338,
+"Key": "NPCRepairItems",
+"enUS": "Repair"
+},
+{
+"id": 3339,
+"Key": "NPCNextPage",
+"enUS": "Next Page"
+},
+{
+"id": 3340,
+"Key": "NPCPreviousPage",
+"enUS": "Previous Page"
+},
+{
+"id": 3341,
+"Key": "strUiMenu2",
+"enUS": "Transmute"
+},
+{
+"id": 3342,
+"Key": "TransactionMenu1a",
+"enUS": "     Your Gold: "
+},
+{
+"id": 3343,
+"Key": "TransactionMenu1f",
+"enUS": "Which item should be imbued?"
+},
+{
+"id": 3344,
+"Key": "VerifyTransaction1",
+"enUS": "Yes"
+},
+{
+"id": 3345,
+"Key": "VerifyTransaction2",
+"enUS": "No"
+},
+{
+"id": 3346,
+"Key": "VerifyTransaction3",
+"enUS": "Gold:"
+},
+{
+"id": 3347,
+"Key": "VerifyTransaction4",
+"enUS": "Sell"
+},
+{
+"id": 3348,
+"Key": "VerifyTransaction5",
+"enUS": "Buy"
+},
+{
+"id": 3349,
+"Key": "VerifyTransaction6",
+"enUS": "Hire"
+},
+{
+"id": 3350,
+"Key": "VerifyTransaction7",
+"enUS": "Identify"
+},
+{
+"id": 3351,
+"Key": "VerifyTransaction8",
+"enUS": "Repair"
+},
+{
+"id": 3352,
+"Key": "VerifyTransaction9",
+"enUS": "This Mercenary will replace your current one."
+},
+{
+"id": 3353,
+"Key": "TransactionResults1",
+"enUS": "Waiting for confirmation of transaction..."
+},
+{
+"id": 3354,
+"Key": "TransactionResults2",
+"enUS": "Sync error on transaction, please try again."
+},
+{
+"id": 3355,
+"Key": "TransactionResults3",
+"enUS": "Invalid item detected, player will be dropped."
+},
+{
+"id": 3356,
+"Key": "TransactionResults4",
+"enUS": "You do not have enough free space to do that."
+},
+{
+"id": 3357,
+"Key": "TransactionResults5",
+"enUS": "You already have the maximum number of Mercenaries."
+},
+{
+"id": 3358,
+"Key": "TransactionResults6",
+"enUS": "That item has just been traded."
+},
+{
+"id": 3359,
+"Key": "TransactionResults7",
+"enUS": "You do not have enough room for the gold."
+},
+{
+"id": 3360,
+"Key": "TransactionResults8",
+"enUS": "Something tells me that you do not have that item."
+},
+{
+"id": 3361,
+"Key": "TransactionResults9",
+"enUS": "I cannot complete that request."
+},
+{
+"id": 3362,
+"Key": "TransactionResults10",
+"enUS": "You do not have enough gold for that."
+},
+{
+"id": 3363,
+"Key": "TransactionResults11",
+"enUS": "She cannot come right now.  Try again later."
+},
+{
+"id": 3364,
+"Key": "ItemDesc1s",
+"enUS": "Your Gold: %d     Hire which Mercenary?"
+},
+{
+"id": 3365,
+"Key": "ItemDesc1t",
+"enUS": "There are no Mercenaries left to hire."
+},
+{
+"id": 3366,
+"Key": "HP",
+"enUS": "Life"
+},
+{
+"id": 3367,
+"Key": "AC",
+"enUS": "Def"
+},
+{
+"id": 3368,
+"Key": "Level",
+"enUS": "Lvl"
+},
+{
+"id": 3369,
+"Key": "Cost",
+"enUS": "Cost"
+},
+{
+"id": 3370,
+"Key": "Damage",
+"enUS": "Damage"
+},
+{
+"id": 3371,
+"Key": "strhirespecial1",
+"enUS": "Fire Arrow"
+},
+{
+"id": 3372,
+"Key": "strhirespecial2",
+"enUS": "Cold Arrow"
+},
+{
+"id": 3373,
+"Key": "strhirespecial3",
+"enUS": "Jab Attack"
+},
+{
+"id": 3374,
+"Key": "strhirespecial4",
+"enUS": "Poison Resistant"
+},
+{
+"id": 3375,
+"Key": "strhirespecial5",
+"enUS": "Lightning"
+},
+{
+"id": 3376,
+"Key": "strhirespecial6",
+"enUS": "Cold"
+},
+{
+"id": 3377,
+"Key": "strhirespecial7",
+"enUS": "Fire"
+},
+{
+"id": 3378,
+"Key": "strhirespecial8",
+"enUS": "Lightning, Fast Cast"
+},
+{
+"id": 3379,
+"Key": "strhirespecial9",
+"enUS": "Cold, Fast Cast"
+},
+{
+"id": 3380,
+"Key": "strhirespecial10",
+"enUS": "Fire, Fast Cast"
+},
+{
+"id": 3381,
+"Key": "TalkMenu",
+"enUS": "talk"
+},
+{
+"id": 3382,
+"Key": "WarrivMenu1b",
+"enUS": "go east"
+},
+{
+"id": 3383,
+"Key": "WarrivMenu1c",
+"enUS": "go west"
+},
+{
+"id": 3384,
+"Key": "MeshifMenuEast",
+"enUS": "sail east"
+},
+{
+"id": 3385,
+"Key": "MeshifMenuWest",
+"enUS": "sail west"
+},
+{
+"id": 3386,
+"Key": "NPCMenuNews0",
+"enUS": "important news"
+},
+{
+"id": 3387,
+"Key": "NPCMenuNews1",
+"enUS": "urgent news"
+},
+{
+"id": 3388,
+"Key": "NPCMenuNews2",
+"enUS": "pressing matters"
+},
+{
+"id": 3389,
+"Key": "NPCMenuNews3",
+"enUS": "important news"
+},
+{
+"id": 3390,
+"Key": "NPCMenuNews4",
+"enUS": "urgent matters"
+},
+{
+"id": 3391,
+"Key": "NPCMenuTalkMore",
+"enUS": "tell me more"
+},
+{
+"id": 3392,
+"Key": "NPCTownMore0",
+"enUS": "about the merchants"
+},
+{
+"id": 3393,
+"Key": "NPCTownMore1",
+"enUS": "the townspeople"
+},
+{
+"id": 3394,
+"Key": "NPCMenuLeave",
+"enUS": "leave"
+},
+{
+"id": 3395,
+"Key": "NPCGossipMenu",
+"enUS": "gossip"
+},
+{
+"id": 3396,
+"Key": "NPCMenuTrade",
+"enUS": "trade"
+},
+{
+"id": 3397,
+"Key": "NPCMenuHire",
+"enUS": "hire"
+},
+{
+"id": 3398,
+"Key": "gamble",
+"enUS": "gamble"
+},
+{
+"id": 3399,
+"Key": "Intro",
+"enUS": "introduction"
+},
+{
+"id": 3400,
+"Key": "Back",
+"enUS": "cancel"
+},
+{
+"id": 3401,
+"Key": "ok",
+"enUS": "ok"
+},
+{
+"id": 3402,
+"Key": "cancel",
+"enUS": "CANCEL"
+},
+{
+"id": 3403,
+"Key": "Continue",
+"enUS": "Continue"
+},
+{
+"id": 3404,
+"Key": "strMenuMain15",
+"enUS": "_"
+},
+{
+"id": 3405,
+"Key": "strOptMusic",
+"enUS": "Music"
+},
+{
+"id": 3406,
+"Key": "strOptSound",
+"enUS": "Sound"
+},
+{
+"id": 3407,
+"Key": "strOptGamma",
+"enUS": "Gamma"
+},
+{
+"id": 3408,
+"Key": "strOptRender",
+"enUS": "Render"
+},
+{
+"id": 3409,
+"Key": "strOptPrevious",
+"enUS": "Previous Menu"
+},
+{
+"id": 3639,
+"Key": "sysmsg1",
+"enUS": " dropped due to timeout."
+},
+{
+"id": 3640,
+"Key": "sysmsg2",
+"enUS": " dropped due to errors."
+},
+{
+"id": 3641,
+"Key": "sysmsg3",
+"enUS": "%s joined our world. Diablo's minions grow stronger."
+},
+{
+"id": 3642,
+"Key": "sysmsg4",
+"enUS": "%s left our world. Diablo's minions weaken."
+},
+{
+"id": 3643,
+"Key": "sysmsg3a",
+"enUS": "%s(%s) joined our world. Diablo's minions grow stronger."
+},
+{
+"id": 3644,
+"Key": "sysmsg4a",
+"enUS": "%s(%s) left our world. Diablo's minions weaken."
+},
+{
+"id": 3645,
+"Key": "sysmsg5",
+"enUS": " is not in the game."
+},
+{
+"id": 3646,
+"Key": "sysmsg6",
+"enUS": " is not logged in."
+},
+{
+"id": 3647,
+"Key": "sysmsg7",
+"enUS": " was slain by "
+},
+{
+"id": 3648,
+"Key": "sysmsg8",
+"enUS": " was slain by "
+},
+{
+"id": 3649,
+"Key": "sysmsg9",
+"enUS": " was slain."
+},
+{
+"id": 3650,
+"Key": "sysmsg10",
+"enUS": "Wrong type of Gem."
+},
+{
+"id": 3651,
+"Key": "sysmsg11",
+"enUS": "Realm is going down in %d minutes."
+},
+{
+"id": 3652,
+"Key": "sysmsg12",
+"enUS": " is not listening to you."
+},
+{
+"id": 3653,
+"Key": "sysmsgPlayer",
+"enUS": "Player"
+},
+{
+"id": 3654,
+"Key": "chatmsg1",
+"enUS": " whispers: "
+},
+{
+"id": 3655,
+"Key": "chatmsg2",
+"enUS": " shouts: "
+},
+{
+"id": 3656,
+"Key": "chatmsg3",
+"enUS": "(LVL "
+},
+{
+"id": 3658,
+"Key": "strwhisperworked",
+"enUS": "ÿc0You whispered to ÿc1%sÿc0: %s"
+},
+{
+"id": 3659,
+"Key": "syswork",
+"enUS": "Working..."
+},
+{
+"id": 3706,
+"Key": "strqi1",
+"enUS": "Activate the stones in"
+},
+{
+"id": 3707,
+"Key": "strqi2",
+"enUS": "this order."
+},
+{
+"id": 3708,
+"Key": "stsa1q3alert",
+"enUS": "The Horadric Malus has been returned to the Monastery."
+},
+{
+"id": 3709,
+"Key": "stsa1q4alert",
+"enUS": "The scroll of Inifuss has been returned to the Tree."
+},
+{
+"id": 3710,
+"Key": "stsa3q1alert",
+"enUS": "The minions of Diablo have taken back Lam Esen's Tome."
+},
+{
+"id": 3720,
+"Key": "strplaylast",
+"enUS": "Speech"
+},
+{
+"id": 3721,
+"Key": "newquestlog",
+"enUS": "New Entry"
+},
+{
+"id": 3722,
+"Key": "qsts",
+"enUS": "Quest Status"
+},
+{
+"id": 3723,
+"Key": "noactivequest",
+"enUS": "No active quests."
+},
+{
+"id": 3724,
+"Key": "qstsxxx",
+"enUS": "Invalid Quest Value"
+},
+{
+"id": 3725,
+"Key": "qstsnull",
+"enUS": "Invalid State"
+},
+{
+"id": 3726,
+"Key": "qstsComplete",
+"enUS": "Quest completed."
+},
+{
+"id": 3727,
+"Key": "qstsother",
+"enUS": "You cannot complete this quest in this game. Another player completed it first."
+},
+{
+"id": 3728,
+"Key": "qstsprevious",
+"enUS": "You completed this quest in a previous game."
+},
+{
+"id": 3729,
+"Key": "qstsThankYouComeAgain",
+"enUS": "You cannot complete this quest in this game. You can complete it by creating a new game."
+},
+{
+"id": 3730,
+"Key": "qstsThankYouComeAgainMulti",
+"enUS": "You cannot complete this quest in this game. You can complete it by creating a new game or joining a different game."
+},
+{
+"id": 3731,
+"Key": "qstsThankYouComeAgainSingle",
+"enUS": "You cannot complete this quest in this game. Cain was rescued without your help."
+},
+{
+"id": 3732,
+"Key": "Qstsyouarenot8",
+"enUS": "You must be level 8 to complete this quest. You can complete it by creating a new game or joining a different game when you are at least level 8."
+},
+{
+"id": 3733,
+"Key": "qstsa1q3x",
+"enUS": "The person with the malus quit the game."
+},
+{
+"id": 3734,
+"Key": "qstsa1q4x",
+"enUS": "The person with the horadric scroll quit the game."
+},
+{
+"id": 3975,
+"Key": "strNoKeysAssigned",
+"enUS": "No keys were assigned because you neglected to assign one or more keys."
+},
+{
+"id": 3977,
+"Key": "CantAssignMB",
+"enUS": "Cannot assign to mouse button"
+},
+{
+"id": 3978,
+"Key": "CantAssignMW",
+"enUS": "Cannot assign to mouse wheel"
+},
+{
+"id": 3979,
+"Key": "CantAssignKey",
+"enUS": "Cannot assign to this key"
+},
+{
+"id": 3986,
+"Key": "strlvlup",
+"enUS": "New Stats"
+},
+{
+"id": 3987,
+"Key": "strnewskl",
+"enUS": "New Skill"
+},
+{
+"id": 3988,
+"Key": "warpsheader",
+"enUS": "Warps"
+},
+{
+"id": 3989,
+"Key": "nowarps",
+"enUS": "No Warps"
+},
+{
+"id": 3990,
+"Key": "waypointsheader",
+"enUS": "Choose your destination"
+},
+{
+"id": 3991,
+"Key": "nowaypoints",
+"enUS": "No Other Waypoints Activated"
+},
+{
+"id": 3992,
+"Key": "max",
+"enUS": "MAX"
+},
+{
+"id": 3993,
+"Key": "MAX",
+"enUS": "MAX"
+},
+{
+"id": 3994,
+"Key": "colorcode",
+"enUS": "ÿc"
+},
+{
+"id": 4003,
+"Key": "to",
+"enUS": "to"
+},
+{
+"id": 4004,
+"Key": "srostertitle",
+"enUS": "Players"
+},
+{
+"id": 4005,
+"Key": "dwell",
+"enUS": "Dwell"
+},
+{
+"id": 4006,
+"Key": "larva",
+"enUS": "Larva"
+},
+{
+"id": 4007,
+"Key": "Barbarian",
+"enUS": "Barbarian"
+},
+{
+"id": 4008,
+"Key": "Paladin",
+"enUS": "Paladin"
+},
+{
+"id": 4009,
+"Key": "Necromancer",
+"enUS": "Necromancer"
+},
+{
+"id": 4010,
+"Key": "Sorceress",
+"enUS": "Sorceress"
+},
+{
+"id": 4011,
+"Key": "Amazon",
+"enUS": "Amazon"
+},
+{
+"id": 4012,
+"Key": "druidstr",
+"enUS": "Druid"
+},
+{
+"id": 4013,
+"Key": "assassinstr",
+"enUS": "Assassin"
+},
+{
+"id": 4014,
+"Key": "Nest",
+"enUS": "Nest"
+},
+{
+"id": 4015,
+"Key": "NoParty",
+"enUS": "No Party"
+},
+{
+"id": 4016,
+"Key": "ItsMyParty",
+"enUS": "Party  #"
+},
+{
+"id": 4017,
+"Key": "Upgrade",
+"enUS": "imbue"
+},
+{
+"id": 4018,
+"Key": "upgraderestrict",
+"enUS": "No Magic, Socketed, Rare, Unique, or Set Items. No Jewelry or Throwing Weapons."
+},
+{
+"id": 4020,
+"Key": "NPCIdentify1",
+"enUS": "Identify Items"
+},
+{
+"id": 4021,
+"Key": "NPCIdentify2",
+"enUS": "Identify Items: %d"
+},
+{
+"id": 4022,
+"Key": "strCannotDoThisToUnknown",
+"enUS": "Cannot repair unidentified items"
+},
+{
+"id": 4023,
+"Key": "Body Looted",
+"enUS": "Body Looted"
+},
+{
+"id": 4024,
+"Key": "Party1",
+"enUS": " permits you to loot his corpse."
+},
+{
+"id": 4025,
+"Key": "Party2",
+"enUS": " permits you to loot her corpse."
+},
+{
+"id": 4026,
+"Key": "Party3",
+"enUS": " has expressed hostility towards you."
+},
+{
+"id": 4027,
+"Key": "Party4",
+"enUS": " is no longer hostile towards you."
+},
+{
+"id": 4028,
+"Key": "Party5",
+"enUS": " invites you to ally against the forces of evil."
+},
+{
+"id": 4029,
+"Key": "Party6",
+"enUS": " has cancelled the party invite."
+},
+{
+"id": 4030,
+"Key": "Party7",
+"enUS": " has joined your party to fight the forces of evil."
+},
+{
+"id": 4031,
+"Key": "Party8",
+"enUS": "You are now allied with "
+},
+{
+"id": 4032,
+"Key": "Party9",
+"enUS": " has left your party."
+},
+{
+"id": 4033,
+"Key": "strDropGoldHowMuch",
+"enUS": "How much Gold would you like to drop?"
+},
+{
+"id": 4034,
+"Key": "strDropGoldInfo",
+"enUS": "Drop Gold"
+},
+{
+"id": 4035,
+"Key": "strMsgLog",
+"enUS": "Message Log"
+},
+{
+"id": 4036,
+"Key": "strBSArmor",
+"enUS": "Armor"
+},
+{
+"id": 4037,
+"Key": "strBSWeapons",
+"enUS": "Weapons"
+},
+{
+"id": 4038,
+"Key": "strBSMagic",
+"enUS": "Magic"
+},
+{
+"id": 4039,
+"Key": "strBSMisc",
+"enUS": "Misc"
+},
+{
+"id": 4040,
+"Key": "strTrade",
+"enUS": "trade"
+},
+{
+"id": 4041,
+"Key": "strTradeAccept",
+"enUS": "accept trade"
+},
+{
+"id": 4042,
+"Key": "strTradeAgreeTo",
+"enUS": "agree to trade"
+},
+{
+"id": 4043,
+"Key": "strWaitingForOtherPlayer",
+"enUS": "asking other player to trade"
+},
+{
+"id": 4044,
+"Key": "strTradeBusy",
+"enUS": " is busy"
+},
+{
+"id": 4045,
+"Key": "strTradeTooFull",
+"enUS": "One of you has too much stuff"
+},
+{
+"id": 4046,
+"Key": "strTradeGoldHowMuch",
+"enUS": "How much Gold would you like to offer?"
+},
+{
+"id": 4047,
+"Key": "strTradeTimeout",
+"enUS": "You must wait a short time to trade with that player."
+},
+{
+"id": 4048,
+"Key": "SysmsgPlayer1",
+"enUS": ": "
+},
+{
+"id": 4049,
+"Key": "strBankGoldDeposit",
+"enUS": "How much Gold would you like to deposit?"
+},
+{
+"id": 4050,
+"Key": "strBankGoldWithdraw",
+"enUS": "How much Gold would you like to withdraw?"
+},
+{
+"id": 4051,
+"Key": "GoldMax",
+"enUS": "Gold Max: %d"
+},
+{
+"id": 4052,
+"Key": "StrUI0",
+"enUS": "Golem"
+},
+{
+"id": 4053,
+"Key": "StrUI1",
+"enUS": "Skeleton"
+},
+{
+"id": 4054,
+"Key": "StrUI2",
+"enUS": "Mage"
+},
+{
+"id": 4055,
+"Key": "StrUI3",
+"enUS": "Revived"
+},
+{
+"id": 4056,
+"Key": "StrUI4",
+"enUS": "Valkyrie"
+},
+{
+"id": 4057,
+"Key": "strchrlvl",
+"enUS": "Level"
+},
+{
+"id": 4058,
+"Key": "strchrexp",
+"enUS": "Experience"
+},
+{
+"id": 4059,
+"Key": "strchrnxtlvl",
+"enUS": "Next Level"
+},
+{
+"id": 4060,
+"Key": "strchrstr",
+"enUS": "Strength"
+},
+{
+"id": 4061,
+"Key": "strchrskm",
+"enUS": "Damage"
+},
+{
+"id": 4062,
+"Key": "strchrdex",
+"enUS": "Dexterity"
+},
+{
+"id": 4063,
+"Key": "strchratr",
+"enUS": "%s\nAttack Rating"
+},
+{
+"id": 4064,
+"Key": "strchrdef",
+"enUS": "Defense"
+},
+{
+"id": 4065,
+"Key": "strchrrat",
+"enUS": "%s\nRating"
+},
+{
+"id": 4066,
+"Key": "strchrvit",
+"enUS": "Vitality"
+},
+{
+"id": 4067,
+"Key": "strchrstm",
+"enUS": "Stamina"
+},
+{
+"id": 4068,
+"Key": "strchrlif",
+"enUS": "Life"
+},
+{
+"id": 4069,
+"Key": "strchreng",
+"enUS": "Energy"
+},
+{
+"id": 4070,
+"Key": "strchrman",
+"enUS": "Mana"
+},
+{
+"id": 4071,
+"Key": "strchrfir",
+"enUS": "Fire\nResistance"
+},
+{
+"id": 4072,
+"Key": "strchrcol",
+"enUS": "Cold\nResistance"
+},
+{
+"id": 4073,
+"Key": "strchrlit",
+"enUS": "Lightning\nResistance"
+},
+{
+"id": 4074,
+"Key": "strchrpos",
+"enUS": "Poison\nResistance"
+},
+{
+"id": 4075,
+"Key": "strchrstat",
+"enUS": "Stat Points"
+},
+{
+"id": 4076,
+"Key": "strchrrema",
+"enUS": "Remaining"
+},
+{
+"id": 4081,
+"Key": "WeaponDescThrownPotion",
+"enUS": "Equip to Throw"
+},
+{
+"id": 4095,
+"Key": "strNecromanerOnly",
+"enUS": "(Necromancer Only)"
+},
+{
+"id": 4096,
+"Key": "strPaladinOnly",
+"enUS": "(Paladin Only)"
+},
+{
+"id": 4097,
+"Key": "strSorceressOnly",
+"enUS": "(Sorceress Only)"
+},
+{
+"id": 4098,
+"Key": "strMaceSpecialDamage",
+"enUS": "Damage to Undead"
+},
+{
+"id": 4099,
+"Key": "strGoldLabel",
+"enUS": "Gold"
+},
+{
+"id": 4100,
+"Key": "strParty1",
+"enUS": "Invite this player "
+},
+{
+"id": 4101,
+"Key": "strParty2",
+"enUS": "to join your party."
+},
+{
+"id": 4102,
+"Key": "strParty3",
+"enUS": "Accept this player's "
+},
+{
+"id": 4103,
+"Key": "strParty4",
+"enUS": "invitation to form a party."
+},
+{
+"id": 4104,
+"Key": "strParty5",
+"enUS": "Cancel your invitation"
+},
+{
+"id": 4105,
+"Key": "strParty6",
+"enUS": "to this player."
+},
+{
+"id": 4106,
+"Key": "strParty7",
+"enUS": "Click to go hostile"
+},
+{
+"id": 4107,
+"Key": "strParty8",
+"enUS": "with this player."
+},
+{
+"id": 4108,
+"Key": "strParty9",
+"enUS": "Click to go neutral"
+},
+{
+"id": 4109,
+"Key": "strParty10",
+"enUS": "with this player."
+},
+{
+"id": 4110,
+"Key": "strParty11",
+"enUS": "Click to allow this player"
+},
+{
+"id": 4111,
+"Key": "strParty12",
+"enUS": "to loot your corpse."
+},
+{
+"id": 4112,
+"Key": "strParty13",
+"enUS": "Click to disallow this player"
+},
+{
+"id": 4113,
+"Key": "strParty14",
+"enUS": "from looting your corpse."
+},
+{
+"id": 4114,
+"Key": "strParty15",
+"enUS": "Click to allow this player"
+},
+{
+"id": 4115,
+"Key": "strParty16",
+"enUS": "to hear you."
+},
+{
+"id": 4116,
+"Key": "strParty17",
+"enUS": "Click to stop this player"
+},
+{
+"id": 4117,
+"Key": "strParty18",
+"enUS": "from hearing you."
+},
+{
+"id": 4118,
+"Key": "strParty19",
+"enUS": "Click to squelch this player."
+},
+{
+"id": 4119,
+"Key": "strParty22",
+"enUS": "Click to un-squelch this player."
+},
+{
+"id": 4120,
+"Key": "strParty24",
+"enUS": "Remove yourself from party."
+},
+{
+"id": 4121,
+"Key": "strParty25",
+"enUS": "Must be toggled in town."
+},
+{
+"id": 4122,
+"Key": "StrParty26",
+"enUS": "Both players must be at least level 9"
+},
+{
+"id": 4123,
+"Key": "StrParty27",
+"enUS": "to go hostile with each other"
+},
+{
+"id": 4124,
+"Key": "strGoldWithdraw",
+"enUS": "Withdraw"
+},
+{
+"id": 4125,
+"Key": "strGoldDrop",
+"enUS": "Drop Gold"
+},
+{
+"id": 4126,
+"Key": "strGoldDeposit",
+"enUS": "Deposit"
+},
+{
+"id": 4127,
+"Key": "strGoldTrade",
+"enUS": "Offer"
+},
+{
+"id": 4128,
+"Key": "strGoldInStash",
+"enUS": "Gold in Stash:"
+},
+{
+"id": 4129,
+"Key": "strGoldTradepup",
+"enUS": "Trade Gold"
+},
+{
+"id": 4130,
+"Key": "strUiMenu1",
+"enUS": "Cancel"
+},
+{
+"id": 4131,
+"Key": "strAcceptTrade",
+"enUS": "Accept Trade"
+},
+{
+"id": 4132,
+"Key": "strUiBank",
+"enUS": "ACCEPT TRADE"
+},
+{
+"id": 4133,
+"Key": "strUnknownTomb",
+"enUS": "The True Tomb is Hidden."
+},
+{
+"id": 4134,
+"Key": "strTradeOtherBox",
+"enUS": " has items in his box."
+},
+{
+"id": 4135,
+"Key": "strTradeBox",
+"enUS": "You have items in your box."
+},
+{
+"id": 4136,
+"Key": "strFree",
+"enUS": " - Free for you"
+},
+{
+"id": 4141,
+"Key": "level",
+"enUS": "Level"
+},
+{
+"id": 4142,
+"Key": "lowercasecancel",
+"enUS": "cancel"
+},
+{
+"id": 4143,
+"Key": "close",
+"enUS": "close"
+},
+{
+"id": 4144,
+"Key": "strClose",
+"enUS": "Close"
+},
+{
+"id": 4145,
+"Key": "Lightning Spell",
+"enUS": "Lightning Spell"
+},
+{
+"id": 4146,
+"Key": "Fire Spell",
+"enUS": "Fire Spell"
+},
+{
+"id": 4147,
+"Key": "Cold Spell",
+"enUS": "Cold Spell"
+},
+{
+"id": 4148,
+"Key": "Yourparty",
+"enUS": "In your party"
+},
+{
+"id": 4149,
+"Key": "Inparty",
+"enUS": "In a party"
+},
+{
+"id": 4150,
+"Key": "Invite",
+"enUS": "INVITE"
+},
+{
+"id": 4151,
+"Key": "Accept",
+"enUS": "ACCEPT"
+},
+{
+"id": 4153,
+"Key": "Partyclose",
+"enUS": "CLOSE"
+},
+{
+"id": 4154,
+"Key": "partycharama",
+"enUS": "Amazon"
+},
+{
+"id": 4155,
+"Key": "partycharsor",
+"enUS": "Sorceress"
+},
+{
+"id": 4156,
+"Key": "partycharbar",
+"enUS": "Barbarian"
+},
+{
+"id": 4157,
+"Key": "partycharnec",
+"enUS": "Necromancer"
+},
+{
+"id": 4158,
+"Key": "partycharpal",
+"enUS": "Paladin"
+},
+{
+"id": 4159,
+"Key": "charavghit",
+"enUS": "Average chance to hit"
+},
+{
+"id": 4160,
+"Key": "charmonster",
+"enUS": "level %d monster: %d%%"
+},
+{
+"id": 4161,
+"Key": "charmontohit1",
+"enUS": "Average chance a level %d"
+},
+{
+"id": 4162,
+"Key": "charmontohit2",
+"enUS": "monster will hit you: %d%%"
+},
+{
+"id": 4163,
+"Key": "panelexp",
+"enUS": "Experience: %u / %u"
+},
+{
+"id": 4164,
+"Key": "panelstamina",
+"enUS": "Stamina: %d / %d"
+},
+{
+"id": 4165,
+"Key": "panelhealth",
+"enUS": "Life: %d / %d"
+},
+{
+"id": 4166,
+"Key": "panelmana",
+"enUS": "Mana: %d / %d"
+},
+{
+"id": 4167,
+"Key": "panelmini",
+"enUS": "Open Mini Panel"
+},
+{
+"id": 4168,
+"Key": "panelcmini",
+"enUS": "Close Mini Panel"
+},
+{
+"id": 4169,
+"Key": "minipanelchar",
+"enUS": "Character"
+},
+{
+"id": 4170,
+"Key": "minipanelinv",
+"enUS": "Inventory"
+},
+{
+"id": 4171,
+"Key": "minipaneltree",
+"enUS": "Skill Tree"
+},
+{
+"id": 4172,
+"Key": "minipanelparty",
+"enUS": "Party Screen"
+},
+{
+"id": 4173,
+"Key": "minipanelautomap",
+"enUS": "Automap"
+},
+{
+"id": 4174,
+"Key": "minipanelmessage",
+"enUS": "Message Log"
+},
+{
+"id": 4175,
+"Key": "minipanelquest",
+"enUS": "Quest Log"
+},
+{
+"id": 4176,
+"Key": "minipanelmenubtn",
+"enUS": "Game Menu (Esc)"
+},
+{
+"id": 4177,
+"Key": "minipanelHelp",
+"enUS": "Help"
+},
+{
+"id": 4178,
+"Key": "minipanelspecial",
+"enUS": " (%s)"
+},
+{
+"id": 4179,
+"Key": "RunOn",
+"enUS": "Run"
+},
+{
+"id": 4180,
+"Key": "RunOff",
+"enUS": "Walk"
+},
+{
+"id": 4181,
+"Key": "automapgame",
+"enUS": "Game: "
+},
+{
+"id": 4182,
+"Key": "automappw",
+"enUS": "Password: "
+},
+{
+"id": 4183,
+"Key": "automapdif",
+"enUS": "Difficulty: %s"
+},
+{
+"id": 4184,
+"Key": "scrollbooktext",
+"enUS": "Quantity: %d"
+},
+{
+"id": 4189,
+"Key": "strpanel1",
+"enUS": "Char Info"
+},
+{
+"id": 4190,
+"Key": "strpanel2",
+"enUS": "Quests"
+},
+{
+"id": 4191,
+"Key": "strpanel3",
+"enUS": "Unused"
+},
+{
+"id": 4192,
+"Key": "strpanel4",
+"enUS": "Inventory"
+},
+{
+"id": 4193,
+"Key": "strpanel5",
+"enUS": "Menu"
+},
+{
+"id": 4194,
+"Key": "strpanel6",
+"enUS": "Automap"
+},
+{
+"id": 4195,
+"Key": "strpanel7",
+"enUS": "Unused"
+},
+{
+"id": 4196,
+"Key": "strpanel8",
+"enUS": "Skill Tree"
+},
+{
+"id": 4197,
+"Key": "stashfull",
+"enUS": "Your stash is full."
+},
+{
+"id": 4198,
+"Key": "Strhelp1",
+"enUS": "Diablo II Help"
+},
+{
+"id": 4199,
+"Key": "StrHelp2",
+"enUS": "Hold down <%s> to Run"
+},
+{
+"id": 4200,
+"Key": "StrHelp3",
+"enUS": "Hold down <%s> to highlight items on the ground"
+},
+{
+"id": 4201,
+"Key": "StrHelp4",
+"enUS": "Hold down <%s> to attack while standing still"
+},
+{
+"id": 4202,
+"Key": "StrHelp5",
+"enUS": "Hit <%s> to toggle the automap on and off"
+},
+{
+"id": 4203,
+"Key": "StrHelp6",
+"enUS": "Hit <Esc> to bring up the Game Menu"
+},
+{
+"id": 4204,
+"Key": "StrHelp7",
+"enUS": "Hit <Enter> to go into chat mode"
+},
+{
+"id": 4205,
+"Key": "StrHelp8",
+"enUS": "Use F1-F8 to set your Left or Right Mouse Button Skills"
+},
+{
+"id": 4206,
+"Key": "StrHelp8a",
+"enUS": "Hit <%s> to toggle this screen open and closed"
+},
+{
+"id": 4207,
+"Key": "StrHelp9",
+"enUS": "Life Orb"
+},
+{
+"id": 4208,
+"Key": "StrHelp10",
+"enUS": "Left Mouse-"
+},
+{
+"id": 4209,
+"Key": "StrHelp11",
+"enUS": "Button Skill"
+},
+{
+"id": 4210,
+"Key": "StrHelp12",
+"enUS": "(Click to Change)"
+},
+{
+"id": 4211,
+"Key": "StrHelp13",
+"enUS": "Right Mouse-"
+},
+{
+"id": 4212,
+"Key": "StrHelp14",
+"enUS": "Run/Walk"
+},
+{
+"id": 4213,
+"Key": "StrHelp14a",
+"enUS": "Toggle"
+},
+{
+"id": 4214,
+"Key": "StrHelp15",
+"enUS": "Stamina Bar"
+},
+{
+"id": 4215,
+"Key": "StrHelp16",
+"enUS": "Experience"
+},
+{
+"id": 4216,
+"Key": "StrHelp16a",
+"enUS": "Bar"
+},
+{
+"id": 4217,
+"Key": "StrHelp17",
+"enUS": "Mini-Panel"
+},
+{
+"id": 4218,
+"Key": "StrHelp18",
+"enUS": "(opens Character,"
+},
+{
+"id": 4219,
+"Key": "StrHelp19",
+"enUS": "Inventory, and"
+},
+{
+"id": 4220,
+"Key": "StrHelp20",
+"enUS": "other screens)"
+},
+{
+"id": 4221,
+"Key": "StrHelp21",
+"enUS": "Belt"
+},
+{
+"id": 4222,
+"Key": "StrHelp22",
+"enUS": "Mana Orb"
+},
+{
+"id": 4223,
+"Key": "strSklTree",
+"enUS": ""
+},
+{
+"id": 4224,
+"Key": "StrSklTreea",
+"enUS": "Skill Tab 1"
+},
+{
+"id": 4225,
+"Key": "StrSklTreeb",
+"enUS": "Skill Tab 2"
+},
+{
+"id": 4226,
+"Key": "StrSklTreec",
+"enUS": "Skill Tab 3"
+},
+{
+"id": 4227,
+"Key": "StrSklTree1",
+"enUS": "Skill"
+},
+{
+"id": 4228,
+"Key": "StrSklTree2",
+"enUS": "Choices"
+},
+{
+"id": 4229,
+"Key": "StrSklTree3",
+"enUS": "Remaining"
+},
+{
+"id": 4230,
+"Key": "StrSklTree4",
+"enUS": "Skills"
+},
+{
+"id": 4231,
+"Key": "StrSklTree5",
+"enUS": "Spells"
+},
+{
+"id": 4232,
+"Key": "StrSklTree6",
+"enUS": "Javelin"
+},
+{
+"id": 4233,
+"Key": "StrSklTree7",
+"enUS": "and Spear"
+},
+{
+"id": 4234,
+"Key": "StrSklTree8",
+"enUS": "Passive"
+},
+{
+"id": 4235,
+"Key": "StrSklTree9",
+"enUS": "and Magic"
+},
+{
+"id": 4236,
+"Key": "StrSklTree10",
+"enUS": "Bow and"
+},
+{
+"id": 4237,
+"Key": "StrSklTree11",
+"enUS": "Crossbow"
+},
+{
+"id": 4238,
+"Key": "StrSklTree12",
+"enUS": "Defensive"
+},
+{
+"id": 4239,
+"Key": "StrSklTree13",
+"enUS": "Auras"
+},
+{
+"id": 4240,
+"Key": "StrSklTree14",
+"enUS": "Offensive"
+},
+{
+"id": 4241,
+"Key": "StrSklTree15",
+"enUS": "Combat"
+},
+{
+"id": 4242,
+"Key": "StrSklTree16",
+"enUS": "Summoning"
+},
+{
+"id": 4243,
+"Key": "StrSklTree17",
+"enUS": "Poison"
+},
+{
+"id": 4244,
+"Key": "StrSklTree18",
+"enUS": "and Bone"
+},
+{
+"id": 4245,
+"Key": "StrSklTree19",
+"enUS": "Curses"
+},
+{
+"id": 4246,
+"Key": "StrSklTree20",
+"enUS": "Warcries"
+},
+{
+"id": 4247,
+"Key": "StrSklTree21",
+"enUS": "Combat"
+},
+{
+"id": 4248,
+"Key": "StrSklTree22",
+"enUS": "Masteries"
+},
+{
+"id": 4249,
+"Key": "StrSklTree23",
+"enUS": "Cold"
+},
+{
+"id": 4250,
+"Key": "StrSklTree24",
+"enUS": "Lightning"
+},
+{
+"id": 4251,
+"Key": "StrSklTree25",
+"enUS": "Fire"
+},
+{
+"id": 5013,
+"Key": "strMephistoDoorLocked",
+"enUS": "Ormus has the key that opens this door."
+},
+{
+"id": 5014,
+"Key": "strTitleFeminine",
+"enUS": "Lady %s"
+},
+{
+"id": 5015,
+"Key": "strTitleMasculine",
+"enUS": "Lord %s"
+},
+{
+"id": 5016,
+"Key": "strChatHardcore",
+"enUS": "Hardcore"
+},
+{
+"id": 5017,
+"Key": "strChatLevel",
+"enUS": "Level %d"
+},
+{
+"id": 5094,
+"Key": "Deathmessage",
+"enUS": "Death takes its toll of %d Gold"
+},
+{
+"id": 5095,
+"Key": "Deathmessnight",
+"enUS": "You have lost experience"
+},
+{
+"id": 5096,
+"Key": "Harddeathmessage",
+"enUS": "Your deeds of valor will be remembered"
+},
+{
+"id": 5097,
+"Key": "LordofTerrordied",
+"enUS": "%d Seconds Until Game Ends"
+},
+{
+"id": 5098,
+"Key": "Killdiablo1",
+"enUS": "Congratulations!"
+},
+{
+"id": 5099,
+"Key": "KillDiablo2",
+"enUS": "You Have Vanquished Diablo"
+},
+{
+"id": 5100,
+"Key": "KillDiablo3",
+"enUS": "Will Henceforth Be Known As"
+},
+{
+"id": 5101,
+"Key": "strExit",
+"enUS": "EXIT"
+},
+{
+"id": 5102,
+"Key": "strOk",
+"enUS": "OK"
+},
+{
+"id": 5103,
+"Key": "strCancel",
+"enUS": "CANCEL"
+},
+{
+"id": 5104,
+"Key": "strcopyrightinfo",
+"enUS": "(c) 2000 Blizzard Entertainment"
+},
+{
+"id": 5105,
+"Key": "strallrightsreserved",
+"enUS": "All Rights Reserved."
+},
+{
+"id": 5106,
+"Key": "strStartMenu1",
+"enUS": "SINGLE PLAYER"
+},
+{
+"id": 5107,
+"Key": "strStartMenu2",
+"enUS": "BATTLE.NET"
+},
+{
+"id": 5108,
+"Key": "strAdvancedOptions",
+"enUS": "OTHER MULTIPLAYER"
+},
+{
+"id": 5109,
+"Key": "strexitentiregame",
+"enUS": "EXIT DIABLO II"
+},
+{
+"id": 5110,
+"Key": "strGameCredits",
+"enUS": "CREDITS"
+},
+{
+"id": 5111,
+"Key": "strGameCinematics",
+"enUS": "CINEMATICS"
+},
+{
+"id": 5112,
+"Key": "strCinematicsPopup",
+"enUS": "View All Earned Cinematics"
+},
+{
+"id": 5113,
+"Key": "strepilogue",
+"enUS": "Epilogue"
+},
+{
+"id": 5114,
+"Key": "strselectcinematics",
+"enUS": "SELECT CINEMATICS"
+},
+{
+"id": 5115,
+"Key": "strUnsecureBN",
+"enUS": "OPEN BATTLE.NET"
+},
+{
+"id": 5116,
+"Key": "strTCPIPGame",
+"enUS": "TCP/IP GAME"
+},
+{
+"id": 5117,
+"Key": "strTCPIPOptions",
+"enUS": "TCP/IP Options"
+},
+{
+"id": 5118,
+"Key": "strCreateServer",
+"enUS": "HOST GAME"
+},
+{
+"id": 5119,
+"Key": "strJoinServer",
+"enUS": "JOIN GAME"
+},
+{
+"id": 5120,
+"Key": "strIPAddress",
+"enUS": "Enter Host IP Address to Join Game"
+},
+{
+"id": 5121,
+"Key": "stryourIPAddress",
+"enUS": "Your IP Address is: "
+},
+{
+"id": 5122,
+"Key": "strCreateServerLecture",
+"enUS": "Click 'Host Game' to make your computer the host for a game. Other players must then enter your IP Address to connect to your computer. Only locally stored characters can be played in a hosted game."
+},
+{
+"id": 5123,
+"Key": "strJoinServerLecture",
+"enUS": "Click 'Join Game', then enter the IP Address of the host computer. Only locally stored characters can be played in a hosted game."
+},
+{
+"id": 5124,
+"Key": "strnotcpipaddress",
+"enUS": "Cannot detect a valid TCP/IP address."
+},
+{
+"id": 5125,
+"Key": "strCharacterName",
+"enUS": "Character Name"
+},
+{
+"id": 5126,
+"Key": "strHardcore",
+"enUS": "Hardcore"
+},
+{
+"id": 5127,
+"Key": "strSelectHeroClass",
+"enUS": "Select Hero Class"
+},
+{
+"id": 5128,
+"Key": "strAmazonDesc",
+"enUS": "Skilled with the spear and the bow, she is a very versatile fighter."
+},
+{
+"id": 5129,
+"Key": "strNecroDesc",
+"enUS": "Summoning undead minions and cursing his enemies are his specialties."
+},
+{
+"id": 5130,
+"Key": "strBarbDesc",
+"enUS": "He is unequaled in close-quarters combat and mastery of weapons."
+},
+{
+"id": 5131,
+"Key": "strSorcDesc",
+"enUS": "She has mastered the elemental magicks -- fire, lightning, and ice."
+},
+{
+"id": 5132,
+"Key": "strPalDesc",
+"enUS": "He is a natural party leader, holy man, and blessed warrior."
+},
+{
+"id": 5133,
+"Key": "strplayernotfound",
+"enUS": "Player Not Found"
+},
+{
+"id": 5134,
+"Key": "strBNCancel",
+"enUS": "CANCEL"
+},
+{
+"id": 5135,
+"Key": "strBNCreateChannel",
+"enUS": "Create Channel"
+},
+{
+"id": 5136,
+"Key": "strBNJoinChannel",
+"enUS": "Join Channel"
+},
+{
+"id": 5137,
+"Key": "strBNInvalidGameName",
+"enUS": "Invalid Game Name"
+},
+{
+"id": 5138,
+"Key": "strBNGameAlreadyExists",
+"enUS": "A Game Already Exists With That Name"
+},
+{
+"id": 5139,
+"Key": "strBNShardDown",
+"enUS": "Server Down"
+},
+{
+"id": 5140,
+"Key": "strBNErrorCreatingGame",
+"enUS": "Error Creating Game"
+},
+{
+"id": 5141,
+"Key": "strBNJoinFailed",
+"enUS": "Join Failed"
+},
+{
+"id": 5142,
+"Key": "strBNCharLimit1",
+"enUS": "Maximum Battle.Net"
+},
+{
+"id": 5143,
+"Key": "strBNCharLimit2",
+"enUS": "characters reached."
+},
+{
+"id": 5144,
+"Key": "strLaunchCharSelect",
+"enUS": "Select to create a"
+},
+{
+"id": 5145,
+"Key": "strLaunchCharSelectNew",
+"enUS": "New Character"
+},
+{
+"id": 5146,
+"Key": "strLaunchCharSelectOpen",
+"enUS": "new open character."
+},
+{
+"id": 5147,
+"Key": "strLaunchCharSelectRealm",
+"enUS": "new realm character."
+},
+{
+"id": 5148,
+"Key": "strLMMSelectHClass",
+"enUS": "Select Hero Class"
+},
+{
+"id": 5149,
+"Key": "stroutofharddisk",
+"enUS": "There is not enough room on your Hard Disk. Please free up space and then try again."
+},
+{
+"id": 5150,
+"Key": "strMultiMenu1",
+"enUS": "CREATE GAME"
+},
+{
+"id": 5151,
+"Key": "strMultiMenu2",
+"enUS": "JOIN GAME"
+},
+{
+"id": 5152,
+"Key": "strMultiLANMenu1",
+"enUS": "CREATE LAN GAME"
+},
+{
+"id": 5153,
+"Key": "strMultiLANMenu2",
+"enUS": "JOIN LAN GAME"
+},
+{
+"id": 5154,
+"Key": "strCreateGameHellText",
+"enUS": "Hell"
+},
+{
+"id": 5155,
+"Key": "strCreateGameNightmareText",
+"enUS": "Nightmare"
+},
+{
+"id": 5156,
+"Key": "strCreateGameNormalText",
+"enUS": "Normal"
+},
+{
+"id": 5157,
+"Key": "strselectdiff",
+"enUS": "Select Difficulty"
+},
+{
+"id": 5158,
+"Key": "strmpjoingamewrongtype",
+"enUS": "Hardcore and Normal Characters may not be in the same game."
+},
+{
+"id": 5159,
+"Key": "strmpgameexpired",
+"enUS": "Game does not exist."
+},
+{
+"id": 5160,
+"Key": "strmpbadpassword",
+"enUS": "Game name and password don't match."
+},
+{
+"id": 5161,
+"Key": "strmptoomanyplayers",
+"enUS": "Game is Full."
+},
+{
+"id": 5162,
+"Key": "strmplevellimit",
+"enUS": "You do not meet the level restrictions for this game."
+},
+{
+"id": 5163,
+"Key": "strdeletecharmessage",
+"enUS": "Are you sure that you want to delete this character? Take note: this will delete all versions of this Character."
+},
+{
+"id": 5164,
+"Key": "stropengamechar",
+"enUS": "Open"
+},
+{
+"id": 5165,
+"Key": "strcharexistbud",
+"enUS": "That character name is already taken. Try another."
+},
+{
+"id": 5166,
+"Key": "strdeletecharok",
+"enUS": "YES"
+},
+{
+"id": 5167,
+"Key": "strdeletecharnot",
+"enUS": "NO"
+},
+{
+"id": 5168,
+"Key": "strinsertpetecd",
+"enUS": "Please Insert the Diablo II"
+},
+{
+"id": 5169,
+"Key": "strplaycd",
+"enUS": "Play Disc"
+},
+{
+"id": 5170,
+"Key": "strcinematiccd",
+"enUS": "Cinematics Disc"
+},
+{
+"id": 5178,
+"Key": "strdownloadcomplete",
+"enUS": "COMPLETE"
+},
+{
+"id": 5179,
+"Key": "strdownloadingdata",
+"enUS": "DOWNLOADING PATCH"
+},
+{
+"id": 5180,
+"Key": "strtermsofusetitle",
+"enUS": "Terms of Use"
+},
+{
+"id": 5181,
+"Key": "strtermsagree",
+"enUS": "AGREE"
+},
+{
+"id": 5182,
+"Key": "strtermsdontagree",
+"enUS": "DISAGREE"
+},
+{
+"id": 5204,
+"Key": "strBattleNetLogin",
+"enUS": "Battle.net Log In"
+},
+{
+"id": 5205,
+"Key": "strEnterAccount",
+"enUS": "To use an existing Battle.net account, enter the information below and click 'Log In'. Otherwise, click 'Create New Account'."
+},
+{
+"id": 5206,
+"Key": "strcharfailedduetoname",
+"enUS": "Account Name Already Exists."
+},
+{
+"id": 5207,
+"Key": "strwrongpassword",
+"enUS": "The password you have entered is incorrect. Please try again."
+},
+{
+"id": 5208,
+"Key": "straccountdoesnotexist",
+"enUS": "That account does not exist. If you have not been on Battle.net for 90 days with this account, please select 'Create New Account' to choose a new name and password."
+},
+{
+"id": 5209,
+"Key": "strcorruptedaccount",
+"enUS": "That account is corrupted.  Please report this to support@blizzard.com immediately."
+},
+{
+"id": 5210,
+"Key": "strserverdowns",
+"enUS": "Server Down"
+},
+{
+"id": 5211,
+"Key": "strcantconnectserver",
+"enUS": "Cannot Connect to Server"
+},
+{
+"id": 5212,
+"Key": "strserverisdownok",
+"enUS": "Server Down"
+},
+{
+"id": 5213,
+"Key": "strserverauthofaile",
+"enUS": "Server Authorization Failed"
+},
+{
+"id": 5214,
+"Key": "strrejectnameone",
+"enUS": "Name "
+},
+{
+"id": 5215,
+"Key": "strrejectnametwo",
+"enUS": " rejected by Server"
+},
+{
+"id": 5216,
+"Key": "stratleasttwochars",
+"enUS": "Account name must be at least 2 characters."
+},
+{
+"id": 5217,
+"Key": "strnomorethantwenty",
+"enUS": "Account name can't be more than 15 characters."
+},
+{
+"id": 5218,
+"Key": "strpassnotmatch",
+"enUS": "Passwords don't match."
+},
+{
+"id": 5219,
+"Key": "strpassmorethantwochars",
+"enUS": "Password must be at least 2 characters."
+},
+{
+"id": 5220,
+"Key": "strpassnomorethantwentychars",
+"enUS": "Password can't be more than 15 characters."
+},
+{
+"id": 5221,
+"Key": "strCreateNewAccount",
+"enUS": "CREATE NEW ACCOUNT"
+},
+{
+"id": 5222,
+"Key": "strAccountCreate",
+"enUS": "Create Battle.net Account"
+},
+{
+"id": 5223,
+"Key": "strEnterNewAccount",
+"enUS": "Enter the Name and Password for your new battle.net account."
+},
+{
+"id": 5224,
+"Key": "strAccountName",
+"enUS": "Account Name"
+},
+{
+"id": 5225,
+"Key": "strPassword",
+"enUS": "Password"
+},
+{
+"id": 5226,
+"Key": "strVerifyPassword",
+"enUS": "Verify Password"
+},
+{
+"id": 5227,
+"Key": "strLaunchMMbn1",
+"enUS": "PLEASE READ"
+},
+{
+"id": 5228,
+"Key": "strLaunchMMbn2",
+"enUS": "Please note that inactive accounts are deleted at regular times. If you create a new account, you must be logged into Battle.net long enough - either in one session, or spread over several - to have accumulated 2 hours of time within the first 48 hours."
+},
+{
+"id": 5229,
+"Key": "strLaunchMMbn3",
+"enUS": "After that, your account becomes permanent so long as you continue to log into this account once every 90 days."
+},
+{
+"id": 5230,
+"Key": "strLaunchMMbn4",
+"enUS": "PLEASE WRITE DOWN YOUR PASSWORD. BLIZZARD DOES NOT HAVE ACCESS TO PASSWORDS, AND CANNOT FIND OR REPLACE FORGOTTEN PASSWORDS."
+},
+{
+"id": 5243,
+"Key": "strBNPleaseWait",
+"enUS": "Please Wait"
+},
+{
+"id": 5250,
+"Key": "strCreateAccount",
+"enUS": "Create battle.net Account"
+},
+{
+"id": 5251,
+"Key": "strEnterName",
+"enUS": "Enter a name and password for your new battle.net account."
+},
+{
+"id": 5252,
+"Key": "strPeople",
+"enUS": "PEOPLE"
+},
+{
+"id": 5253,
+"Key": "strFilter",
+"enUS": "FILTER"
+},
+{
+"id": 5254,
+"Key": "strChannel",
+"enUS": "CHANNEL"
+},
+{
+"id": 5255,
+"Key": "strPlayers",
+"enUS": "PLAYERS"
+},
+{
+"id": 5256,
+"Key": "strcreatepassword",
+"enUS": "Password (Optional)"
+},
+{
+"id": 5257,
+"Key": "strGameDesc",
+"enUS": "Game Description (Optional)"
+},
+{
+"id": 5258,
+"Key": "strMaxPlayers",
+"enUS": "Max. Number of Players:"
+},
+{
+"id": 5259,
+"Key": "strLevelRestriction",
+"enUS": "Character Difference:"
+},
+{
+"id": 5260,
+"Key": "strLevels",
+"enUS": "Levels"
+},
+{
+"id": 5261,
+"Key": "strCreateJoinChannels",
+"enUS": "Create/Join Channels"
+},
+{
+"id": 5262,
+"Key": "strChannelName",
+"enUS": "Channel Name"
+},
+{
+"id": 5263,
+"Key": "strChannels",
+"enUS": "Channels"
+},
+{
+"id": 5264,
+"Key": "strYes",
+"enUS": "YES"
+},
+{
+"id": 5265,
+"Key": "strNo",
+"enUS": "NO"
+},
+{
+"id": 5272,
+"Key": "strDelete",
+"enUS": "DELETE"
+},
+{
+"id": 5273,
+"Key": "strCreateNewCharacter",
+"enUS": "CREATE NEW CHARACTER"
+},
+{
+"id": 5274,
+"Key": "strGameName",
+"enUS": "Game Name"
+},
+{
+"id": 5275,
+"Key": "strGameDescLabel",
+"enUS": "Game Name Players"
+},
+{
+"id": 5276,
+"Key": "strnewcharacterwarninga",
+"enUS": "Please note that inactive characters are deleted at regular times. You must play a new character at least 2 hours within the first 48 hours."
+},
+{
+"id": 5277,
+"Key": "strnewcharacterwarningb",
+"enUS": "After that, your character may be deleted if you do not play it at least once every 90 days."
+},
+{
+"id": 5278,
+"Key": "strcharexpirewarnlongA",
+"enUS": "Played %d days ago"
+},
+{
+"id": 5279,
+"Key": "strcharexpirewarnlongB",
+"enUS": ""
+},
+{
+"id": 5280,
+"Key": "strcharexpirewarnlongC",
+"enUS": "Played yesterday"
+},
+{
+"id": 5281,
+"Key": "strcharexpirewarnshortA",
+"enUS": "Play within %d days"
+},
+{
+"id": 5282,
+"Key": "strcharexpirewarnshortB",
+"enUS": "to avoid deletion"
+},
+{
+"id": 5283,
+"Key": "strcharexpirewarnshortC",
+"enUS": "Play within one day"
+},
+{
+"id": 5284,
+"Key": "strcharexpirewarnvagueA",
+"enUS": "Status Unknown"
+},
+{
+"id": 5285,
+"Key": "strcharexpirewarnvagueB",
+"enUS": "May be deleted"
+},
+{
+"id": 5286,
+"Key": "strcharexpiredwarngone",
+"enUS": "Character Deleted"
+},
+{
+"id": 5287,
+"Key": "strPlayerName",
+"enUS": "Player Name"
+},
+{
+"id": 5289,
+"Key": "strSelectRealmTitle",
+"enUS": "Select Realm"
+},
+{
+"id": 5290,
+"Key": "strAllRealmsDown",
+"enUS": "No Realms are available right now, please try again later."
+},
+{
+"id": 5291,
+"Key": "strSelectRealm",
+"enUS": "Select a Realm from the list below or type the name in the 'Realm Name' box and then click 'OK'."
+},
+{
+"id": 5292,
+"Key": "strRealmName",
+"enUS": "Realm Name"
+},
+{
+"id": 5293,
+"Key": "strRealmList",
+"enUS": "Realm List"
+},
+{
+"id": 5294,
+"Key": "strSort",
+"enUS": "Sort"
+},
+{
+"id": 5295,
+"Key": "strAlphabetically",
+"enUS": "Alphabetically"
+},
+{
+"id": 5296,
+"Key": "strCapacity",
+"enUS": "Capacity"
+},
+{
+"id": 5297,
+"Key": "strRealmInformation",
+"enUS": "Realm Information"
+},
+{
+"id": 5298,
+"Key": "strConnectionSpeed",
+"enUS": "connection speed:"
+},
+{
+"id": 5299,
+"Key": "strCurrentCapacity",
+"enUS": "current capacity:"
+},
+{
+"id": 5300,
+"Key": "strRealmLecture",
+"enUS": "A Realm is a battle.net server that stores Secure characters and runs Secure games with those characters. A Secure character is played in only one Realm."
+},
+{
+"id": 5301,
+"Key": "strChooseHeroFormat",
+"enUS": "Character Storage Site"
+},
+{
+"id": 5302,
+"Key": "strSecureLecture2",
+"enUS": "Secure characters have access to all battle.net features, including Ladders, and chat portraits. You must have a working internet connection to play a Secure character."
+},
+{
+"id": 5303,
+"Key": "strHardcoreWarning",
+"enUS": "WARNING: Once a Hardcore character dies, it cannot be played again. Are you sure you wish to create a Hardcore character?"
+},
+{
+"id": 5304,
+"Key": "strhardcorewereallymeantit",
+"enUS": "You cannot create or join games with a dead hardcore character."
+},
+{
+"id": 5305,
+"Key": "strbuttontell",
+"enUS": "SEND"
+},
+{
+"id": 5306,
+"Key": "strbuttonwhisper",
+"enUS": "WHISPER"
+},
+{
+"id": 5307,
+"Key": "strbuttonsquelch",
+"enUS": "SQUELCH"
+},
+{
+"id": 5308,
+"Key": "strbuttonwhois",
+"enUS": "HELP"
+},
+{
+"id": 5309,
+"Key": "strbuttonemote",
+"enUS": "EMOTE"
+},
+{
+"id": 5310,
+"Key": "strbuttonunsquelch",
+"enUS": "UNSQUELCH"
+},
+{
+"id": 5311,
+"Key": "strbuttonafk",
+"enUS": "AWAY"
+},
+{
+"id": 5312,
+"Key": "strbuttonCreateGame",
+"enUS": "CREATE"
+},
+{
+"id": 5313,
+"Key": "strbuttonjoingame",
+"enUS": "JOIN"
+},
+{
+"id": 5314,
+"Key": "strButtonChannel",
+"enUS": "CHANNEL"
+},
+{
+"id": 5315,
+"Key": "strButtonLadder",
+"enUS": "LADDER"
+},
+{
+"id": 5316,
+"Key": "strButtonQuit",
+"enUS": "QUIT"
+},
+{
+"id": 5317,
+"Key": "strLadders",
+"enUS": "STANDARD LADDER"
+},
+{
+"id": 5318,
+"Key": "strHardcoreLadder",
+"enUS": "HARDCORE LADDER"
+},
+{
+"id": 5319,
+"Key": "strWeeklyLadder",
+"enUS": "WEEKLY LADDER"
+},
+{
+"id": 5320,
+"Key": "strRank",
+"enUS": "Rank"
+},
+{
+"id": 5321,
+"Key": "strName",
+"enUS": "Name"
+},
+{
+"id": 5322,
+"Key": "strClass",
+"enUS": "Class"
+},
+{
+"id": 5323,
+"Key": "strExpGained",
+"enUS": "Exp Gained"
+},
+{
+"id": 5324,
+"Key": "strExp",
+"enUS": "Exp"
+},
+{
+"id": 5325,
+"Key": "strDisplay",
+"enUS": "DISPLAY:"
+},
+{
+"id": 5326,
+"Key": "strOverall",
+"enUS": "OVERALL"
+},
+{
+"id": 5327,
+"Key": "strByClass",
+"enUS": "BY CLASS"
+},
+{
+"id": 5334,
+"Key": "Gem Activated",
+"enUS": "Gem Activated"
+},
+{
+"id": 5335,
+"Key": "Gem Deactivated",
+"enUS": "Gem Deactivated"
+},
+{
+"id": 5336,
+"Key": "Perfect Gem Activated",
+"enUS": "Perfect Gem Activated"
+},
+{
+"id": 5349,
+"Key": "strtimedout",
+"enUS": "Timed out waiting for response."
+},
+{
+"id": 5356,
+"Key": "stryouarebanned",
+"enUS": "You are banned from battle.net. Reconnect later."
+},
+{
+"id": 5357,
+"Key": "strgamefailserverdrop",
+"enUS": "Your connection has been interrupted"
+},
+{
+"id": 5358,
+"Key": "strgamefailhostleft",
+"enUS": "The Host of this game has left"
+},
+{
+"id": 5359,
+"Key": "strgamefailillegaljoinA",
+"enUS": "A dead hardcore character cannot join or create any games."
+},
+{
+"id": 5360,
+"Key": "strgamefailversionmismatch",
+"enUS": "Versions do not match. Please log onto battle.net or go to http://www.blizzard.com/support/Diablo2 to get a patch"
+},
+{
+"id": 5361,
+"Key": "strgamefailillegaljoinB",
+"enUS": "Unable to enter game. A hardcore character cannot join a game created by a normal character."
+},
+{
+"id": 5362,
+"Key": "strgamefailillegaljoinC",
+"enUS": "Unable to enter game. A normal character cannot join a game created by a hardcore character."
+},
+{
+"id": 5363,
+"Key": "strgamefailillegaljoinE",
+"enUS": "Unable to enter game. Your character must kill Diablo in Nightmare difficulty to play in a Hell game."
+},
+{
+"id": 5364,
+"Key": "strgamefailillegaljoinD",
+"enUS": "Unable to enter game. Your character must kill Diablo to play in a Nightmare game."
+},
+{
+"id": 5365,
+"Key": "strgamefailbadchar",
+"enUS": "Unable to enter game. Bad character version"
+},
+{
+"id": 5366,
+"Key": "strgamefailbadcharquest",
+"enUS": "Unable to enter game. Bad character quest data"
+},
+{
+"id": 5367,
+"Key": "strgamefailbadcharwaypoint",
+"enUS": "Unable to enter game. Bad character waypoint data"
+},
+{
+"id": 5368,
+"Key": "strgamefailbadcharstats",
+"enUS": "Unable to enter game. Bad character stats data"
+},
+{
+"id": 5370,
+"Key": "strgamefailjoin",
+"enUS": "failed to join game"
+},
+{
+"id": 5371,
+"Key": "strgamefailillegaljoin",
+"enUS": "Unable to enter game"
+},
+{
+"id": 5372,
+"Key": "strgamefailunknown",
+"enUS": "unknown failure"
+},
+{
+"id": 5373,
+"Key": "strgamefailbadinv",
+"enUS": "Unable to enter game, Bad inventory data"
+},
+{
+"id": 5374,
+"Key": "strgamefailbaddeadbodies",
+"enUS": "Unable to enter game, bad dead bodies"
+},
+{
+"id": 5375,
+"Key": "strgamefailbadheader",
+"enUS": "Unable to enter game, bad header"
+},
+{
+"id": 5376,
+"Key": "strgamefailbadhireables",
+"enUS": "Unable to enter game, bad hireables"
+},
+{
+"id": 5377,
+"Key": "strgamefailbadintrodata",
+"enUS": "Unable to enter game, bad intro data"
+},
+{
+"id": 5378,
+"Key": "strgamefailbaditem",
+"enUS": "Unable to enter game, bad item"
+},
+{
+"id": 5379,
+"Key": "strgamefailbaddeadbodyitem",
+"enUS": "Unable to enter game, bad dead body item"
+},
+{
+"id": 5380,
+"Key": "strgamefailbadfile",
+"enUS": "Unable to enter game, generic bad file"
+},
+{
+"id": 5381,
+"Key": "strgamefailillegaljoinF",
+"enUS": "Game is full"
+},
+{
+"id": 5382,
+"Key": "dummy",
+"enUS": "an evil force"
+},
+{
+"id": 5383,
+"Key": "Dummy",
+"enUS": "an evil force"
+},
+{
+"id": 5384,
+"Key": "not used",
+"enUS": "an evil force"
+},
+{
+"id": 5385,
+"Key": "unused",
+"enUS": "an evil force"
+},
+{
+"id": 5386,
+"Key": "Not used",
+"enUS": "an evil force"
+},
+{
+"id": 5387,
+"Key": "convertsto",
+"enUS": "Right Click to make"
+},
+{
+"id": 5388,
+"Key": "strNotInBeta",
+"enUS": "Not in Beta."
+},
+{
+"id": 5389,
+"Key": "strLevelLoadFailed",
+"enUS": "No Level Name"
+},
+{
+"id": 5390,
+"Key": "Endthispuppy",
+"enUS": "Return to Main Menu"
+},
+{
+"id": 10016,
+"Key": "strCreateGameHellTextPatch",
+"enUS": "HELL"
+},
+{
+"id": 10017,
+"Key": "strCreateGameNightmareTextPatch",
+"enUS": "NIGHTMARE"
+},
+{
+"id": 10018,
+"Key": "strCreateGameNormalTextPatch",
+"enUS": "NORMAL"
+},
+{
+"id": 10019,
+"Key": "strselectdiffPatch",
+"enUS": "SELECT DIFFICULTY"
+},
+{
+"id": 10075,
+"Key": "stritsgonesomakeanewone",
+"enUS": "The character '%s' has not been used for over 3 months and has expired."
+},
+{
+"id": 10076,
+"Key": "upgraderestrictEx",
+"enUS": "No Magic, Socketed, Rare, Unique, or Set Items. No Jewelry."
+},
+{
+"id": 10079,
+"Key": "strScaryMonDescA",
+"enUS": ""
+},
+{
+"id": 10080,
+"Key": "strScaryMonDescB",
+"enUS": ""
+},
+{
+"id": 10081,
+"Key": "strScaryMonDesc1",
+"enUS": "Immune to Fire"
+},
+{
+"id": 10082,
+"Key": "strScaryMonDesc2",
+"enUS": "Immune to Cold"
+},
+{
+"id": 10083,
+"Key": "strScaryMonDesc3",
+"enUS": "Immune to Lightning"
+},
+{
+"id": 10084,
+"Key": "strScaryMonDesc4",
+"enUS": "Immune to Poison"
+},
+{
+"id": 10085,
+"Key": "strScaryMonDesc5",
+"enUS": "Immune to Physical"
+},
+{
+"id": 10086,
+"Key": "strScaryMonDesc6",
+"enUS": "Immune to Magic"
+},
+{
+"id": 10087,
+"Key": "PlayerNameOnItemstring",
+"enUS": "%s's"
+},
+{
+"id": 10088,
+"Key": "PlayerNameOnItemstringX",
+"enUS": "%s'"
+},
+{
+"id": 10089,
+"Key": "SetItemFormatX",
+"enUS": "%0"
+},
+{
+"id": 10090,
+"Key": "strExpansionLadder",
+"enUS": "EXPANSION LADDER"
+},
+{
+"id": 10091,
+"Key": "strExpansionHardLadder",
+"enUS": "EXPANSION HARDCORE LADDER"
+},
+{
+"id": 10094,
+"Key": "strrepairallequip",
+"enUS": "Repair All"
+},
+{
+"id": 10095,
+"Key": "strThisShouldBeIn104",
+"enUS": "Repair all equipment: %d"
+},
+{
+"id": 10096,
+"Key": "strnoequiptorepair",
+"enUS": "No equipped items need repairing"
+},
+{
+"id": 10097,
+"Key": "Druid",
+"enUS": "Druid"
+},
+{
+"id": 10098,
+"Key": "Assassin",
+"enUS": "Assassin"
+},
+{
+"id": 10099,
+"Key": "partychardru",
+"enUS": "Druid"
+},
+{
+"id": 10100,
+"Key": "partycharass",
+"enUS": "Assassin"
+},
+{
+"id": 10101,
+"Key": "strgamefailillegaljoinXB",
+"enUS": "Unable to enter game. A Diablo II character cannot join a game created by a Diablo II Expansion character."
+},
+{
+"id": 10102,
+"Key": "strgamefailillegaljoinXC",
+"enUS": "Unable to enter game. A Diablo II Expansion character cannot join a game created by a Diablo II character."
+},
+{
+"id": 10103,
+"Key": "charmonsterX",
+"enUS": "%s: %d%%"
+},
+{
+"id": 10104,
+"Key": "charmontohit1X",
+"enUS": "Average chance %s will hit you: %d%%"
+},
+{
+"id": 10105,
+"Key": "charmontohit2X",
+"enUS": "Chance to Block: %d%%\nAverage chance %s will hit you: %d%%"
+},
+{
+"id": 10106,
+"Key": "Party1X",
+"enUS": "%s permits you to loot his corpse."
+},
+{
+"id": 10107,
+"Key": "Party2X",
+"enUS": "%s permits you to loot her corpse."
+},
+{
+"id": 10108,
+"Key": "Party10",
+"enUS": "%s no longer allows you to access his corpse."
+},
+{
+"id": 10109,
+"Key": "Party11",
+"enUS": "%s no longer allows you to access her corpse."
+},
+{
+"id": 10110,
+"Key": "Party12",
+"enUS": "You are hostile towards each other."
+},
+{
+"id": 10111,
+"Key": "Party13",
+"enUS": "%s is hostile to you, but you are friendly to him."
+},
+{
+"id": 10112,
+"Key": "Party14",
+"enUS": "%s is hostile to you, but you are friendly to her."
+},
+{
+"id": 10113,
+"Key": "Party 15",
+"enUS": "%s is friendly to you, but you are hostile to him."
+},
+{
+"id": 10114,
+"Key": "Party16",
+"enUS": "%s is friendly to you, but you are hostile to her."
+},
+{
+"id": 10115,
+"Key": "Party17",
+"enUS": "You are friendly to each other."
+},
+{
+"id": 10116,
+"Key": "Party18",
+"enUS": "You may loot each other's corpse."
+},
+{
+"id": 10117,
+"Key": "Party19",
+"enUS": "%s may loot your corpse, but you may not loot his."
+},
+{
+"id": 10118,
+"Key": "Party20",
+"enUS": "%s may loot your corpse, but you may not loot hers."
+},
+{
+"id": 10119,
+"Key": "Party21",
+"enUS": "%s may not loot your corpse, but you may loot his."
+},
+{
+"id": 10120,
+"Key": "Party22",
+"enUS": "%s may not loot your corpse, but you may loot hers."
+},
+{
+"id": 10121,
+"Key": "Party23",
+"enUS": "Neither of you may loot the other's corpse."
+},
+{
+"id": 10808,
+"Key": "strHostileTimeout",
+"enUS": "You must wait a short time to declare hostility with that player."
+},
+{
+"id": 10832,
+"Key": "strLaunchCharSelectNewXP",
+"enUS": "CREATE NEW"
+},
+{
+"id": 10834,
+"Key": "strVerifyPasswordP",
+"enUS": "Verify Password"
+},
+{
+"id": 10924,
+"Key": "Chatcaps",
+"enUS": "CHAT"
+},
+{
+"id": 10925,
+"Key": "Newscaps",
+"enUS": "NEWS"
+},
+{
+"id": 10926,
+"Key": "Laddercaps",
+"enUS": "LADDER"
+},
+{
+"id": 10927,
+"Key": "LaddeCharacter",
+"enUS": "LADDER CHARACTER"
+},
+{
+"id": 10928,
+"Key": "strLadderWarning",
+"enUS": "A Ladder Character can only be played with other Ladder characters during the Ladder Season when it was created. After the Ladder Season is over, then the Ladder character will become a Non-Ladder Character. Continue?"
+},
+{
+"id": 10929,
+"Key": "strgamefailillegaljoinnonLadder",
+"enUS": "Unable to enter game. A Non-Ladder character cannot join a game created by a Ladder character."
+},
+{
+"id": 10930,
+"Key": "strgamefailillegaljoinLadder",
+"enUS": "Unable to enter game. A Ladder character cannot join a game created by a Non-Ladder character."
+},
+{
+"id": 11004,
+"Key": "SOJSold",
+"enUS": "%d Stones of Jordan Sold to Merchants"
+},
+{
+"id": 11005,
+"Key": "DiabloWalksEarth",
+"enUS": "Diablo Walks the Earth"
+},
+{
+"id": 11019,
+"Key": "strBNShardfull",
+"enUS": "Server is Full"
+},
+{
+"id": 11020,
+"Key": "strBNShardFull2",
+"enUS": "No new games can be created right now, Please Join a game or try later."
+},
+{
+"id": 11023,
+"Key": "strBNShardGameQue",
+"enUS": "You are in line to create a game. Try joining a game to avoid waiting."
+},
+{
+"id": 11024,
+"Key": "strBNShardGameQueTitle",
+"enUS": "Game Queue"
+},
+{
+"id": 11025,
+"Key": "strBNShardGameQuealt",
+"enUS": "Too many games have been created. Please join one instead or await your turn in the Game Queue"
+},
+{
+"id": 11026,
+"Key": "strBNShardGameQue2",
+"enUS": "Your position in line is: "
+},
+{
+"id": 11027,
+"Key": "strBNShardGameQue3",
+"enUS": "In the Game Queue"
+},
+{
+"id": 11039,
+"Key": "strIPAddressPatch",
+"enUS": "Enter Host IP Address to Join Game"
+},
+{
+"id": 11049,
+"Key": "strBattleNetGateway",
+"enUS": "GATEWAY: %s"
+},
+{
+"id": 11050,
+"Key": "strChangePassword",
+"enUS": "CHANGE PASSWORD"
+},
+{
+"id": 11051,
+"Key": "strChangePassword2",
+"enUS": "Change Password"
+},
+{
+"id": 11052,
+"Key": "strCurrentPassword",
+"enUS": "Current Password"
+},
+{
+"id": 11053,
+"Key": "strNewPassword",
+"enUS": "New Password"
+},
+{
+"id": 11054,
+"Key": "strVerifyNewPassword",
+"enUS": "Verify New Password"
+},
+{
+"id": 11055,
+"Key": "strSelBattleNetGateway",
+"enUS": "SELECT GATEWAY"
+},
+{
+"id": 11056,
+"Key": "strInfoBattleNetGateway",
+"enUS": "If the current gateway does not best represent your location, select another Battle.net gateway connection."
+},
+{
+"id": 11057,
+"Key": "strChangeRealm",
+"enUS": "CHANGE REALM"
+},
+{
+"id": 11058,
+"Key": "strCurrentRealm",
+"enUS": "Current Realm"
+},
+{
+"id": 11059,
+"Key": "strDuplicateCharName",
+"enUS": "A character named '%s' already exists in this Realm."
+},
+{
+"id": 11062,
+"Key": "strSend",
+"enUS": "SEND"
+},
+{
+"id": 11063,
+"Key": "strPasswordWarningTitle",
+"enUS": "PASSWORD WARNING"
+},
+{
+"id": 11064,
+"Key": "strPasswordWarningMsg",
+"enUS": "You cannot send your password to another user on Battle.net. Blizzard will never ask you for your password for any reason."
+},
+{
+"id": 11065,
+"Key": "strConnecting",
+"enUS": "CONNECTING..."
+},
+{
+"id": 11066,
+"Key": "strRealmDown",
+"enUS": "Diablo II was unable to connect to the realm server. The realm you selected may be unavailable or you may be encountering connection issues. Please make sure your internet connection is working properly and/or your firewall has port 6112 opened."
+},
+{
+"id": 11067,
+"Key": "strMore",
+"enUS": "More..."
+},
+{
+"id": 11068,
+"Key": "strTooManyChars1",
+"enUS": "You have more than 8 characters on this Diablo II Realm. Only 8 characters can be displayed at a time."
+},
+{
+"id": 11069,
+"Key": "strTooManyChars2",
+"enUS": "To see more characters, you must delete one of your existing characters. This deletion is permanent. You will not be able to recover the deleted character."
+},
+{
+"id": 11070,
+"Key": "strTermsOfService",
+"enUS": "Terms of Service"
+},
+{
+"id": 11071,
+"Key": "strTOSPrompt",
+"enUS": "By logging on to Battle.net, you are certifying that you have read and agree to its current Terms of Service"
+},
+{
+"id": 11072,
+"Key": "strChampionFormatXp",
+"enUS": "%0 %1"
+},
+{
+"id": 11077,
+"Key": "expansionchar2x",
+"enUS": "EXPANSION CHARACTER"
+},
+{
+"id": 11078,
+"Key": "strMissingString",
+"enUS": "Missing string"
+},
+{
+"id": 11088,
+"Key": "PalMercExST1X",
+"enUS": "Defensive"
+},
+{
+"id": 11089,
+"Key": "PalMercEXST3X",
+"enUS": "Offensive"
+},
+{
+"id": 11090,
+"Key": "PalMercEXST4X",
+"enUS": "Combat"
+},
+{
+"id": 11092,
+"Key": "RankX",
+"enUS": "Rank"
+},
+{
+"id": 11093,
+"Key": "strAccountBindInstructions",
+"enUS": "Enter a valid email address."
+},
+{
+"id": 11094,
+"Key": "strAccountBindInstructions2",
+"enUS": "Entering your email address will enable extra features, such as the ability to recover your account should you forget your password. Visit www.battle.net/email-address for more information."
+},
+{
+"id": 11095,
+"Key": "strAccountBindEmail",
+"enUS": "Email Address:"
+},
+{
+"id": 11096,
+"Key": "strAccountBindVerifyEmail",
+"enUS": "Verify Email Address:"
+},
+{
+"id": 11097,
+"Key": "strAccountBindRegister",
+"enUS": "REGISTER"
+},
+{
+"id": 11098,
+"Key": "strAccountBindDontRegister",
+"enUS": "DON'T REGISTER"
+},
+{
+"id": 11099,
+"Key": "strAccountBindEmailMismatch",
+"enUS": "Please make sure that the two email addresses match."
+},
+{
+"id": 11100,
+"Key": "strAccountBindInvalidEmailTitle",
+"enUS": "Invalid Email Address"
+},
+{
+"id": 11101,
+"Key": "strAccountBindInvalidEmailMsg",
+"enUS": "The email address you entered does not appear to be valid.  Please enter a valid email address."
+},
+{
+"id": 11102,
+"Key": "strAccountBindAreYouSureDontBind",
+"enUS": "Without a registered email address, you will not be able to recover your account should you forget your password. You will not have another opportunity to register an email address with this account."
+},
+{
+"id": 11103,
+"Key": "strAccountRecoverMessage",
+"enUS": "If you have forgotten your password and you registered your email address with us for this account, you can request that a new password be sent to you by clicking Send.  Make sure to enter the email address that you registered for this account."
+},
+{
+"id": 11104,
+"Key": "strAccountRecoverDone",
+"enUS": "Your request for a new password has been received. If you registered an email address for this account you will receive an email with instructions on how to complete your password change."
+},
+{
+"id": 11105,
+"Key": "strContinue",
+"enUS": "CONTINUE"
+},
+{
+"id": 11106,
+"Key": "strForgotPassword",
+"enUS": "Forgot your password? Click 'Account Settings'."
+},
+{
+"id": 11107,
+"Key": "strwrongpasswordwithtip",
+"enUS": "The password you entered is incorrect.  You can get a new password by clicking 'Account Settings'."
+},
+{
+"id": 11108,
+"Key": "strAccountSettingsCaps",
+"enUS": "ACCOUNT SETTINGS"
+},
+{
+"id": 11109,
+"Key": "strAccountSettings",
+"enUS": "Account Settings"
+},
+{
+"id": 11110,
+"Key": "strChangePasswordHelp",
+"enUS": "If you know your password and want to change it, click here."
+},
+{
+"id": 11111,
+"Key": "strGetNewPasswordHelp",
+"enUS": "If you have forgotten your password or your password doesn't work, click here."
+},
+{
+"id": 11112,
+"Key": "strChangeEmailHelp",
+"enUS": "If you need to change your registered email address, click here."
+},
+{
+"id": 11113,
+"Key": "strGetNewPasswordCaps",
+"enUS": "GET NEW PASSWORD"
+},
+{
+"id": 11114,
+"Key": "strGetNewPassword",
+"enUS": "Get New Password"
+},
+{
+"id": 11115,
+"Key": "strChangeEmailCaps",
+"enUS": "CHANGE EMAIL"
+},
+{
+"id": 11116,
+"Key": "strChangeEmail",
+"enUS": "Change Email"
+},
+{
+"id": 11117,
+"Key": "strOldEmailAddress",
+"enUS": "Old Email Address:"
+},
+{
+"id": 11118,
+"Key": "strNewEmailAddress",
+"enUS": "New Email Address:"
+},
+{
+"id": 11119,
+"Key": "strVerifyNewEmailAddress",
+"enUS": "Verify New Email Address:"
+},
+{
+"id": 11120,
+"Key": "strRebindMessage",
+"enUS": "If you registered an email address for this account then you can change it here. Note that both email addresses need to be active for you to make this change."
+},
+{
+"id": 11121,
+"Key": "strRebindEmailNoChange",
+"enUS": "The old and new email addresses you have entered are the same.  Please enter a different email address."
+},
+{
+"id": 11122,
+"Key": "strRebindEmailMismatch",
+"enUS": "Please make sure that the two new email addresses match."
+},
+{
+"id": 11123,
+"Key": "strBNNewsUpdates",
+"enUS": "Battle.net News Updates"
+},
+{
+"id": 11124,
+"Key": "strLastDifficultyCompleted",
+"enUS": "Last Difficulty Setting Completed:"
+},
+{
+"id": 11125,
+"Key": "strNone",
+"enUS": "None"
+},
+{
+"id": 11126,
+"Key": "strEnterChat",
+"enUS": "ENTER CHAT"
+},
+{
+"id": 11127,
+"Key": "strLaunchMMbn4b",
+"enUS": "PLEASE WRITE DOWN YOUR PASSWORD."
+},
+{
+"id": 11128,
+"Key": "strUnsafePwTitle",
+"enUS": "Unsafe Password"
+},
+{
+"id": 11129,
+"Key": "strUnsafePwText",
+"enUS": "The password you've chosen is unsafe. Please choose a new one."
+},
+{
+"id": 11130,
+"Key": "strCdkeyWarningTitle",
+"enUS": "CDKEY WARNING"
+},
+{
+"id": 11131,
+"Key": "strCdkeyWarningMsg",
+"enUS": "You cannot send your cdkey to another user on Battle.net. Blizzard will never ask you for your cdkey for any reason."
+},
+{
+"id": 11132,
+"Key": "strExpiresToday",
+"enUS": "Expires Today"
+},
+{
+"id": 11133,
+"Key": "strExpiresInXDays",
+"enUS": "Expires in %d days"
+},
+{
+"id": 11134,
+"Key": "strCharacterExpired",
+"enUS": "Character Expired"
+},
+{
+"id": 11143,
+"Key": "strnewcharacterwarninga_2",
+"enUS": "A Diablo II character must be played in a game, or it will eventually expire. When you first create a character, it expires 10 days after the last time it was played. Once that character has been played for two hours or more, it will not expire until three months from the time it was last played."
+},
+{
+"id": 11144,
+"Key": "strnewcharacterwarningb_2",
+"enUS": "A character that expires is deleted from the realm."
+},
+{
+"id": 11145,
+"Key": "stritsgonesomakeanewone_2",
+"enUS": "The character '%s' has not been used enough and has expired."
+},
+{
+"id": 11161,
+"Key": "strCdKeyBanned",
+"enUS": "The CD-Key you are currently using is disabled from playing realm games. You may continue playing the game in Single Player and Open Battle.net."
+},
+{
+"id": 11162,
+"Key": "strNodeLocked",
+"enUS": "Your connection has been temporarily restricted from this realm. Please try to log in at another time."
+},
+{
+"id": 11168,
+"Key": "respec",
+"enUS": "Reset Stat/Skill Points"
+},
+{
+"id": 11169,
+"Key": "strPersistentIgnoreEnable",
+"enUS": "Persistent ignoring is now enabled."
+},
+{
+"id": 11170,
+"Key": "strPersistentIgnoreDisable",
+"enUS": "Persistent ignoring is now disabled."
+},
+{
+"id": 11171,
+"Key": "strUserHasBeenIgnored",
+"enUS": "%s has been ignored."
+},
+{
+"id": 11172,
+"Key": "strUnableToIgnoreUser",
+"enUS": "Unable to ignore %s"
+},
+{
+"id": 11173,
+"Key": "strUserHasBeenUnignored",
+"enUS": "%s has been unignored."
+},
+{
+"id": 11174,
+"Key": "strUserIsNotIgnored",
+"enUS": "%s is not currently ignored."
+},
+{
+"id": 11175,
+"Key": "strMsgFilterAdded",
+"enUS": "Message filter added."
+},
+{
+"id": 11176,
+"Key": "strUnableToAddMsgFilter",
+"enUS": "Unable to add message filter."
+},
+{
+"id": 11177,
+"Key": "strMsgFilterRemoved",
+"enUS": "Message filter removed."
+},
+{
+"id": 11178,
+"Key": "strUnableToRemoveMsgFilter",
+"enUS": "Unable to remove message filter."
+},
+{
+"id": 21261,
+"Key": "StrGemX1",
+"enUS": "Helms:"
+},
+{
+"id": 21262,
+"Key": "StrGemX2",
+"enUS": "Shields:"
+},
+{
+"id": 21263,
+"Key": "StrGemX3",
+"enUS": "Weapons:"
+},
+{
+"id": 21264,
+"Key": "StrGemX4",
+"enUS": "Armor:"
+},
+{
+"id": 21506,
+"Key": "Strongoak",
+"enUS": "Strong Oak"
+},
+{
+"id": 21793,
+"Key": "strgamefailillegaljoinXE",
+"enUS": "Unable to enter game. Your character must kill Baal in Nightmare difficulty to play in a Hell game."
+},
+{
+"id": 21794,
+"Key": "strgamefailillegaljoinXD",
+"enUS": "Unable to enter game. Your character must kill Baal to play in a Nightmare game."
+},
+{
+"id": 21795,
+"Key": "strLaunchCharSelectNewX",
+"enUS": "CREATE NEW"
+},
+{
+"id": 21796,
+"Key": "strLaunchCharSelectCharX",
+"enUS": "CHARACTER"
+},
+{
+"id": 21801,
+"Key": "strepilogueX",
+"enUS": "TERROR'S END"
+},
+{
+"id": 21803,
+"Key": "strlastcinematic",
+"enUS": "DESTRUCTION'S END"
+},
+{
+"id": 21871,
+"Key": "Lord of Destruction",
+"enUS": ""
+},
+{
+"id": 21872,
+"Key": "strCannotConvertChar",
+"enUS": "Unable to access file. Cannot convert character."
+},
+{
+"id": 21880,
+"Key": "strexpansioncd",
+"enUS": "Expansion Disc"
+},
+{
+"id": 21882,
+"Key": "strcopyrightinfoX",
+"enUS": "© Copyright 2001 Blizzard Entertainment"
+},
+{
+"id": 21884,
+"Key": "Go South",
+"enUS": "return to hell"
+},
+{
+"id": 21889,
+"Key": "StrMercEx12",
+"enUS": "Defensive"
+},
+{
+"id": 21890,
+"Key": "StrMercEx14",
+"enUS": "Offensive"
+},
+{
+"id": 21891,
+"Key": "StrMercEx15",
+"enUS": "Combat"
+},
+{
+"id": 22320,
+"Key": "strUI5",
+"enUS": "Raven"
+},
+{
+"id": 22321,
+"Key": "strUI6",
+"enUS": "Wolf"
+},
+{
+"id": 22322,
+"Key": "strUI7",
+"enUS": "Bear"
+},
+{
+"id": 22323,
+"Key": "strUI8",
+"enUS": "Poison Creeper"
+},
+{
+"id": 22324,
+"Key": "strUI9",
+"enUS": "Carrion Vine"
+},
+{
+"id": 22325,
+"Key": "strUI10",
+"enUS": "Solar Creeper"
+},
+{
+"id": 22326,
+"Key": "strUI11",
+"enUS": "Spirit of Barbs"
+},
+{
+"id": 22327,
+"Key": "strUI12",
+"enUS": "Heart of Wolverine"
+},
+{
+"id": 22328,
+"Key": "strUI13",
+"enUS": "Vine"
+},
+{
+"id": 22329,
+"Key": "strUI14",
+"enUS": "Spirit"
+},
+{
+"id": 22333,
+"Key": "StrUI18",
+"enUS": "Master"
+},
+{
+"id": 22505,
+"Key": "strDruidOnly",
+"enUS": "(Druid Only)"
+},
+{
+"id": 22506,
+"Key": "strAssassinOnly",
+"enUS": "(Assassin Only)"
+},
+{
+"id": 22507,
+"Key": "strAmazonOnly",
+"enUS": "(Amazon Only)"
+},
+{
+"id": 22508,
+"Key": "strBarbarianOnly",
+"enUS": "(Barbarian Only)"
+},
+{
+"id": 22509,
+"Key": "StrSklTree26",
+"enUS": "Summoning"
+},
+{
+"id": 22510,
+"Key": "StrSklTree27",
+"enUS": "Shape"
+},
+{
+"id": 22511,
+"Key": "StrSklTree28",
+"enUS": "Shifting"
+},
+{
+"id": 22512,
+"Key": "StrSklTree29",
+"enUS": "Elemental"
+},
+{
+"id": 22513,
+"Key": "StrSklTree30",
+"enUS": "Traps"
+},
+{
+"id": 22514,
+"Key": "StrSklTree31",
+"enUS": "Shadow"
+},
+{
+"id": 22515,
+"Key": "StrSklTree32",
+"enUS": "Disciplines"
+},
+{
+"id": 22516,
+"Key": "StrSklTree33",
+"enUS": "Martial"
+},
+{
+"id": 22517,
+"Key": "StrSklTree34",
+"enUS": "Arts"
+},
+{
+"id": 22518,
+"Key": "strDruDesc",
+"enUS": "Commanding the forces of nature, he summons wild beasts and raging storms to his side."
+},
+{
+"id": 22519,
+"Key": "strAssDesc",
+"enUS": "Schooled in the Martial Arts, her mind and body are deadly weapons."
+},
+{
+"id": 22690,
+"Key": "hireiconinfo1",
+"enUS": "Drop Potion on Portrait to Heal"
+},
+{
+"id": 22691,
+"Key": "hireiconinfo2",
+"enUS": "Right Click to Open Inventory (%s)"
+},
+{
+"id": 22692,
+"Key": "hiredismiss",
+"enUS": "Dismiss"
+},
+{
+"id": 22693,
+"Key": "hiredismisshire",
+"enUS": "Dismiss Mercenary"
+},
+{
+"id": 22694,
+"Key": "hirerehire",
+"enUS": "Rehire"
+},
+{
+"id": 22695,
+"Key": "hireresurrect",
+"enUS": "Resurrect"
+},
+{
+"id": 22696,
+"Key": "hireresurrect2",
+"enUS": "Resurrect %s: %d"
+},
+{
+"id": 22728,
+"Key": "MiniPanelHireinv",
+"enUS": "Mercenary Inventory"
+},
+{
+"id": 22729,
+"Key": "MiniPanelHire",
+"enUS": "Mercenary"
+},
+{
+"id": 22730,
+"Key": "strexpansionchar1",
+"enUS": "EXPANSION"
+},
+{
+"id": 22731,
+"Key": "strexpansionchar2",
+"enUS": "EXPANSION CHARACTER"
+},
+{
+"id": 22732,
+"Key": "strexpansionconvert1",
+"enUS": "CONVERT TO"
+},
+{
+"id": 22733,
+"Key": "strexdpansionconvert2",
+"enUS": "CLICK OK TO CONVERT YOUR ORIGINAL DIABLO II CHARACTER TO PLAY IN EXPANSION GAMES."
+},
+{
+"id": 22734,
+"Key": "strexpansionconvert3",
+"enUS": "Warning:  Once you convert a character to expansion, you cannot play it in original Diablo II games."
+},
+{
+"id": 22735,
+"Key": "strexpansionconvert4",
+"enUS": ""
+},
+{
+"id": 22736,
+"Key": "strexpansionconvert5",
+"enUS": "Are you sure you wish to continue?"
+},
+{
+"id": 22737,
+"Key": "Go North",
+"enUS": "go north"
+},
+{
+"id": 22738,
+"Key": "Travel To Harrogath",
+"enUS": "travel to harrogath"
+},
+{
+"id": 22739,
+"Key": "strLaunchCharSelectexpandNew",
+"enUS": "NEW EXPANSION CHARACTER"
+},
+{
+"id": 22740,
+"Key": "strLaunchCharSelectexpandOpen",
+"enUS": "NEW EXPANSION OPEN CHARACTER."
+},
+{
+"id": 22741,
+"Key": "strLaunchCharSelectexpandRealm",
+"enUS": "NEW EXPANSION REALM CHARACTER."
+},
+{
+"id": 22742,
+"Key": "strlaunchconverttoexp",
+"enUS": "CONVERT TO EXPANSION"
+},
+{
+"id": 22743,
+"Key": "strlaunchcreatenewcharexp",
+"enUS": "CREATE NEW CHARACTER"
+},
+{
+"id": 22744,
+"Key": "strlaunchdeletecharexp",
+"enUS": "DELETE CHARACTER"
+},
+{
+"id": 22747,
+"Key": "Rename Instruct",
+"enUS": "Choose the item that you wish to personalize with your name."
+},
+{
+"id": 22748,
+"Key": "Addsocketsui",
+"enUS": "add sockets"
+},
+{
+"id": 22749,
+"Key": "Personalizeui",
+"enUS": "personalize"
+},
+{
+"id": 22750,
+"Key": "Addsocketsui2",
+"enUS": "Choose the item to which you wish to add sockets."
+},
+{
+"id": 23998,
+"Key": "UsePotionOfLife",
+"enUS": "Right Click to permanently add 20 to Life"
+},
+{
+"id": 23999,
+"Key": "UseBookOfSkill",
+"enUS": "Right Click to learn skill of your choice"
+},
+{
+"id": 24000,
+"Key": "UseScrollOfResistance",
+"enUS": "Right Click to Cast"
+},
+{
+"id": 26362,
+"Key": "StrSDHelpLegacyToggle",
+"enUS": "Hit <%s> to toggle to Legacy or Resurrected mode"
+},
+{
+"id": 26363,
+"Key": "StrSDHelpZoom",
+"enUS": "Hit <%s> to zoom the game camera in or out"
+},
+{
+"id": 26699,
+"Key": "DeadPlayerCorpseName",
+"enUS": "Corpse"
+},
+{
+"id": 26775,
+"Key": "ItemNameMagicFormatPrefixOnly",
+"enUS": "%0 %1"
+},
+{
+"id": 26776,
+"Key": "ItemNameMagicFormatSuffixOnly",
+"enUS": "%0 %1"
+}
+]

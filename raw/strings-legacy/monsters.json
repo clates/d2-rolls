@@ -1,0 +1,2642 @@
+[
+{
+"id": 1014,
+"Key": "Izual",
+"enUS": "Izual"
+},
+{
+"id": 1015,
+"Key": "izual",
+"enUS": "Izual"
+},
+{
+"id": 1067,
+"Key": "The Feature Creep",
+"enUS": "Hephasto The Armorer"
+},
+{
+"id": 1068,
+"Key": "Hell Bovine",
+"enUS": "Hell Bovine"
+},
+{
+"id": 1235,
+"Key": "nodarkwanderer",
+"enUS": "Not in Game"
+},
+{
+"id": 1580,
+"Key": "Seige Beast",
+"enUS": "           "
+},
+{
+"id": 1611,
+"Key": "BlightWing",
+"enUS": "           "
+},
+{
+"id": 1612,
+"Key": "BloodWitch",
+"enUS": "           "
+},
+{
+"id": 1616,
+"Key": "MageWing",
+"enUS": "         "
+},
+{
+"id": 1617,
+"Key": "HellWitch",
+"enUS": "          "
+},
+{
+"id": 2286,
+"Key": "GhoulRI",
+"enUS": "Ghoul"
+},
+{
+"id": 2349,
+"Key": "crusher",
+"enUS": "Crusher"
+},
+{
+"id": 2463,
+"Key": "scarab",
+"enUS": "Scarab"
+},
+{
+"id": 2850,
+"Key": "The Cow King",
+"enUS": "The Cow King"
+},
+{
+"id": 2851,
+"Key": "Grand Vizier of Chaos",
+"enUS": "Grand Vizier of Chaos"
+},
+{
+"id": 2852,
+"Key": "Lord De Seis",
+"enUS": "Lord De Seis"
+},
+{
+"id": 2853,
+"Key": "Infector of Souls",
+"enUS": "Infector of Souls"
+},
+{
+"id": 2854,
+"Key": "Riftwraith the Cannibal",
+"enUS": "Riftwraith the Cannibal"
+},
+{
+"id": 2855,
+"Key": "Taintbreeder",
+"enUS": "Taintbreeder"
+},
+{
+"id": 2856,
+"Key": "The Tormentor",
+"enUS": "The Tormentor"
+},
+{
+"id": 2857,
+"Key": "Winged Death",
+"enUS": "Darkwing"
+},
+{
+"id": 2858,
+"Key": "Maffer Dragonhand",
+"enUS": "Maffer Dragonhand"
+},
+{
+"id": 2859,
+"Key": "Wyand Voidfinger",
+"enUS": "Wyand Voidbringer"
+},
+{
+"id": 2860,
+"Key": "Toorc Icefist",
+"enUS": "Toorc Icefist"
+},
+{
+"id": 2861,
+"Key": "Bremm Sparkfist",
+"enUS": "Bremm Sparkfist"
+},
+{
+"id": 2862,
+"Key": "Geleb Flamefinger",
+"enUS": "Geleb Flamefinger"
+},
+{
+"id": 2863,
+"Key": "Ismail Vilehand",
+"enUS": "Ismail Vilehand"
+},
+{
+"id": 2864,
+"Key": "Icehawk Riftwing",
+"enUS": "Icehawk Riftwing"
+},
+{
+"id": 2865,
+"Key": "Sarina the Battlemaid",
+"enUS": "Battlemaid Sarina"
+},
+{
+"id": 2866,
+"Key": "Stormtree",
+"enUS": "Stormtree"
+},
+{
+"id": 2867,
+"Key": "Witch Doctor Endugu",
+"enUS": "Witch Doctor Endugu"
+},
+{
+"id": 2868,
+"Key": "Web Mage the Burning",
+"enUS": "Sszark the Burning"
+},
+{
+"id": 2869,
+"Key": "Bishibosh",
+"enUS": "Bishibosh"
+},
+{
+"id": 2870,
+"Key": "Bonebreak",
+"enUS": "Bonebreaker"
+},
+{
+"id": 2871,
+"Key": "Coldcrow",
+"enUS": "Coldcrow"
+},
+{
+"id": 2872,
+"Key": "Rakanishu",
+"enUS": "Rakanishu"
+},
+{
+"id": 2873,
+"Key": "Treehead WoodFist",
+"enUS": "Treehead WoodFist"
+},
+{
+"id": 2874,
+"Key": "Griswold",
+"enUS": "Griswold"
+},
+{
+"id": 2875,
+"Key": "The Countess",
+"enUS": "The Countess"
+},
+{
+"id": 2876,
+"Key": "Pitspawn Fouldog",
+"enUS": "Pitspawn Fouldog"
+},
+{
+"id": 2877,
+"Key": "Flamespike the Crawler",
+"enUS": "Flamespike the Crawler"
+},
+{
+"id": 2878,
+"Key": "Boneash",
+"enUS": "Bone Ash"
+},
+{
+"id": 2879,
+"Key": "Radament",
+"enUS": "Radament"
+},
+{
+"id": 2880,
+"Key": "Bloodwitch the Wild",
+"enUS": "Bloodwitch the Wild"
+},
+{
+"id": 2881,
+"Key": "Fangskin",
+"enUS": "Fangskin"
+},
+{
+"id": 2882,
+"Key": "Beetleburst",
+"enUS": "Beetleburst"
+},
+{
+"id": 2883,
+"Key": "Leatherarm",
+"enUS": "Creeping Feature"
+},
+{
+"id": 2884,
+"Key": "Coldworm the Burrower",
+"enUS": "Coldworm the Burrower"
+},
+{
+"id": 2885,
+"Key": "Fire Eye",
+"enUS": "Fire Eye"
+},
+{
+"id": 2886,
+"Key": "Dark Elder",
+"enUS": "Dark Elder"
+},
+{
+"id": 2887,
+"Key": "The Summoner",
+"enUS": "The Summoner"
+},
+{
+"id": 2888,
+"Key": "Ancient Kaa the Soulless",
+"enUS": "Ancient Kaa the Soulless"
+},
+{
+"id": 2889,
+"Key": "The Smith",
+"enUS": "The Smith"
+},
+{
+"id": 2897,
+"Key": "Rogue",
+"enUS": "Rogue"
+},
+{
+"id": 2898,
+"Key": "StygianDoll",
+"enUS": "Stygian Doll"
+},
+{
+"id": 2899,
+"Key": "SoulKiller",
+"enUS": "Soul Killer"
+},
+{
+"id": 2900,
+"Key": "Flayer",
+"enUS": "Flayer"
+},
+{
+"id": 2901,
+"Key": "Fetish",
+"enUS": "Fetish"
+},
+{
+"id": 2902,
+"Key": "RatMan",
+"enUS": "Rat Man"
+},
+{
+"id": 2903,
+"Key": "Undead StygianDoll",
+"enUS": "Undead Stygian Doll"
+},
+{
+"id": 2904,
+"Key": "Undead SoulKiller",
+"enUS": "Undead Soul Killer"
+},
+{
+"id": 2905,
+"Key": "Undead Flayer",
+"enUS": "Undead Flayer"
+},
+{
+"id": 2906,
+"Key": "Undead Fetish",
+"enUS": "Undead Fetish"
+},
+{
+"id": 2907,
+"Key": "Undead RatMan",
+"enUS": "Undead Rat Man"
+},
+{
+"id": 2908,
+"Key": "DarkFamiliar",
+"enUS": "Dark Familiar"
+},
+{
+"id": 2909,
+"Key": "BloodDiver",
+"enUS": "Blood Diver"
+},
+{
+"id": 2910,
+"Key": "Gloombat",
+"enUS": "Gloombat"
+},
+{
+"id": 2911,
+"Key": "DesertWing",
+"enUS": "Desert Wing"
+},
+{
+"id": 2912,
+"Key": "Banished",
+"enUS": "The Banished"
+},
+{
+"id": 2913,
+"Key": "BloodLord",
+"enUS": "Blood Lord"
+},
+{
+"id": 2914,
+"Key": "DarkLord",
+"enUS": "Dark Lord"
+},
+{
+"id": 2915,
+"Key": "NightLord",
+"enUS": "Night Lord"
+},
+{
+"id": 2916,
+"Key": "GhoulLord",
+"enUS": "Ghoul Lord"
+},
+{
+"id": 2917,
+"Key": "Spikefist",
+"enUS": "Spikefist"
+},
+{
+"id": 2918,
+"Key": "Thrasher",
+"enUS": "Thrasher"
+},
+{
+"id": 2919,
+"Key": "BrambleHulk",
+"enUS": "Bramble Hulk"
+},
+{
+"id": 2920,
+"Key": "ThornedHulk",
+"enUS": "Thorned Hulk"
+},
+{
+"id": 2921,
+"Key": "SpiderMagus",
+"enUS": "Spider Magus"
+},
+{
+"id": 2922,
+"Key": "FlameSpider",
+"enUS": "Flame Spider"
+},
+{
+"id": 2923,
+"Key": "PoisonSpinner",
+"enUS": "Poison Spinner"
+},
+{
+"id": 2924,
+"Key": "SandFisher",
+"enUS": "Sand Fisher"
+},
+{
+"id": 2925,
+"Key": "Arach",
+"enUS": "Arach"
+},
+{
+"id": 2926,
+"Key": "BloodWing",
+"enUS": "Blood Wing"
+},
+{
+"id": 2927,
+"Key": "BloodHook",
+"enUS": "Blood Hook"
+},
+{
+"id": 2928,
+"Key": "Feeder",
+"enUS": "Feeder"
+},
+{
+"id": 2929,
+"Key": "Sucker",
+"enUS": "Sucker"
+},
+{
+"id": 2930,
+"Key": "WingedNightmare",
+"enUS": "Winged Nightmare"
+},
+{
+"id": 2931,
+"Key": "HellBuzzard",
+"enUS": "Hell Buzzard"
+},
+{
+"id": 2932,
+"Key": "UndeadScavenger",
+"enUS": "Undead Scavenger"
+},
+{
+"id": 2933,
+"Key": "CarrionBird",
+"enUS": "Carrion Bird"
+},
+{
+"id": 2934,
+"Key": "Unraveler",
+"enUS": "Unraveler"
+},
+{
+"id": 2935,
+"Key": "Guardian",
+"enUS": "Guardian"
+},
+{
+"id": 2936,
+"Key": "HollowOne",
+"enUS": "Hollow One"
+},
+{
+"id": 2937,
+"Key": "Horadrim Ancient",
+"enUS": "Horadrim Ancient"
+},
+{
+"id": 2938,
+"Key": "AlbinoRoach",
+"enUS": "Bone Scarab"
+},
+{
+"id": 2939,
+"Key": "SteelWeevil",
+"enUS": "Steel Scarab"
+},
+{
+"id": 2940,
+"Key": "Scarab",
+"enUS": "Scarab"
+},
+{
+"id": 2941,
+"Key": "SandWarrior",
+"enUS": "Death Beetle"
+},
+{
+"id": 2942,
+"Key": "DungSoldier",
+"enUS": "Dung Soldier"
+},
+{
+"id": 2943,
+"Key": "HellSwarm",
+"enUS": "Hell Swarm"
+},
+{
+"id": 2944,
+"Key": "PlagueBugs",
+"enUS": "Plague Bugs"
+},
+{
+"id": 2945,
+"Key": "BlackLocusts",
+"enUS": "Black Locusts"
+},
+{
+"id": 2946,
+"Key": "Itchies",
+"enUS": "Itchies"
+},
+{
+"id": 2947,
+"Key": "HellCat",
+"enUS": "Hell Cat"
+},
+{
+"id": 2948,
+"Key": "NightTiger",
+"enUS": "Night Tiger"
+},
+{
+"id": 2949,
+"Key": "SaberCat",
+"enUS": "Saber Cat"
+},
+{
+"id": 2950,
+"Key": "Huntress",
+"enUS": "Huntress"
+},
+{
+"id": 2951,
+"Key": "RazorPitDemon",
+"enUS": "Cliff Lurker"
+},
+{
+"id": 2952,
+"Key": "TreeLurker",
+"enUS": "Tree Lurker"
+},
+{
+"id": 2953,
+"Key": "CaveLeaper",
+"enUS": "Cave Leaper"
+},
+{
+"id": 2954,
+"Key": "TombCreeper",
+"enUS": "Tomb Creeper"
+},
+{
+"id": 2955,
+"Key": "SandLeaper",
+"enUS": "Sand Leaper"
+},
+{
+"id": 2956,
+"Key": "TombViper",
+"enUS": "Tomb Viper"
+},
+{
+"id": 2957,
+"Key": "PitViper",
+"enUS": "Pit Viper"
+},
+{
+"id": 2958,
+"Key": "Salamander",
+"enUS": "Salamander"
+},
+{
+"id": 2959,
+"Key": "ClawViper",
+"enUS": "Claw Viper"
+},
+{
+"id": 2960,
+"Key": "SerpentMagus",
+"enUS": "Serpent Magus"
+},
+{
+"id": 2961,
+"Key": "WorldKiller",
+"enUS": "Blood Maggot"
+},
+{
+"id": 2962,
+"Key": "GiantLamprey",
+"enUS": "Giant Lamprey"
+},
+{
+"id": 2963,
+"Key": "Devourer",
+"enUS": "Devourer"
+},
+{
+"id": 2964,
+"Key": "RockWorm",
+"enUS": "Rock Worm"
+},
+{
+"id": 2965,
+"Key": "SandMaggot",
+"enUS": "Sand Maggot"
+},
+{
+"id": 2966,
+"Key": "JungleUrchin",
+"enUS": "Bush Barb"
+},
+{
+"id": 2967,
+"Key": "RazorSpine",
+"enUS": "Razor Spine"
+},
+{
+"id": 2968,
+"Key": "ThornBeast",
+"enUS": "Thorn Beast"
+},
+{
+"id": 2969,
+"Key": "SpikeFiend",
+"enUS": "Spike Fiend"
+},
+{
+"id": 2970,
+"Key": "QuillRat",
+"enUS": "Quill Rat"
+},
+{
+"id": 2971,
+"Key": "HellClan",
+"enUS": "Hell Clan"
+},
+{
+"id": 2972,
+"Key": "MoonClan",
+"enUS": "Moon Clan"
+},
+{
+"id": 2973,
+"Key": "NightClan",
+"enUS": "Night Clan"
+},
+{
+"id": 2974,
+"Key": "DeathClan",
+"enUS": "Death Clan"
+},
+{
+"id": 2975,
+"Key": "BloodClan",
+"enUS": "Blood Clan"
+},
+{
+"id": 2976,
+"Key": "TempleGuard",
+"enUS": "Temple Guard"
+},
+{
+"id": 2977,
+"Key": "DoomApe",
+"enUS": "Doom Ape"
+},
+{
+"id": 2978,
+"Key": "JungleHunter",
+"enUS": "Jungle Hunter"
+},
+{
+"id": 2979,
+"Key": "RockDweller",
+"enUS": "Rock Dweller"
+},
+{
+"id": 2980,
+"Key": "DuneBeast",
+"enUS": "Dune Beast"
+},
+{
+"id": 2981,
+"Key": "FleshHunter",
+"enUS": "Flesh Hunter"
+},
+{
+"id": 2982,
+"Key": "BlackRogue",
+"enUS": "Black Rogue"
+},
+{
+"id": 2984,
+"Key": "VileHunter",
+"enUS": "Vile Hunter"
+},
+{
+"id": 2985,
+"Key": "DarkHunter",
+"enUS": "Dark Hunter"
+},
+{
+"id": 2986,
+"Key": "DarkShape",
+"enUS": "Dark Shape"
+},
+{
+"id": 2987,
+"Key": "Apparition",
+"enUS": "Apparition"
+},
+{
+"id": 2988,
+"Key": "Specter",
+"enUS": "Specter"
+},
+{
+"id": 2990,
+"Key": "Ghost",
+"enUS": "Ghost"
+},
+{
+"id": 2991,
+"Key": "Assailant",
+"enUS": "Assailant"
+},
+{
+"id": 2992,
+"Key": "Infidel",
+"enUS": "Infidel"
+},
+{
+"id": 2993,
+"Key": "Invader",
+"enUS": "Invader"
+},
+{
+"id": 2994,
+"Key": "Marauder",
+"enUS": "Marauder"
+},
+{
+"id": 2995,
+"Key": "SandRaider",
+"enUS": "Sand Raider"
+},
+{
+"id": 2996,
+"Key": "GargantuanBeast",
+"enUS": "Gargantuan Beast"
+},
+{
+"id": 2997,
+"Key": "WailingBeast",
+"enUS": "Wailing Beast"
+},
+{
+"id": 2998,
+"Key": "Yeti",
+"enUS": "Yeti"
+},
+{
+"id": 2999,
+"Key": "Crusher",
+"enUS": "Crusher"
+},
+{
+"id": 3000,
+"Key": "Brute",
+"enUS": "Brute"
+},
+{
+"id": 3001,
+"Key": "CloudStalker",
+"enUS": "Cloud Stalker"
+},
+{
+"id": 3002,
+"Key": "BlackVulture",
+"enUS": "Black Vulture"
+},
+{
+"id": 3003,
+"Key": "BlackRaptor",
+"enUS": "Black Raptor"
+},
+{
+"id": 3004,
+"Key": "BloodHawk",
+"enUS": "Blood Hawk"
+},
+{
+"id": 3005,
+"Key": "FoulCrow",
+"enUS": "Foul Crow"
+},
+{
+"id": 3006,
+"Key": "PlagueBearer",
+"enUS": "Plague Bearer"
+},
+{
+"id": 3007,
+"Key": "Ghoul",
+"enUS": "Ghoul"
+},
+{
+"id": 3008,
+"Key": "DrownedCarcass",
+"enUS": "Drowned Carcass"
+},
+{
+"id": 3009,
+"Key": "HungryDead",
+"enUS": "Hungry Dead"
+},
+{
+"id": 3010,
+"Key": "Zombie",
+"enUS": "Zombie"
+},
+{
+"id": 3011,
+"Key": "Skeleton",
+"enUS": "Skeleton"
+},
+{
+"id": 3012,
+"Key": "Horror",
+"enUS": "Horror"
+},
+{
+"id": 3013,
+"Key": "Returned",
+"enUS": "Returned"
+},
+{
+"id": 3014,
+"Key": "BurningDead",
+"enUS": "Burning Dead"
+},
+{
+"id": 3015,
+"Key": "BoneWarrior",
+"enUS": "Bone Warrior"
+},
+{
+"id": 3016,
+"Key": "Damned",
+"enUS": "Damned"
+},
+{
+"id": 3017,
+"Key": "Disfigured",
+"enUS": "Disfigured"
+},
+{
+"id": 3018,
+"Key": "Misshapen",
+"enUS": "Misshapen"
+},
+{
+"id": 3019,
+"Key": "Tainted",
+"enUS": "Tainted"
+},
+{
+"id": 3020,
+"Key": "Afflicted",
+"enUS": "Afflicted"
+},
+{
+"id": 3021,
+"Key": "Andariel",
+"enUS": "Andariel"
+},
+{
+"id": 3033,
+"Key": "Camel",
+"enUS": "Camel"
+},
+{
+"id": 3034,
+"Key": "Cadaver",
+"enUS": "Cadaver"
+},
+{
+"id": 3035,
+"Key": "PreservedDead",
+"enUS": "Preserved Dead"
+},
+{
+"id": 3036,
+"Key": "Embalmed",
+"enUS": "Embalmed"
+},
+{
+"id": 3037,
+"Key": "DriedCorpse",
+"enUS": "Dried Corpse"
+},
+{
+"id": 3038,
+"Key": "Decayed",
+"enUS": "Decayed"
+},
+{
+"id": 3039,
+"Key": "Urdar",
+"enUS": "Urdar"
+},
+{
+"id": 3041,
+"Key": "Gorbelly",
+"enUS": "Gorebelly"
+},
+{
+"id": 3042,
+"Key": "Blunderbore",
+"enUS": "Blunderbore"
+},
+{
+"id": 3043,
+"Key": "WorldKillerYoung",
+"enUS": "Blood Maggot Young"
+},
+{
+"id": 3044,
+"Key": "GiantLampreyYoung",
+"enUS": "Giant Lamprey Young"
+},
+{
+"id": 3045,
+"Key": "DevourerYoung",
+"enUS": "Devourer Young"
+},
+{
+"id": 3046,
+"Key": "RockWormYoung",
+"enUS": "Rock Worm Young"
+},
+{
+"id": 3047,
+"Key": "SandMaggotYoung",
+"enUS": "Sand Maggot Young"
+},
+{
+"id": 3048,
+"Key": "WorldKillerEgg",
+"enUS": "Blood Maggot Egg"
+},
+{
+"id": 3049,
+"Key": "GiantLampreyEgg",
+"enUS": "Giant Lamprey Egg"
+},
+{
+"id": 3050,
+"Key": "DevourerEgg",
+"enUS": "Devourer Egg"
+},
+{
+"id": 3051,
+"Key": "RockWormEgg",
+"enUS": "Rock Worm Egg"
+},
+{
+"id": 3052,
+"Key": "SandMaggotEgg",
+"enUS": "Sand Maggot Egg"
+},
+{
+"id": 3053,
+"Key": "Maggot",
+"enUS": "Maggot"
+},
+{
+"id": 3054,
+"Key": "Duriel",
+"enUS": "Duriel"
+},
+{
+"id": 3055,
+"Key": "BloodHawkNest",
+"enUS": "Blood Hawk Nest"
+},
+{
+"id": 3056,
+"Key": "FlyingScimitar",
+"enUS": "Flying Scimitar"
+},
+{
+"id": 3057,
+"Key": "CloudStalkerNest",
+"enUS": "Cloud Stalker Nest"
+},
+{
+"id": 3058,
+"Key": "BlackVultureNest",
+"enUS": "Black Raptor Nest"
+},
+{
+"id": 3059,
+"Key": "FoulCrowNest",
+"enUS": "Foul Crow Nest"
+},
+{
+"id": 3060,
+"Key": "Diablo",
+"enUS": "Diablo"
+},
+{
+"id": 3061,
+"Key": "Baal",
+"enUS": "Baal"
+},
+{
+"id": 3062,
+"Key": "Mephisto",
+"enUS": "Mephisto"
+},
+{
+"id": 3063,
+"Key": "Cantor",
+"enUS": "Cantor"
+},
+{
+"id": 3064,
+"Key": "Heirophant",
+"enUS": "Hierophant"
+},
+{
+"id": 3065,
+"Key": "Sexton",
+"enUS": "Sexton"
+},
+{
+"id": 3066,
+"Key": "Zealot",
+"enUS": "Zealot"
+},
+{
+"id": 3067,
+"Key": "Faithful",
+"enUS": "Faithful"
+},
+{
+"id": 3068,
+"Key": "Zakarumite",
+"enUS": "Zakarumite"
+},
+{
+"id": 3069,
+"Key": "BlackSoul",
+"enUS": "Black Soul"
+},
+{
+"id": 3070,
+"Key": "BurningSoul",
+"enUS": "Burning Soul"
+},
+{
+"id": 3071,
+"Key": "SwampGhost",
+"enUS": "Swamp Ghost"
+},
+{
+"id": 3072,
+"Key": "Gloam",
+"enUS": "Gloam"
+},
+{
+"id": 3073,
+"Key": "WarpedShaman",
+"enUS": "Warped Shaman"
+},
+{
+"id": 3074,
+"Key": "DarkShaman",
+"enUS": "Dark Shaman"
+},
+{
+"id": 3075,
+"Key": "DevilkinShaman",
+"enUS": "Devilkin Shaman"
+},
+{
+"id": 3076,
+"Key": "CarverShaman",
+"enUS": "Carver Shaman"
+},
+{
+"id": 3077,
+"Key": "FallenShaman",
+"enUS": "Fallen Shaman"
+},
+{
+"id": 3078,
+"Key": "WarpedFallen",
+"enUS": "Warped One"
+},
+{
+"id": 3079,
+"Key": "DarkOne",
+"enUS": "Dark One"
+},
+{
+"id": 3080,
+"Key": "Devilkin",
+"enUS": "Devilkin"
+},
+{
+"id": 3081,
+"Key": "Carver",
+"enUS": "Carver"
+},
+{
+"id": 3082,
+"Key": "Fallen",
+"enUS": "Fallen"
+},
+{
+"id": 3083,
+"Key": "ReturnedArcher",
+"enUS": "Returned Archer"
+},
+{
+"id": 3084,
+"Key": "HorrorArcher",
+"enUS": "Horror Archer"
+},
+{
+"id": 3085,
+"Key": "BurningDeadArcher",
+"enUS": "Burning Dead Archer"
+},
+{
+"id": 3086,
+"Key": "BoneArcher",
+"enUS": "Bone Archer"
+},
+{
+"id": 3087,
+"Key": "CorpseArcher",
+"enUS": "Corpse Archer"
+},
+{
+"id": 3088,
+"Key": "SkeletonArcher",
+"enUS": "Skeleton Archer"
+},
+{
+"id": 3089,
+"Key": "FleshLancer",
+"enUS": "Flesh Lancer"
+},
+{
+"id": 3090,
+"Key": "BlackLancer",
+"enUS": "Black Lancer"
+},
+{
+"id": 3091,
+"Key": "DarkLancer",
+"enUS": "Dark Lancer"
+},
+{
+"id": 3092,
+"Key": "VileLancer",
+"enUS": "Vile Lancer"
+},
+{
+"id": 3093,
+"Key": "DarkSpearwoman",
+"enUS": "Dark Spearwoman"
+},
+{
+"id": 3094,
+"Key": "FleshArcher",
+"enUS": "Flesh Archer"
+},
+{
+"id": 3095,
+"Key": "BlackArcher",
+"enUS": "Black Archer"
+},
+{
+"id": 3096,
+"Key": "DarkRanger",
+"enUS": "Dark Ranger"
+},
+{
+"id": 3098,
+"Key": "DarkArcher",
+"enUS": "Dark Archer"
+},
+{
+"id": 3099,
+"Key": "Summoner",
+"enUS": "The Summoner"
+},
+{
+"id": 3100,
+"Key": "StygianDollShaman",
+"enUS": "Stygian Doll Shaman"
+},
+{
+"id": 3101,
+"Key": "SoulKillerShaman",
+"enUS": "Soul Killer Shaman"
+},
+{
+"id": 3102,
+"Key": "FlayerShaman",
+"enUS": "Flayer Shaman"
+},
+{
+"id": 3103,
+"Key": "FetishShaman",
+"enUS": "Fetish Shaman"
+},
+{
+"id": 3104,
+"Key": "RatManShaman",
+"enUS": "RatMan Shaman"
+},
+{
+"id": 3105,
+"Key": "HorrorMage",
+"enUS": "Horror Mage"
+},
+{
+"id": 3106,
+"Key": "BurningDeadMage",
+"enUS": "Burning Dead Mage"
+},
+{
+"id": 3107,
+"Key": "BoneMage",
+"enUS": "Bone Mage"
+},
+{
+"id": 3108,
+"Key": "CorpseMage",
+"enUS": "Corpse Mage"
+},
+{
+"id": 3109,
+"Key": "ReturnedMage",
+"enUS": "Returned Mage"
+},
+{
+"id": 3110,
+"Key": "GargoyleTrap",
+"enUS": "Gargoyle Trap"
+},
+{
+"id": 3111,
+"Key": "Bloodraven",
+"enUS": "Blood Raven"
+},
+{
+"id": 3115,
+"Key": "StygianWatcherHead",
+"enUS": "Stygian Watcher"
+},
+{
+"id": 3116,
+"Key": "RiverStalkerHead",
+"enUS": "River Stalker"
+},
+{
+"id": 3117,
+"Key": "WaterWatcherHead",
+"enUS": "Water Watcher"
+},
+{
+"id": 3118,
+"Key": "StygianWatcherLimb",
+"enUS": "Stygian Watcher"
+},
+{
+"id": 3119,
+"Key": "RiverStalkerLimb",
+"enUS": "River Stalker"
+},
+{
+"id": 3120,
+"Key": "WaterWatcherLimb",
+"enUS": "Water Watcher"
+},
+{
+"id": 3121,
+"Key": "NightMarauder",
+"enUS": "Night Marauder"
+},
+{
+"id": 3126,
+"Key": "WorldKillerQueen",
+"enUS": "Blood Maggot Queen"
+},
+{
+"id": 3127,
+"Key": "GiantLampreyQueen",
+"enUS": "Giant Lamprey Queen"
+},
+{
+"id": 3128,
+"Key": "DevourerQueen",
+"enUS": "Devourer Queen"
+},
+{
+"id": 3129,
+"Key": "RockWormQueen",
+"enUS": "Rock Worm Queen"
+},
+{
+"id": 3130,
+"Key": "SandMaggotQueen",
+"enUS": "Sand Maggot Queen"
+},
+{
+"id": 3131,
+"Key": "Slime Prince",
+"enUS": "Slime Prince"
+},
+{
+"id": 3132,
+"Key": "Bog Creature",
+"enUS": "Bog Creature"
+},
+{
+"id": 3133,
+"Key": "Swamp Dweller",
+"enUS": "Swamp Dweller"
+},
+{
+"id": 3134,
+"Key": "GiantUrchin",
+"enUS": "Barbed Giant"
+},
+{
+"id": 3135,
+"Key": "RazorBeast",
+"enUS": "Razor Beast"
+},
+{
+"id": 3136,
+"Key": "ThornBrute",
+"enUS": "Thorn Brute"
+},
+{
+"id": 3137,
+"Key": "SpikeGiant",
+"enUS": "Spike Giant"
+},
+{
+"id": 3138,
+"Key": "QuillBear",
+"enUS": "Quill Bear"
+},
+{
+"id": 3139,
+"Key": "Council Member",
+"enUS": "Council Member"
+},
+{
+"id": 3140,
+"Key": "youngdiablo",
+"enUS": "Dark Wanderer"
+},
+{
+"id": 3141,
+"Key": "darkwanderer",
+"enUS": "Dark Wanderer"
+},
+{
+"id": 3142,
+"Key": "HellSlinger",
+"enUS": "Hell Slinger"
+},
+{
+"id": 3143,
+"Key": "NightSlinger",
+"enUS": "Night Slinger"
+},
+{
+"id": 3144,
+"Key": "SpearCat",
+"enUS": "Spear Cat"
+},
+{
+"id": 3145,
+"Key": "Slinger",
+"enUS": "Slinger"
+},
+{
+"id": 3146,
+"Key": "FireTower",
+"enUS": "Fire Tower"
+},
+{
+"id": 3147,
+"Key": "LightningSpire",
+"enUS": "Lightning Spire"
+},
+{
+"id": 3148,
+"Key": "PitLord",
+"enUS": "Pit Lord"
+},
+{
+"id": 3149,
+"Key": "Balrog",
+"enUS": "Balrog"
+},
+{
+"id": 3150,
+"Key": "VenomLord",
+"enUS": "Venom Lord"
+},
+{
+"id": 3151,
+"Key": "Iron Wolf",
+"enUS": "Iron Wolf"
+},
+{
+"id": 3152,
+"Key": "InvisoSpawner",
+"enUS": "Inviso Spawner"
+},
+{
+"id": 3153,
+"Key": "OblivionKnight",
+"enUS": "Oblivion Knight"
+},
+{
+"id": 3154,
+"Key": "Mage",
+"enUS": "Mage"
+},
+{
+"id": 3155,
+"Key": "AbyssKnight",
+"enUS": "Abyss Knight"
+},
+{
+"id": 3156,
+"Key": "Fighter Mage",
+"enUS": "Fighter Mage"
+},
+{
+"id": 3157,
+"Key": "DoomKnight",
+"enUS": "Doom Knight"
+},
+{
+"id": 3158,
+"Key": "Fighter",
+"enUS": "Fighter"
+},
+{
+"id": 3159,
+"Key": "MawFiend",
+"enUS": "Maw Fiend"
+},
+{
+"id": 3160,
+"Key": "CorpseSpitter",
+"enUS": "Corpse Spitter"
+},
+{
+"id": 3161,
+"Key": "Corpulent",
+"enUS": "Corpulent"
+},
+{
+"id": 3162,
+"Key": "StormCaster",
+"enUS": "Storm Caster"
+},
+{
+"id": 3163,
+"Key": "Strangler",
+"enUS": "Strangler"
+},
+{
+"id": 3164,
+"Key": "Groper",
+"enUS": "Doom Caster"
+},
+{
+"id": 3165,
+"Key": "GrotesqueWyrm",
+"enUS": "Grotesque Wyrm"
+},
+{
+"id": 3166,
+"Key": "StygianDog",
+"enUS": "Stygian Dog"
+},
+{
+"id": 3167,
+"Key": "FleshBeast",
+"enUS": "Flesh Beast"
+},
+{
+"id": 3168,
+"Key": "Grotesque",
+"enUS": "Grotesque"
+},
+{
+"id": 3169,
+"Key": "StygianHag",
+"enUS": "Stygian Hag"
+},
+{
+"id": 3170,
+"Key": "FleshSpawner",
+"enUS": "Flesh Spawner"
+},
+{
+"id": 3171,
+"Key": "RogueScout",
+"enUS": "Rogue Scout"
+},
+{
+"id": 3172,
+"Key": "BloodWingNest",
+"enUS": "Blood Wing Nest"
+},
+{
+"id": 3173,
+"Key": "BloodHookNest",
+"enUS": "Blood Hook Nest"
+},
+{
+"id": 3174,
+"Key": "FeederNest",
+"enUS": "Feeder Nest"
+},
+{
+"id": 3175,
+"Key": "SuckerNest",
+"enUS": "Sucker Nest"
+},
+{
+"id": 3176,
+"Key": "NecroMage",
+"enUS": "Necromage"
+},
+{
+"id": 3177,
+"Key": "NecroSkeleton",
+"enUS": "Necroskeleton"
+},
+{
+"id": 3178,
+"Key": "TrappedSoul",
+"enUS": "Trapped Soul"
+},
+{
+"id": 3181,
+"Key": "Raises Fetishes",
+"enUS": "Raises Fetishes"
+},
+{
+"id": 3182,
+"Key": "Raises Undead",
+"enUS": "Raises Undead"
+},
+{
+"id": 3183,
+"Key": "Lays Eggs",
+"enUS": "Lays Eggs"
+},
+{
+"id": 3184,
+"Key": "Raises Fallen",
+"enUS": "Raises Fallen"
+},
+{
+"id": 3185,
+"Key": "heals Zealots and Cantors",
+"enUS": "Heals Others"
+},
+{
+"id": 3186,
+"Key": "drains mana and stamina",
+"enUS": "Drains Mana and Stamina"
+},
+{
+"id": 3187,
+"Key": "drains mana",
+"enUS": "Drains Mana"
+},
+{
+"id": 3188,
+"Key": "drains stamina",
+"enUS": "Drains Stamina"
+},
+{
+"id": 3189,
+"Key": "stun attack",
+"enUS": "Stun Attack"
+},
+{
+"id": 3190,
+"Key": "eats and spits corspes",
+"enUS": "Eats and Spits Corspes"
+},
+{
+"id": 3191,
+"Key": "homing missiles",
+"enUS": "Homing Missiles Drain Mana"
+},
+{
+"id": 3192,
+"Key": "raises Stygian Dolls",
+"enUS": "Raises Stygian Dolls"
+},
+{
+"id": 3193,
+"Key": "raises Soul Killers",
+"enUS": "Raises Soul Killers"
+},
+{
+"id": 3194,
+"Key": "raises Flayers",
+"enUS": "Raises Flayers"
+},
+{
+"id": 3195,
+"Key": "raises Fetishes",
+"enUS": "Raises Fetishes"
+},
+{
+"id": 3196,
+"Key": "raises Ratmen",
+"enUS": "Raises Ratmen"
+},
+{
+"id": 3197,
+"Key": "steals life",
+"enUS": "Steals Life"
+},
+{
+"id": 3198,
+"Key": "raises undead",
+"enUS": "Raises Undead"
+},
+{
+"id": 3199,
+"Key": "raises Dark Ones",
+"enUS": "Raises Dark Ones"
+},
+{
+"id": 3200,
+"Key": "raises Devilkin",
+"enUS": "Raises Devilkin"
+},
+{
+"id": 3201,
+"Key": "raises Carvers",
+"enUS": "Raises Carvers"
+},
+{
+"id": 3202,
+"Key": "raises Fallen",
+"enUS": "Raises Fallen"
+},
+{
+"id": 3203,
+"Key": "raises Warped Fallen",
+"enUS": "Raises The Warped"
+},
+{
+"id": 3204,
+"Key": "shocking hit",
+"enUS": "shocking hit"
+},
+{
+"id": 3205,
+"Key": "uniquextrastrong",
+"enUS": "Extra Strong"
+},
+{
+"id": 3206,
+"Key": "uniqueextrafast",
+"enUS": "Extra Fast"
+},
+{
+"id": 3207,
+"Key": "uniquecursed",
+"enUS": "Cursed"
+},
+{
+"id": 3208,
+"Key": "uniquemagicresistance",
+"enUS": "Magic Resistant"
+},
+{
+"id": 3209,
+"Key": "uniquefireenchanted",
+"enUS": "Fire Enchanted"
+},
+{
+"id": 3210,
+"Key": "monsteruniqueprop1",
+"enUS": "Cold Enchanted"
+},
+{
+"id": 3211,
+"Key": "monsteruniqueprop2",
+"enUS": "Lightning Enchanted"
+},
+{
+"id": 3212,
+"Key": "monsteruniqueprop3",
+"enUS": "Mana Burn"
+},
+{
+"id": 3213,
+"Key": "monsteruniqueprop4",
+"enUS": "Spectral Hit"
+},
+{
+"id": 3215,
+"Key": "monsteruniqueprop6",
+"enUS": "Stone Skin"
+},
+{
+"id": 3216,
+"Key": "monsteruniqueprop7",
+"enUS": "Multiple Shots"
+},
+{
+"id": 3217,
+"Key": "monsteruniqueprop8",
+"enUS": "Thief"
+},
+{
+"id": 3218,
+"Key": "monsteruniqueprop9",
+"enUS": "Aura Enchanted"
+},
+{
+"id": 3219,
+"Key": "This Cow Bites",
+"enUS": "This Cow Bites"
+},
+{
+"id": 3221,
+"Key": "minion",
+"enUS": "Minion"
+},
+{
+"id": 3246,
+"Key": "MummyGenerator",
+"enUS": "Mummy Sarcophagus"
+},
+{
+"id": 3283,
+"Key": "skeleton",
+"enUS": "Skeleton"
+},
+{
+"id": 3319,
+"Key": "Corpsefire",
+"enUS": "Corpsefire"
+},
+{
+"id": 10002,
+"Key": "Mauler",
+"enUS": "Mauler"
+},
+{
+"id": 10077,
+"Key": "UndeadDescriptX",
+"enUS": "Undead"
+},
+{
+"id": 10078,
+"Key": "DemonID",
+"enUS": "Demon"
+},
+{
+"id": 10908,
+"Key": "DarkStalker",
+"enUS": "Dark Stalker"
+},
+{
+"id": 10909,
+"Key": "VileArcher",
+"enUS": "Vile Archer"
+},
+{
+"id": 11007,
+"Key": "TrappDoor",
+"enUS": "Trap Door"
+},
+{
+"id": 11013,
+"Key": "Fiendra",
+"enUS": "Fiend"
+},
+{
+"id": 11014,
+"Key": "Wraithra",
+"enUS": "Wraith"
+},
+{
+"id": 11015,
+"Key": "Fiend",
+"enUS": "Fiend"
+},
+{
+"id": 11016,
+"Key": "Wraith",
+"enUS": "Wraith"
+},
+{
+"id": 11029,
+"Key": "eats and spits corpses",
+"enUS": "Eats and Spits Corpses"
+},
+{
+"id": 11031,
+"Key": "Shocking Hit",
+"enUS": "Shocking Hit"
+},
+{
+"id": 11084,
+"Key": "champghostlyX",
+"enUS": "Ghostly"
+},
+{
+"id": 11086,
+"Key": "champpossessedX",
+"enUS": "Possessed"
+},
+{
+"id": 11154,
+"Key": "Lilith",
+"enUS": "Lilith"
+},
+{
+"id": 21851,
+"Key": "Baal Subject 1",
+"enUS": "Colenzo the Annihilator"
+},
+{
+"id": 21852,
+"Key": "Baal Subject 2",
+"enUS": "Achmel the Cursed"
+},
+{
+"id": 21853,
+"Key": "Baal Subject 3",
+"enUS": "Bartuc the Bloody"
+},
+{
+"id": 21854,
+"Key": "Baal Subject 4",
+"enUS": "Ventar the Unholy"
+},
+{
+"id": 21855,
+"Key": "Baal Subject 5",
+"enUS": "Lister the Tormentor"
+},
+{
+"id": 21859,
+"Key": "Baal Crab Clone",
+"enUS": "Baal"
+},
+{
+"id": 21860,
+"Key": "Baal Crab to Stairs",
+"enUS": "Baal"
+},
+{
+"id": 21862,
+"Key": "Baal Subject Mummy",
+"enUS": "Unraveler"
+},
+{
+"id": 21864,
+"Key": "Baals Minion",
+"enUS": "Minion of Destruction"
+},
+{
+"id": 22330,
+"Key": "UIFenirsui",
+"enUS": "Dire Wolf"
+},
+{
+"id": 22331,
+"Key": "UiRescuedBarUI",
+"enUS": "Warrior"
+},
+{
+"id": 22334,
+"Key": "Spike Generator",
+"enUS": "Spike Generator"
+},
+{
+"id": 22338,
+"Key": "Invis Pet",
+"enUS": "Pet"
+},
+{
+"id": 22340,
+"Key": "Druid Wolf",
+"enUS": "Wolf"
+},
+{
+"id": 22341,
+"Key": "Druid Totem",
+"enUS": "Druid Spirit"
+},
+{
+"id": 22342,
+"Key": "Druid Fenris",
+"enUS": "Dire Wolf"
+},
+{
+"id": 22343,
+"Key": "Druid Spirit Wolf",
+"enUS": "Spirit Wolf"
+},
+{
+"id": 22344,
+"Key": "Druid Bear",
+"enUS": "Grizzly"
+},
+{
+"id": 22345,
+"Key": "Druid Plague Poppy",
+"enUS": "Plague Poppy"
+},
+{
+"id": 22346,
+"Key": "Druid Cycle of Life",
+"enUS": "Cycle of Life"
+},
+{
+"id": 22347,
+"Key": "Vine Creature",
+"enUS": "Vine Creature"
+},
+{
+"id": 22348,
+"Key": "Eagleexp",
+"enUS": "Eagle"
+},
+{
+"id": 22349,
+"Key": "Wolf",
+"enUS": "Wolf"
+},
+{
+"id": 22350,
+"Key": "Bear",
+"enUS": "Bear"
+},
+{
+"id": 22351,
+"Key": "Siege Door",
+"enUS": "Siege Door"
+},
+{
+"id": 22352,
+"Key": "Seige Tower",
+"enUS": "Seige Tower"
+},
+{
+"id": 22353,
+"Key": "RotWalker",
+"enUS": "Rot Walker"
+},
+{
+"id": 22354,
+"Key": "ReanimatedHorde",
+"enUS": "Reanimated Horde"
+},
+{
+"id": 22355,
+"Key": "ProwlingDead",
+"enUS": "Prowling Dead"
+},
+{
+"id": 22356,
+"Key": "UnholyCorpse",
+"enUS": "Unholy Corpse"
+},
+{
+"id": 22357,
+"Key": "DefiledWarrior",
+"enUS": "Defiled Warrior"
+},
+{
+"id": 22358,
+"Key": "Siege Beast",
+"enUS": "Siege Beast"
+},
+{
+"id": 22359,
+"Key": "CrushBiest",
+"enUS": "Crush Beast"
+},
+{
+"id": 22360,
+"Key": "BloodBringer",
+"enUS": "Blood Bringer"
+},
+{
+"id": 22361,
+"Key": "GoreBearer",
+"enUS": "Gore Bearer"
+},
+{
+"id": 22362,
+"Key": "DeamonSteed",
+"enUS": "Demon Steed"
+},
+{
+"id": 22363,
+"Key": "WailingSpirit",
+"enUS": "Wailing Spirit"
+},
+{
+"id": 22364,
+"Key": "LifeSeeker",
+"enUS": "Life Seeker"
+},
+{
+"id": 22365,
+"Key": "LifeStealer",
+"enUS": "Life Stealer"
+},
+{
+"id": 22366,
+"Key": "DeathlyVisage",
+"enUS": "Deathly Visage"
+},
+{
+"id": 22367,
+"Key": "BoundSpirit",
+"enUS": "Bound Spirit"
+},
+{
+"id": 22368,
+"Key": "BanishedSoul",
+"enUS": "Banished Soul"
+},
+{
+"id": 22369,
+"Key": "Deathexp",
+"enUS": "Death"
+},
+{
+"id": 22370,
+"Key": "Minionexp",
+"enUS": "Enslaved"
+},
+{
+"id": 22371,
+"Key": "Slayerexp",
+"enUS": "Slayer"
+},
+{
+"id": 22372,
+"Key": "IceBoar",
+"enUS": "Ice Boar"
+},
+{
+"id": 22373,
+"Key": "FireBoar",
+"enUS": "Fire Boar"
+},
+{
+"id": 22374,
+"Key": "HellSpawn",
+"enUS": "Hell Spawn"
+},
+{
+"id": 22375,
+"Key": "IceSpawn",
+"enUS": "Ice Spawn"
+},
+{
+"id": 22376,
+"Key": "GreaterHellSpawn",
+"enUS": "Greater Hell Spawn"
+},
+{
+"id": 22377,
+"Key": "GreaterIceSpawn",
+"enUS": "Greater Ice Spawn"
+},
+{
+"id": 22378,
+"Key": "FanaticMinion",
+"enUS": "Fanatic Enslaved"
+},
+{
+"id": 22379,
+"Key": "BerserkSlayer",
+"enUS": "Berserker Slayer"
+},
+{
+"id": 22380,
+"Key": "ConsumedFireBoar",
+"enUS": "Consumed Fire Boar"
+},
+{
+"id": 22381,
+"Key": "ConsumedIceBoar",
+"enUS": "Consumed Ice Boar"
+},
+{
+"id": 22382,
+"Key": "FrenziedHellSpawn",
+"enUS": "Frenzied Hell Spawn"
+},
+{
+"id": 22383,
+"Key": "FrenziedIceSpawn",
+"enUS": "Frenzied Ice Spawn"
+},
+{
+"id": 22384,
+"Key": "InsaneHellSpawn",
+"enUS": "Insane Hell Spawn"
+},
+{
+"id": 22385,
+"Key": "InsaneIceSpawn",
+"enUS": "Insane Ice Spawn"
+},
+{
+"id": 22386,
+"Key": "Succubusexp",
+"enUS": "Succubus"
+},
+{
+"id": 22387,
+"Key": "VileTemptress",
+"enUS": "Vile Temptress"
+},
+{
+"id": 22388,
+"Key": "StygianHarlot",
+"enUS": "Stygian Harlot"
+},
+{
+"id": 22389,
+"Key": "Hell Temptress",
+"enUS": "Hell Temptress"
+},
+{
+"id": 22390,
+"Key": "Blood Temptress",
+"enUS": "Blood Temptress"
+},
+{
+"id": 22391,
+"Key": "Dominus",
+"enUS": "Siren"
+},
+{
+"id": 22392,
+"Key": "VileWitch",
+"enUS": "Vile Witch"
+},
+{
+"id": 22393,
+"Key": "StygianFury",
+"enUS": "Stygian Fury"
+},
+{
+"id": 22394,
+"Key": "Blood Witch",
+"enUS": "Blood Witch"
+},
+{
+"id": 22395,
+"Key": "Hell Witch",
+"enUS": "Hell Witch"
+},
+{
+"id": 22396,
+"Key": "OverSeer",
+"enUS": "Overseer"
+},
+{
+"id": 22397,
+"Key": "Lasher",
+"enUS": "Lasher"
+},
+{
+"id": 22398,
+"Key": "OverLord",
+"enUS": "Overlord"
+},
+{
+"id": 22399,
+"Key": "BloodBoss",
+"enUS": "Blood Boss"
+},
+{
+"id": 22400,
+"Key": "HellWhip",
+"enUS": "Hell Whip"
+},
+{
+"id": 22401,
+"Key": "MinionSpawner",
+"enUS": "Demon Portal"
+},
+{
+"id": 22402,
+"Key": "MinionSlayerSpawner",
+"enUS": "Demon Portal"
+},
+{
+"id": 22403,
+"Key": "MinionIce/fireBoarSpawner",
+"enUS": "Demon Portal"
+},
+{
+"id": 22404,
+"Key": "Minionice/hellSpawnSpawner",
+"enUS": "Demon Portal"
+},
+{
+"id": 22405,
+"Key": "MinionGreaterIce/hellSpawnSpawner",
+"enUS": "Demon Portal"
+},
+{
+"id": 22406,
+"Key": "Imp1",
+"enUS": "Demon Imp"
+},
+{
+"id": 22407,
+"Key": "Imp2",
+"enUS": "Demon Rascal"
+},
+{
+"id": 22408,
+"Key": "Imp3",
+"enUS": "Demon Gremlin"
+},
+{
+"id": 22409,
+"Key": "Imp4",
+"enUS": "Demon Trickster"
+},
+{
+"id": 22410,
+"Key": "Imp5",
+"enUS": "Demon Sprite"
+},
+{
+"id": 22411,
+"Key": "CatapultN",
+"enUS": "Catapult"
+},
+{
+"id": 22412,
+"Key": "CatapultS",
+"enUS": "Catapult"
+},
+{
+"id": 22413,
+"Key": "CatapultE",
+"enUS": "Catapult"
+},
+{
+"id": 22414,
+"Key": "CatapultW",
+"enUS": "Catapult"
+},
+{
+"id": 22415,
+"Key": "Frozen Horror1",
+"enUS": "Frozen Creeper"
+},
+{
+"id": 22416,
+"Key": "Frozen Horror2",
+"enUS": "Frozen Terror"
+},
+{
+"id": 22417,
+"Key": "Frozen Horror3",
+"enUS": "Frozen Scourge"
+},
+{
+"id": 22418,
+"Key": "Frozen Horror4",
+"enUS": "Frozen Horror"
+},
+{
+"id": 22419,
+"Key": "Frozen Horror5",
+"enUS": "Frozen Scorch"
+},
+{
+"id": 22420,
+"Key": "Blood Lord1",
+"enUS": "Moon Lord"
+},
+{
+"id": 22421,
+"Key": "Blood Lord2",
+"enUS": "Night Lord"
+},
+{
+"id": 22422,
+"Key": "Blood Lord3",
+"enUS": "Blood Lord"
+},
+{
+"id": 22423,
+"Key": "Blood Lord4",
+"enUS": "Hell Lord"
+},
+{
+"id": 22424,
+"Key": "Blood Lord5",
+"enUS": "Death Lord"
+},
+{
+"id": 22425,
+"Key": "Catapult Spotter N",
+"enUS": "Catapult"
+},
+{
+"id": 22426,
+"Key": "Catapult Spotter S",
+"enUS": "Catapult"
+},
+{
+"id": 22427,
+"Key": "Catapult Spotter E",
+"enUS": "Catapult"
+},
+{
+"id": 22428,
+"Key": "Catapult Spotter W",
+"enUS": "Catapult"
+},
+{
+"id": 22429,
+"Key": "Catapult Spotter Siege",
+"enUS": "Catapult"
+},
+{
+"id": 22430,
+"Key": "CatapultSiege",
+"enUS": "Catapult"
+},
+{
+"id": 22431,
+"Key": "Barricade Wall Right",
+"enUS": "Barricade"
+},
+{
+"id": 22432,
+"Key": "Barricade Wall Left",
+"enUS": "Barricade"
+},
+{
+"id": 22433,
+"Key": "Barricade Door",
+"enUS": "Barricaded Door"
+},
+{
+"id": 22434,
+"Key": "Barricade Tower",
+"enUS": "Barricaded Tower"
+},
+{
+"id": 22435,
+"Key": "Siege Boss",
+"enUS": "Shenk the Overseer"
+},
+{
+"id": 22436,
+"Key": "Evil hut",
+"enUS": "Evil Demon Hut"
+},
+{
+"id": 22437,
+"Key": "Death Mauler1",
+"enUS": "Death Mauler"
+},
+{
+"id": 22438,
+"Key": "Death Mauler2",
+"enUS": "Death Brawler"
+},
+{
+"id": 22439,
+"Key": "Death Mauler3",
+"enUS": "Death Slasher"
+},
+{
+"id": 22440,
+"Key": "Death Mauler4",
+"enUS": "Death Berserker"
+},
+{
+"id": 22441,
+"Key": "Death Mauler5",
+"enUS": "Death Brigadier"
+},
+{
+"id": 22442,
+"Key": "SnowYeti1",
+"enUS": "Snow Drifter"
+},
+{
+"id": 22443,
+"Key": "SnowYeti2",
+"enUS": "Abominable"
+},
+{
+"id": 22444,
+"Key": "SnowYeti3",
+"enUS": "Chilled Froth"
+},
+{
+"id": 22445,
+"Key": "SnowYeti4",
+"enUS": "Frozen Abyss"
+},
+{
+"id": 22446,
+"Key": "Baal Throne",
+"enUS": "Baal"
+},
+{
+"id": 22447,
+"Key": "Baal Crab",
+"enUS": "Baal"
+},
+{
+"id": 22448,
+"Key": "Baal Taunt",
+"enUS": "Baal"
+},
+{
+"id": 22449,
+"Key": "Putrid Defiler1",
+"enUS": "Putrid Defiler"
+},
+{
+"id": 22450,
+"Key": "Putrid Defiler2",
+"enUS": "Wretched Defiler"
+},
+{
+"id": 22451,
+"Key": "Putrid Defiler3",
+"enUS": "Fetid Defiler"
+},
+{
+"id": 22452,
+"Key": "Putrid Defiler4",
+"enUS": "Rancid Defiler"
+},
+{
+"id": 22453,
+"Key": "Putrid Defiler5",
+"enUS": "Rank Defiler"
+},
+{
+"id": 22454,
+"Key": "Pain Worm1",
+"enUS": "Pain Worm"
+},
+{
+"id": 22455,
+"Key": "Pain Worm2",
+"enUS": "Torment Worm"
+},
+{
+"id": 22456,
+"Key": "Pain Worm3",
+"enUS": "Agony Worm"
+},
+{
+"id": 22457,
+"Key": "Pain Worm4",
+"enUS": "Menace Worm"
+},
+{
+"id": 22458,
+"Key": "Pain Worm5",
+"enUS": "Anguish Worm"
+},
+{
+"id": 22459,
+"Key": "WolfRider5",
+"enUS": "Warped Fallen Wolfrider"
+},
+{
+"id": 22460,
+"Key": "WolfRider4",
+"enUS": "Darkone Wolfrider"
+},
+{
+"id": 22461,
+"Key": "WolfRider3",
+"enUS": "Devilkin Wolfrider"
+},
+{
+"id": 22462,
+"Key": "WolfRider2",
+"enUS": "Carver Wolfrider"
+},
+{
+"id": 22463,
+"Key": "WolfRider1",
+"enUS": "Fallen Wolfrider"
+},
+{
+"id": 22469,
+"Key": "Inferno Sentry",
+"enUS": "Inferno Sentry"
+},
+{
+"id": 22486,
+"Key": "Curly",
+"enUS": "Curly"
+},
+{
+"id": 22487,
+"Key": "Larry",
+"enUS": "Larry"
+},
+{
+"id": 22488,
+"Key": "Ancient Barbarian 3",
+"enUS": "Korlic"
+},
+{
+"id": 22489,
+"Key": "Ancient Barbarian 2",
+"enUS": "Madawc"
+},
+{
+"id": 22490,
+"Key": "Ancient Barbarian 1",
+"enUS": "Talic"
+},
+{
+"id": 22491,
+"Key": "Blaze Ripper",
+"enUS": "Blaze Ripper"
+},
+{
+"id": 22492,
+"Key": "Magma Torquer",
+"enUS": "Magma Torquer"
+},
+{
+"id": 22493,
+"Key": "Sharp Tooth Sayer",
+"enUS": "Sharptooth Slayer"
+},
+{
+"id": 22494,
+"Key": "Vinvear Molech",
+"enUS": "Vinvear Molech"
+},
+{
+"id": 22495,
+"Key": "Anodized Elite",
+"enUS": "Hell's Belle"
+},
+{
+"id": 22496,
+"Key": "Snapchip Shatter",
+"enUS": "Snapchip Shatter"
+},
+{
+"id": 22497,
+"Key": "Pindleskin",
+"enUS": "Pindleskin"
+},
+{
+"id": 22498,
+"Key": "Threash Socket",
+"enUS": "Thresh Socket"
+},
+{
+"id": 22499,
+"Key": "Eyeback Unleashed",
+"enUS": "Eyeback the Unleashed"
+},
+{
+"id": 22500,
+"Key": "Megaflow Rectifier",
+"enUS": "Eldritch the Rectifier"
+},
+{
+"id": 22501,
+"Key": "Dac Farren",
+"enUS": "Dac Farren"
+},
+{
+"id": 22502,
+"Key": "Bonesaw Breaker",
+"enUS": "Bonesaw Breaker"
+},
+{
+"id": 22503,
+"Key": "Axe Dweller",
+"enUS": "Axe Dweller"
+},
+{
+"id": 22504,
+"Key": "Frozenstein",
+"enUS": "Frozenstein"
+},
+{
+"id": 23966,
+"Key": "StrMonsterWindow",
+"enUS": "Stained Glass Window"
+}
+]

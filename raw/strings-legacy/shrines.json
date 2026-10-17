@@ -1,0 +1,252 @@
+[
+{
+"id": 2225,
+"Key": "shrine",
+"enUS": "shrine"
+},
+{
+"id": 3255,
+"Key": "Shrine",
+"enUS": "Shrine"
+},
+{
+"id": 3683,
+"Key": "ShrMsg0",
+"enUS": "You feel nothing."
+},
+{
+"id": 3684,
+"Key": "ShrMsg1",
+"enUS": "You feel refreshed."
+},
+{
+"id": 3685,
+"Key": "ShrMsg2",
+"enUS": "You feel healthy."
+},
+{
+"id": 3686,
+"Key": "ShrMsg3",
+"enUS": "You feel recharged."
+},
+{
+"id": 3687,
+"Key": "ShrMsg4",
+"enUS": "You feel incredibly healthy."
+},
+{
+"id": 3688,
+"Key": "ShrMsg5",
+"enUS": "You feel infused with energy."
+},
+{
+"id": 3689,
+"Key": "ShrMsg6",
+"enUS": "Your skin hardens."
+},
+{
+"id": 3690,
+"Key": "ShrMsg7",
+"enUS": "You feel ready for battle."
+},
+{
+"id": 3691,
+"Key": "ShrMsg8",
+"enUS": "You no longer fear fire."
+},
+{
+"id": 3692,
+"Key": "ShrMsg9",
+"enUS": "You no longer fear cold."
+},
+{
+"id": 3693,
+"Key": "ShrMsg10",
+"enUS": "You no longer fear lightning."
+},
+{
+"id": 3694,
+"Key": "ShrMsg11",
+"enUS": "You no longer fear poison."
+},
+{
+"id": 3695,
+"Key": "ShrMsg12",
+"enUS": "You feel more skillful."
+},
+{
+"id": 3696,
+"Key": "ShrMsg13",
+"enUS": "Your spiritual force recovers quickly."
+},
+{
+"id": 3697,
+"Key": "ShrMsg14",
+"enUS": "The weight of the world seems lighter."
+},
+{
+"id": 3698,
+"Key": "ShrMsg15",
+"enUS": "Your experience teaches you well."
+},
+{
+"id": 3699,
+"Key": "ShrMsg16",
+"enUS": "Your sense of identity is subtly changed."
+},
+{
+"id": 3700,
+"Key": "ShrMsg17",
+"enUS": "The freedom to go home..."
+},
+{
+"id": 3701,
+"Key": "ShrMsg18",
+"enUS": "A marvelous gem..."
+},
+{
+"id": 3702,
+"Key": "ShrMsg19",
+"enUS": "A fiery death..."
+},
+{
+"id": 3703,
+"Key": "ShrMsg20",
+"enUS": "Death's advocate approaches."
+},
+{
+"id": 3704,
+"Key": "ShrMsg21",
+"enUS": "A circle of flame..."
+},
+{
+"id": 3705,
+"Key": "ShrMsg22",
+"enUS": "A circle of death..."
+},
+{
+"id": 10809,
+"Key": "ShrId0",
+"enUS": "Null Shrine"
+},
+{
+"id": 10810,
+"Key": "ShrId1",
+"enUS": "Refilling Shrine"
+},
+{
+"id": 10811,
+"Key": "ShrId2",
+"enUS": "Health Shrine"
+},
+{
+"id": 10812,
+"Key": "ShrId3",
+"enUS": "Mana Shrine"
+},
+{
+"id": 10813,
+"Key": "ShrId4",
+"enUS": "Health Exchange Shrine"
+},
+{
+"id": 10814,
+"Key": "ShrId5",
+"enUS": "Mana Exchange Shrine"
+},
+{
+"id": 10815,
+"Key": "ShrId6",
+"enUS": "Armor Shrine"
+},
+{
+"id": 10816,
+"Key": "ShrId7",
+"enUS": "Combat Shrine"
+},
+{
+"id": 10817,
+"Key": "ShrId8",
+"enUS": "Resist Fire Shrine"
+},
+{
+"id": 10818,
+"Key": "ShrId9",
+"enUS": "Resist Cold Shrine"
+},
+{
+"id": 10819,
+"Key": "ShrId10",
+"enUS": "Resist Lightning Shrine"
+},
+{
+"id": 10820,
+"Key": "ShrId11",
+"enUS": "Resist Poison Shrine"
+},
+{
+"id": 10821,
+"Key": "ShrId12",
+"enUS": "Skill Shrine"
+},
+{
+"id": 10822,
+"Key": "ShrId13",
+"enUS": "Mana Recharge Shrine"
+},
+{
+"id": 10823,
+"Key": "ShrId14",
+"enUS": "Stamina Shrine"
+},
+{
+"id": 10824,
+"Key": "ShrId15",
+"enUS": "Experience Shrine"
+},
+{
+"id": 10825,
+"Key": "ShrId16",
+"enUS": "Enirhs Shrine"
+},
+{
+"id": 10826,
+"Key": "ShrId17",
+"enUS": "Portal Shrine"
+},
+{
+"id": 10827,
+"Key": "ShrId18",
+"enUS": "Gem Shrine"
+},
+{
+"id": 10828,
+"Key": "ShrId19",
+"enUS": "Fire Shrine"
+},
+{
+"id": 10829,
+"Key": "ShrId20",
+"enUS": "Monster Shrine"
+},
+{
+"id": 10830,
+"Key": "ShrId21",
+"enUS": "Exploding Shrine"
+},
+{
+"id": 10831,
+"Key": "ShrId22",
+"enUS": "Poison Shrine"
+},
+{
+"id": 22592,
+"Key": "Shrine2wilderness",
+"enUS": "Shrine"
+},
+{
+"id": 22593,
+"Key": "Shrine3wilderness",
+"enUS": "Shrine"
+}
+]

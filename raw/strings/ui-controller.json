@@ -1,0 +1,1582 @@
+[
+{
+"id": 23007,
+"Key": "comparisonTooltipController",
+"enUS": "Hold  to compare"
+},
+{
+"id": 23008,
+"Key": "UseItemController",
+"enUS": "Hold  to Use"
+},
+{
+"id": 23009,
+"Key": "OpenHoradricCubeController",
+"enUS": "Hold  to Open"
+},
+{
+"id": 23010,
+"Key": "ReadScrollController",
+"enUS": "Hold  to Read"
+},
+{
+"id": 23011,
+"Key": "StrYouDiedConsole",
+"enUS": "You have died\nPress  to continue."
+},
+{
+"id": 23961,
+"Key": "RepairAllConfirmation",
+"enUS": "Repair all equipment for %d gold?"
+},
+{
+"id": 23981,
+"Key": "FireImmunityIcon",
+"enUS": ""
+},
+{
+"id": 23982,
+"Key": "ColdImmunityIcon",
+"enUS": ""
+},
+{
+"id": 23983,
+"Key": "LightningImmunityIcon",
+"enUS": ""
+},
+{
+"id": 23984,
+"Key": "PoisonImmunityIcon",
+"enUS": ""
+},
+{
+"id": 23985,
+"Key": "PhysicalImmunityIcon",
+"enUS": ""
+},
+{
+"id": 23986,
+"Key": "MagicImmunityIcon",
+"enUS": ""
+},
+{
+"id": 24001,
+"Key": "UsePotionOfLifeController",
+"enUS": "Hold  to permanently add 20 to Life"
+},
+{
+"id": 24002,
+"Key": "UseBookOfSkillController",
+"enUS": "Hold  to learn skill of your choice"
+},
+{
+"id": 24003,
+"Key": "UseScrollOfResistanceController",
+"enUS": "Hold  to Cast"
+},
+{
+"id": 24045,
+"Key": "RebindSkill",
+"enUS": "Press button to rebind skill"
+},
+{
+"id": 24053,
+"Key": "SkillNameInteract",
+"enUS": "Interact"
+},
+{
+"id": 24054,
+"Key": "SkillNameLoot",
+"enUS": "Loot"
+},
+{
+"id": 24055,
+"Key": "SkillDescInteract",
+"enUS": "Interact with elements in the world"
+},
+{
+"id": 24056,
+"Key": "SkillDescLoot",
+"enUS": "Pick up Items, weapons, and armor"
+},
+{
+"id": 24075,
+"Key": "ControllerCursorSpeedSetting",
+"enUS": "Cursor Sensitivity"
+},
+{
+"id": 24076,
+"Key": "CombatFeedbackTextSetting",
+"enUS": "Attack Miss Indicator"
+},
+{
+"id": 24077,
+"Key": "ControllerWeaponSwapSeparateBindingsSetting",
+"enUS": "Weapon Swap Separate Skill Buttons"
+},
+{
+"id": 26013,
+"Key": "ControllerPromptAssignStatPoint",
+"enUS": "Assign One Stat Point"
+},
+{
+"id": 26014,
+"Key": "ControllerPromptAssignSkillPoint",
+"enUS": "Assign Skill Point(s)"
+},
+{
+"id": 26015,
+"Key": "ControllerPromptHire",
+"enUS": "Hire"
+},
+{
+"id": 26016,
+"Key": "ControllerPromptItemCompare",
+"enUS": "Compare"
+},
+{
+"id": 26017,
+"Key": "ControllerPromptItemAssignToBelt",
+"enUS": "Assign to Belt"
+},
+{
+"id": 26018,
+"Key": "ControllerPromptItemDropOnGround",
+"enUS": "Drop"
+},
+{
+"id": 26019,
+"Key": "ControllerPromptItemEquipOnSelf",
+"enUS": "Equip"
+},
+{
+"id": 26020,
+"Key": "ControllerPromptItemEquipOnHireling",
+"enUS": "Equip on Mercenary"
+},
+{
+"id": 26021,
+"Key": "ControllerPromptItemPlaceInInventory",
+"enUS": "Place"
+},
+{
+"id": 26022,
+"Key": "ControllerPromptItemPickUpFromInventory",
+"enUS": "Pick Up"
+},
+{
+"id": 26023,
+"Key": "ControllerPromptItemMoveToInventory",
+"enUS": "Move to Inventory"
+},
+{
+"id": 26024,
+"Key": "ControllerPromptItemMoveToHoradricCube",
+"enUS": "Move to Horadric Cube"
+},
+{
+"id": 26025,
+"Key": "ControllerPromptItemMoveToSharedStash",
+"enUS": "Move to Shared Stash"
+},
+{
+"id": 26026,
+"Key": "ControllerPromptItemMoveToPrivateStash",
+"enUS": "Move to Private Stash"
+},
+{
+"id": 26027,
+"Key": "ControllerPromptItemRead",
+"enUS": "Read"
+},
+{
+"id": 26028,
+"Key": "ControllerPromptItemOpen",
+"enUS": "Open"
+},
+{
+"id": 26029,
+"Key": "ControllerPromptItemUse",
+"enUS": "Use"
+},
+{
+"id": 26030,
+"Key": "ControllerPromptHoldFormatString",
+"enUS": " (Hold to %s)"
+},
+{
+"id": 26031,
+"Key": "ControllerPromptHoldToSortInventory",
+"enUS": "Hold to Sort"
+},
+{
+"id": 26032,
+"Key": "ControllerPromptViewAdvancedStats",
+"enUS": "View Advanced Stats"
+},
+{
+"id": 26033,
+"Key": "ControllerPromptTravelToWaypoint",
+"enUS": "Travel"
+},
+{
+"id": 26034,
+"Key": "ControllerPromptCharacterCreateViewClass",
+"enUS": "View Class"
+},
+{
+"id": 26035,
+"Key": "ControllerPromptCharacterCreateSelectClass",
+"enUS": "Select Class"
+},
+{
+"id": 26036,
+"Key": "ControllerPromptCharacterCreateReturnToMainMenu",
+"enUS": "Return to Main Menu"
+},
+{
+"id": 26037,
+"Key": "ControllerPromptCharacterCreateChangeClass",
+"enUS": "Change Class"
+},
+{
+"id": 26038,
+"Key": "ControllerPromptCharacterCreateGenerateName",
+"enUS": "Generate Name"
+},
+{
+"id": 26039,
+"Key": "ControllerPromptToggleHDMode",
+"enUS": "Legacy Toggle"
+},
+{
+"id": 26040,
+"Key": "ControllerPromptSelectCharacter",
+"enUS": "Select"
+},
+{
+"id": 26041,
+"Key": "ControllerPromptDeleteCharacter",
+"enUS": "Delete Character"
+},
+{
+"id": 26042,
+"Key": "ControllerPromptChangeCharacter",
+"enUS": "Change Character"
+},
+{
+"id": 26043,
+"Key": "ControllerPromptCharacterSelectReturnToMainMenu",
+"enUS": "Back"
+},
+{
+"id": 26044,
+"Key": "ControllerPromptCloseMenu",
+"enUS": "Close Menu"
+},
+{
+"id": 26045,
+"Key": "ControllerPromptModalAccept",
+"enUS": "Accept"
+},
+{
+"id": 26046,
+"Key": "ControllerPromptModalCancel",
+"enUS": "Back"
+},
+{
+"id": 26063,
+"Key": "ControllerPromptBindSkillButton",
+"enUS": "Bind Skill"
+},
+{
+"id": 26064,
+"Key": "ControllerPauseMenuTitle",
+"enUS": "Options"
+},
+{
+"id": 26066,
+"Key": "ControllerPromptUseOnHireling",
+"enUS": "Use on Mercenary"
+},
+{
+"id": 26075,
+"Key": "ControllerPromptItemUnassignFromBelt",
+"enUS": "Unassign from Belt"
+},
+{
+"id": 26080,
+"Key": "AutoGoldTextSetting",
+"enUS": "Auto-Gold Pickup"
+},
+{
+"id": 26081,
+"Key": "SkillAmmoFeedbackText",
+"enUS": "Show Ammo Count on Skills"
+},
+{
+"id": 26091,
+"Key": "ControllerPromptSpellUse",
+"enUS": "Use %s"
+},
+{
+"id": 26092,
+"Key": "ControllerPromptSpellCancel",
+"enUS": "Cancel"
+},
+{
+"id": 26093,
+"Key": "EmoteHelp",
+"enUS": "Help!"
+},
+{
+"id": 26094,
+"Key": "EmoteFollowMe",
+"enUS": "Follow Me"
+},
+{
+"id": 26095,
+"Key": "EmoteForYou",
+"enUS": "For You"
+},
+{
+"id": 26096,
+"Key": "EmoteThanks",
+"enUS": "Thanks"
+},
+{
+"id": 26097,
+"Key": "EmoteSorry",
+"enUS": "Sorry"
+},
+{
+"id": 26098,
+"Key": "EmoteBye",
+"enUS": "Bye!"
+},
+{
+"id": 26099,
+"Key": "EmoteDie",
+"enUS": "Die!"
+},
+{
+"id": 26100,
+"Key": "EmoteRun",
+"enUS": "Run!"
+},
+{
+"id": 26101,
+"Key": "EmoteGG",
+"enUS": "GG"
+},
+{
+"id": 26102,
+"Key": "EmoteNeedToTP",
+"enUS": "Need to TP"
+},
+{
+"id": 26103,
+"Key": "EmoteBagFull",
+"enUS": "Bag's Full"
+},
+{
+"id": 26104,
+"Key": "EmoteNeedThat",
+"enUS": "Need That?"
+},
+{
+"id": 26105,
+"Key": "CharacterCreateLadderDisabled",
+"enUS": "Ladder can only be played with an online character."
+},
+{
+"id": 26106,
+"Key": "CharacterCreateExpansionDisabled",
+"enUS": "The chosen class can only be played as an expansion character."
+},
+{
+"id": 26107,
+"Key": "ControllerPromptItemMoveToImbue",
+"enUS": "Move to Imbue"
+},
+{
+"id": 26114,
+"Key": "ControllerPromptItemUnequip",
+"enUS": "Unequip"
+},
+{
+"id": 26175,
+"Key": "hireComparisonTooltipController",
+"enUS": "Hold  to Compare"
+},
+{
+"id": 26179,
+"Key": "ControllerHelpToggleSkills",
+"enUS": "Skill toggle  "
+},
+{
+"id": 26180,
+"Key": "ControllerHelpHighItems",
+"enUS": "Show item labels  "
+},
+{
+"id": 26181,
+"Key": "ControllerHelpRun",
+"enUS": "Move\n(PRESS) Run / Walk Toggle"
+},
+{
+"id": 26182,
+"Key": "ControllerHelpBelt1",
+"enUS": "Belt slot 1  "
+},
+{
+"id": 26183,
+"Key": "ControllerHelpBelt2",
+"enUS": "Belt slot 2  "
+},
+{
+"id": 26184,
+"Key": "ControllerHelpBelt3",
+"enUS": "Belt slot 3  "
+},
+{
+"id": 26185,
+"Key": "ControllerHelpBelt4",
+"enUS": "Belt slot 4  "
+},
+{
+"id": 26186,
+"Key": "ControllerHelpAutoMap",
+"enUS": "Automap"
+},
+{
+"id": 26187,
+"Key": "ControllerHelpSkill6",
+"enUS": "  Skill 6"
+},
+{
+"id": 26188,
+"Key": "ControllerHelpSkill5",
+"enUS": "  Skill 5"
+},
+{
+"id": 26189,
+"Key": "ControllerHelpSkill4",
+"enUS": "  Skill 4"
+},
+{
+"id": 26190,
+"Key": "ControllerHelpSkill3",
+"enUS": "  Skill 3"
+},
+{
+"id": 26191,
+"Key": "ControllerHelpSkill2",
+"enUS": "  Skill 2"
+},
+{
+"id": 26192,
+"Key": "ControllerHelpSkill1",
+"enUS": "  Skill 1"
+},
+{
+"id": 26193,
+"Key": "ControllerHelpGameMenu",
+"enUS": "Game Menu"
+},
+{
+"id": 26194,
+"Key": "ControllerHelpEmote",
+"enUS": "(PRESS) Swap Weapons \n(HOLD) Emote wheel"
+},
+{
+"id": 26195,
+"Key": "ControllerHelpSkillsBar",
+"enUS": "Skills Bar"
+},
+{
+"id": 26196,
+"Key": "ControllerHelpSkillsBackBar",
+"enUS": "Skills Back Bar"
+},
+{
+"id": 26313,
+"Key": "ControllerCycleComparisonTooltips",
+"enUS": "Press  to Cycle"
+},
+{
+"id": 26327,
+"Key": "ControllerPromptHoldToPopulateBelt",
+"enUS": "Hold to Populate Belt"
+},
+{
+"id": 26334,
+"Key": "UseTokenOfAbsolutionController",
+"enUS": "Hold  to reset Stat/Skill Points"
+},
+{
+"id": 26339,
+"Key": "ControllerTitleScreenPrompt",
+"enUS": "Press  to Begin"
+},
+{
+"id": 26350,
+"Key": "ControllerInteractButton",
+"enUS": ""
+},
+{
+"id": 26356,
+"Key": "ControllerHelpSkill4Switch",
+"enUS": "  Skill 4"
+},
+{
+"id": 26357,
+"Key": "ControllerHelpSkill3Switch",
+"enUS": "  Skill 3"
+},
+{
+"id": 26358,
+"Key": "ControllerHelpSkill2Switch",
+"enUS": "  Skill 2"
+},
+{
+"id": 26359,
+"Key": "ControllerHelpSkill1Switch",
+"enUS": "  Skill 1"
+},
+{
+"id": 26382,
+"Key": "OptionsMenuWeaponSwapUniqueBindingsTooltip",
+"enUS": "Skill bindings will be separate when\nswapping weapons."
+},
+{
+"id": 26404,
+"Key": "ControllerPromptCancelJoin",
+"enUS": "Cancel Join"
+},
+{
+"id": 26405,
+"Key": "ControllerPromptHoldFormatStringStandalone",
+"enUS": "Hold to %s"
+},
+{
+"id": 26411,
+"Key": "EnterCharacterName",
+"enUS": "Press  to Enter Name"
+},
+{
+"id": 26415,
+"Key": "SkillNameEmoteWheel",
+"enUS": "Emote Wheel"
+},
+{
+"id": 26416,
+"Key": "SkillDescEmoteWheel",
+"enUS": "Open the Emote Wheel"
+},
+{
+"id": 26461,
+"Key": "OptionsMenuControllerCursorSpeedTooltip",
+"enUS": "Determines the cursor sensitivity on\nthe user interface."
+},
+{
+"id": 26467,
+"Key": "EmoteMore",
+"enUS": "More"
+},
+{
+"id": 26468,
+"Key": "EmoteSelling",
+"enUS": "Selling"
+},
+{
+"id": 26469,
+"Key": "EmoteLinkItem",
+"enUS": "Link Item"
+},
+{
+"id": 26470,
+"Key": "itemLinkTooltipController",
+"enUS": "Link Item in Chat"
+},
+{
+"id": 26591,
+"Key": "ControllerReconnectMessage",
+"enUS": "Please Reconnect Controller"
+},
+{
+"id": 26620,
+"Key": "ShowProfile",
+"enUS": "Show Profile"
+},
+{
+"id": 26636,
+"Key": "ControllerSettingsAcceptAll",
+"enUS": "Accept All"
+},
+{
+"id": 26637,
+"Key": "ControllerSettingsDefault",
+"enUS": "Default"
+},
+{
+"id": 26639,
+"Key": "PlayStationActivityHintDenOfEvilHeader",
+"enUS": "Focus the Fallen Shamans"
+},
+{
+"id": 26640,
+"Key": "PlayStationActivityHintDenOfEvilDescription",
+"enUS": "If left alone, Fallen Shamans will resurrect their fellow Fallen."
+},
+{
+"id": 26641,
+"Key": "PlayStationActivityHintSistersBurialGroundHeader",
+"enUS": "Slow Blood Raven"
+},
+{
+"id": 26642,
+"Key": "PlayStationActivityHintSistersBurialGroundDescription",
+"enUS": "Cold damage can help slow Blood Raven making her easier to hit."
+},
+{
+"id": 26643,
+"Key": "PlayStationActivityHintSearchForCainHeader",
+"enUS": "Find the Cairn Stones"
+},
+{
+"id": 26644,
+"Key": "PlayStationActivityHintSearchForCainDescription",
+"enUS": "Once Akara deciphers the Scroll of Inifuss, you will need to find the Cairn Stones in the Stony Fields. Make sure that you have the waypoint to get there quickly."
+},
+{
+"id": 26645,
+"Key": "PlayStationActivityHintTheForgottenTowerHeader",
+"enUS": "Beware the Countess' fire"
+},
+{
+"id": 26646,
+"Key": "PlayStationActivityHintTheForgottenTowerDescription",
+"enUS": "The Countess is Fire Enchanted so not only do her attacks deal fire damage, but her corpse will explode when she dies."
+},
+{
+"id": 26647,
+"Key": "PlayStationActivityHintSistersToTheSlaughterHeader",
+"enUS": "Boost poison resistance"
+},
+{
+"id": 26648,
+"Key": "PlayStationActivityHintSistersToTheSlaughterDescription",
+"enUS": "Andariel can deal large amounts of poison damage. Be sure to have poison resistance or Antidote Potions to aid in the fight."
+},
+{
+"id": 26649,
+"Key": "PlayStationActivityHintRadamentsLairHeader",
+"enUS": "Deny Radament corpses"
+},
+{
+"id": 26650,
+"Key": "PlayStationActivityHintRadamentsLairDescription",
+"enUS": "Freezing enemies will cause them to shatter on death, leaving no corpse for Radament to raise. Alternatively, make use of the corpses before Radament can!"
+},
+{
+"id": 26651,
+"Key": "PlayStationActivityHintTheSummonerHeader",
+"enUS": "Protect against cold"
+},
+{
+"id": 26652,
+"Key": "PlayStationActivityHintTheSummonerDescription",
+"enUS": "Cold resist can make the Summoner's attacks less lethal."
+},
+{
+"id": 26653,
+"Key": "PlayStationActivityHintTheSevenTombsHeader",
+"enUS": "Portal away if necessary"
+},
+{
+"id": 26654,
+"Key": "PlayStationActivityHintTheSevenTombsDescription",
+"enUS": "Town Portals can be created mid battle, allowing you to return to town to restock on potions if necessary."
+},
+{
+"id": 26655,
+"Key": "PlayStationActivityHintTheGoldenBirdHeader",
+"enUS": "Hunt a unique monster"
+},
+{
+"id": 26656,
+"Key": "PlayStationActivityHintTheGoldenBirdDescription",
+"enUS": "The Jade Figurine is dropped from the first unique monster you encounter after leaving the Kurast Docks."
+},
+{
+"id": 26657,
+"Key": "PlayStationActivityHintTheBlackenedTempleHeader",
+"enUS": "Divide and conquer"
+},
+{
+"id": 26658,
+"Key": "PlayStationActivityHintTheBlackenedTempleDescription",
+"enUS": "Members of the High Council can be lured away making for easier fights."
+},
+{
+"id": 26659,
+"Key": "PlayStationActivityHintTheGuardianHeader",
+"enUS": "Up close and personal"
+},
+{
+"id": 26660,
+"Key": "PlayStationActivityHintTheGuardianDescription",
+"enUS": "Mephisto excels at range so keeping him close can help mitigate his damage."
+},
+{
+"id": 26661,
+"Key": "PlayStationActivityHintFallenAngelHeader",
+"enUS": "Boost cold resistance"
+},
+{
+"id": 26662,
+"Key": "PlayStationActivityHintFallenAngelDescription",
+"enUS": "Izual has cold attacks. Be sure to have cold resistance or Thawing Potions to aid in the fight."
+},
+{
+"id": 26663,
+"Key": "PlayStationActivityHintHellsForgeHeader",
+"enUS": "Isolate Hephasto"
+},
+{
+"id": 26664,
+"Key": "PlayStationActivityHintHellsForgeDescription",
+"enUS": "Hephasto can be lured away from his forge so that he is alone."
+},
+{
+"id": 26665,
+"Key": "PlayStationActivityHintTerrorsEndHeader",
+"enUS": "Be cautious with portal placement"
+},
+{
+"id": 26666,
+"Key": "PlayStationActivityHintTerrorsEndDescription",
+"enUS": "If you need to retreat from the fight, then make sure that your Town Portal is out of Diablo's vision or he might cast Bone Prison on them."
+},
+{
+"id": 26667,
+"Key": "PlayStationActivityHintSiegeOfHarrogathHeader",
+"enUS": "Focus the Overseers"
+},
+{
+"id": 26668,
+"Key": "PlayStationActivityHintSiegeOfHarrogathDescription",
+"enUS": "Overseers can cause minions to go into a frenzy, making them charge you and explode."
+},
+{
+"id": 26669,
+"Key": "PlayStationActivityHintRiteOfPassageHeader",
+"enUS": "Focus Madawc"
+},
+{
+"id": 26670,
+"Key": "PlayStationActivityHintRiteOfPassageDescription",
+"enUS": "Madawc’s double throw can stun you long enough for the others to land fatal blows. Try targeting him first."
+},
+{
+"id": 26681,
+"Key": "OptionsMenuControllerRumbleEnabledText",
+"enUS": "Controller Vibration"
+},
+{
+"id": 26682,
+"Key": "OptionsMenuControllerRumbleEnabledTooltip",
+"enUS": "Enable controller vibration."
+},
+{
+"id": 26691,
+"Key": "SkillNameSwapWeapons",
+"enUS": "Swap Weapons"
+},
+{
+"id": 26692,
+"Key": "SkillDescSwapWeapons",
+"enUS": "Swap Weapons"
+},
+{
+"id": 26693,
+"Key": "SkillNameMap",
+"enUS": "Automap"
+},
+{
+"id": 26694,
+"Key": "SkillDescMap",
+"enUS": "Automap"
+},
+{
+"id": 26695,
+"Key": "SkillNameShowItems",
+"enUS": "Show Items"
+},
+{
+"id": 26696,
+"Key": "SkillDescShowItems",
+"enUS": "Toggle Item Labels"
+},
+{
+"id": 26697,
+"Key": "SkillNameRunToggle",
+"enUS": "Run Toggle"
+},
+{
+"id": 26698,
+"Key": "SkillDescRunToggle",
+"enUS": "Toggle Walk/Run"
+},
+{
+"id": 26700,
+"Key": "ControllerHelpInteract",
+"enUS": "Interact"
+},
+{
+"id": 26728,
+"Key": "SelectButtonNoteText",
+"enUS": "Note: Pressinginteracts/loots in addition to performing bound skill"
+},
+{
+"id": 26789,
+"Key": "GraphicsMode",
+"enUS": "Graphics Mode"
+},
+{
+"id": 26790,
+"Key": "GraphicsModeQuality",
+"enUS": "Quality"
+},
+{
+"id": 26791,
+"Key": "GraphicsModePerformance",
+"enUS": "Performance"
+},
+{
+"id": 26803,
+"Key": "ControllerHelpRunIcon",
+"enUS": ""
+},
+{
+"id": 26804,
+"Key": "ControllerHelpEmoteIcon",
+"enUS": ""
+},
+{
+"id": 26844,
+"Key": "StrHelp11_xbox",
+"enUS": "Button Skill"
+},
+{
+"id": 26845,
+"Key": "RebindSkill_xbox",
+"enUS": "Press button to rebind skill"
+},
+{
+"id": 26846,
+"Key": "CfgPrimaryKey_xbox",
+"enUS": "Key/Button One"
+},
+{
+"id": 26847,
+"Key": "CfgSecondaryKey_xbox",
+"enUS": "Key/Button Two"
+},
+{
+"id": 26848,
+"Key": "ShowPartySD_xbox",
+"enUS": "SHOW PARTY"
+},
+{
+"id": 26849,
+"Key": "ShowPartyHD_xbox",
+"enUS": "Show Party Members"
+},
+{
+"id": 26850,
+"Key": "PartyScreenTitle_xbox",
+"enUS": "Party"
+},
+{
+"id": 26851,
+"Key": "Party6_xbox",
+"enUS": " has cancelled the party invite."
+},
+{
+"id": 26852,
+"Key": "Party7_xbox",
+"enUS": " has joined your party to fight the forces of evil."
+},
+{
+"id": 26853,
+"Key": "Party9_xbox",
+"enUS": " has left your party."
+},
+{
+"id": 26854,
+"Key": "strParty2_xbox",
+"enUS": "to join your party."
+},
+{
+"id": 26855,
+"Key": "strParty4_xbox",
+"enUS": "invitation to form a party."
+},
+{
+"id": 26856,
+"Key": "strParty24_xbox",
+"enUS": "Remove yourself from party."
+},
+{
+"id": 26857,
+"Key": "Yourparty_xbox",
+"enUS": "In your party"
+},
+{
+"id": 26858,
+"Key": "Inparty_xbox",
+"enUS": "In a party"
+},
+{
+"id": 26859,
+"Key": "minipanelparty_xbox",
+"enUS": "Party Screen"
+},
+{
+"id": 26860,
+"Key": "CfgParty_xbox",
+"enUS": "Party Screen"
+},
+{
+"id": 26861,
+"Key": "CfgAutoMapParty_xbox",
+"enUS": "Party on Automap"
+},
+{
+"id": 26862,
+"Key": "OptionsMenuSettingSwapThumbsticks_xbox",
+"enUS": "Swap Sticks"
+},
+{
+"id": 26863,
+"Key": "OptionsMenuSettingSwapThumbsticksTooltip_xbox",
+"enUS": "Enable to swap the left and right stick inputs."
+},
+{
+"id": 26864,
+"Key": "StrHelp11_ps4",
+"enUS": "Button Skill"
+},
+{
+"id": 26865,
+"Key": "RebindSkill_ps4",
+"enUS": "Press button to rebind skill"
+},
+{
+"id": 26866,
+"Key": "CfgPrimaryKey_ps4",
+"enUS": "Key/Button One"
+},
+{
+"id": 26867,
+"Key": "CfgSecondaryKey_ps4",
+"enUS": "Key/Button Two"
+},
+{
+"id": 26868,
+"Key": "ShowPartySD_ps4",
+"enUS": "SHOW PARTY"
+},
+{
+"id": 26869,
+"Key": "ShowPartyHD_ps4",
+"enUS": "Show Party Members"
+},
+{
+"id": 26870,
+"Key": "PartyScreenTitle_ps4",
+"enUS": "Party"
+},
+{
+"id": 26871,
+"Key": "Party6_ps4",
+"enUS": " has cancelled the party invite."
+},
+{
+"id": 26872,
+"Key": "Party7_ps4",
+"enUS": " has joined your party to fight the forces of evil."
+},
+{
+"id": 26873,
+"Key": "Party9_ps4",
+"enUS": " has left your party."
+},
+{
+"id": 26874,
+"Key": "strParty2_ps4",
+"enUS": "to join your party."
+},
+{
+"id": 26875,
+"Key": "strParty4_ps4",
+"enUS": "invitation to form a party."
+},
+{
+"id": 26876,
+"Key": "strParty24_ps4",
+"enUS": "Remove yourself from party."
+},
+{
+"id": 26877,
+"Key": "Yourparty_ps4",
+"enUS": "In your party"
+},
+{
+"id": 26878,
+"Key": "Inparty_ps4",
+"enUS": "In a party"
+},
+{
+"id": 26879,
+"Key": "minipanelparty_ps4",
+"enUS": "Party Screen"
+},
+{
+"id": 26880,
+"Key": "CfgParty_ps4",
+"enUS": "Party Screen"
+},
+{
+"id": 26881,
+"Key": "CfgAutoMapParty_ps4",
+"enUS": "Party on Automap"
+},
+{
+"id": 26882,
+"Key": "OptionsMenuSettingSwapThumbsticks_ps4",
+"enUS": "Swap Right/Left Stick"
+},
+{
+"id": 26883,
+"Key": "OptionsMenuSettingSwapThumbsticksTooltip_ps4",
+"enUS": "Enable to swap the left and right stick inputs."
+},
+{
+"id": 26884,
+"Key": "StrHelp11_ps5",
+"enUS": "Button Skill"
+},
+{
+"id": 26885,
+"Key": "RebindSkill_ps5",
+"enUS": "Press button to rebind skill"
+},
+{
+"id": 26886,
+"Key": "CfgPrimaryKey_ps5",
+"enUS": "Key/Button One"
+},
+{
+"id": 26887,
+"Key": "CfgSecondaryKey_ps5",
+"enUS": "Key/Button Two"
+},
+{
+"id": 26888,
+"Key": "ShowPartySD_ps5",
+"enUS": "SHOW PARTY"
+},
+{
+"id": 26889,
+"Key": "ShowPartyHD_ps5",
+"enUS": "Show Party Members"
+},
+{
+"id": 26890,
+"Key": "PartyScreenTitle_ps5",
+"enUS": "Party"
+},
+{
+"id": 26891,
+"Key": "Party6_ps5",
+"enUS": " has cancelled the party invite."
+},
+{
+"id": 26892,
+"Key": "Party7_ps5",
+"enUS": " has joined your party to fight the forces of evil."
+},
+{
+"id": 26893,
+"Key": "Party9_ps5",
+"enUS": " has left your party."
+},
+{
+"id": 26894,
+"Key": "strParty2_ps5",
+"enUS": "to join your party."
+},
+{
+"id": 26895,
+"Key": "strParty4_ps5",
+"enUS": "invitation to form a party."
+},
+{
+"id": 26896,
+"Key": "strParty24_ps5",
+"enUS": "Remove yourself from party."
+},
+{
+"id": 26897,
+"Key": "Yourparty_ps5",
+"enUS": "In your party"
+},
+{
+"id": 26898,
+"Key": "Inparty_ps5",
+"enUS": "In a party"
+},
+{
+"id": 26899,
+"Key": "minipanelparty_ps5",
+"enUS": "Party Screen"
+},
+{
+"id": 26900,
+"Key": "CfgParty_ps5",
+"enUS": "Party Screen"
+},
+{
+"id": 26901,
+"Key": "CfgAutoMapParty_ps5",
+"enUS": "Party on Automap"
+},
+{
+"id": 26902,
+"Key": "OptionsMenuSettingSwapThumbsticks_ps5",
+"enUS": "Swap Right/Left Stick"
+},
+{
+"id": 26903,
+"Key": "OptionsMenuSettingSwapThumbsticksTooltip_ps5",
+"enUS": "Enable to swap the left and right stick inputs."
+},
+{
+"id": 26904,
+"Key": "StrHelp11_switch",
+"enUS": "Button Skill"
+},
+{
+"id": 26905,
+"Key": "RebindSkill_switch",
+"enUS": "Press button to rebind skill"
+},
+{
+"id": 26906,
+"Key": "CfgPrimaryKey_switch",
+"enUS": "Key/Button One"
+},
+{
+"id": 26907,
+"Key": "CfgSecondaryKey_switch",
+"enUS": "Key/Button Two"
+},
+{
+"id": 26908,
+"Key": "ShowPartySD_switch",
+"enUS": "SHOW PARTY"
+},
+{
+"id": 26909,
+"Key": "ShowPartyHD_switch",
+"enUS": "Show Party Members"
+},
+{
+"id": 26910,
+"Key": "PartyScreenTitle_switch",
+"enUS": "Party"
+},
+{
+"id": 26911,
+"Key": "Party6_switch",
+"enUS": " has cancelled the party invite."
+},
+{
+"id": 26912,
+"Key": "Party7_switch",
+"enUS": " has joined your party to fight the forces of evil."
+},
+{
+"id": 26913,
+"Key": "Party9_switch",
+"enUS": " has left your party."
+},
+{
+"id": 26914,
+"Key": "strParty2_switch",
+"enUS": "to join your party."
+},
+{
+"id": 26915,
+"Key": "strParty4_switch",
+"enUS": "invitation to form a party."
+},
+{
+"id": 26916,
+"Key": "strParty24_switch",
+"enUS": "Remove yourself from party."
+},
+{
+"id": 26917,
+"Key": "Yourparty_switch",
+"enUS": "In your party"
+},
+{
+"id": 26918,
+"Key": "Inparty_switch",
+"enUS": "In a party"
+},
+{
+"id": 26919,
+"Key": "minipanelparty_switch",
+"enUS": "Party Screen"
+},
+{
+"id": 26920,
+"Key": "CfgParty_switch",
+"enUS": "Party Screen"
+},
+{
+"id": 26921,
+"Key": "CfgAutoMapParty_switch",
+"enUS": "Party on Automap"
+},
+{
+"id": 26922,
+"Key": "OptionsMenuSettingSwapThumbsticks_switch",
+"enUS": "Swap Sticks"
+},
+{
+"id": 26923,
+"Key": "OptionsMenuSettingSwapThumbsticksTooltip_switch",
+"enUS": "Enable to swap the left and right stick inputs."
+},
+{
+"id": 26959,
+"Key": "InvitationSent",
+"enUS": "Invitation Sent"
+},
+{
+"id": 26977,
+"Key": "OptionsMenuItemTooltipHotkeyAppenderDescription_xbox",
+"enUS": "Show/Hide appended button\nprompts on item tooltips."
+},
+{
+"id": 26978,
+"Key": "ItemNameDisplayModeTooltip_xbox",
+"enUS": "Adjust the behavior of the 'Show Items\non Ground' button when pressed."
+},
+{
+"id": 26979,
+"Key": "ControllerWeaponSwapSeparateBindingsSetting_xbox",
+"enUS": "Weapon Swap Separate Skill Buttons"
+},
+{
+"id": 26980,
+"Key": "TutorialToolTipOfflineConsole_xbox",
+"enUS": "This will create an Offline character. Offline characters are saved as files to your system. Offline characters cannot play with Online characters. Offline characters can be played without an internet connection."
+},
+{
+"id": 26981,
+"Key": "OptionsMenuShowClockDescription_xbox",
+"enUS": "Toggles the in-game display of\nyour local system clock."
+},
+{
+"id": 26982,
+"Key": "MoviePlaybackHoldToSkip_xbox",
+"enUS": "Hold Any Button to Skip"
+},
+{
+"id": 26983,
+"Key": "OptionsMenuItemTooltipHotkeyAppenderDescription_ps4",
+"enUS": "Show/Hide appended button\nprompts on item tooltips."
+},
+{
+"id": 26984,
+"Key": "ItemNameDisplayModeTooltip_ps4",
+"enUS": "Adjust the behavior of the 'Show Items\non Ground' button when pressed."
+},
+{
+"id": 26985,
+"Key": "ControllerWeaponSwapSeparateBindingsSetting_ps4",
+"enUS": "Weapon Swap Separate Skill Buttons"
+},
+{
+"id": 26986,
+"Key": "TutorialToolTipOfflineConsole_ps4",
+"enUS": "This will create an Offline character. Offline characters are saved as files to your system. Offline characters cannot play with Online characters. Offline characters can be played without an internet connection."
+},
+{
+"id": 26987,
+"Key": "OptionsMenuShowClockDescription_ps4",
+"enUS": "Toggles the in-game display of\nyour local system clock."
+},
+{
+"id": 26988,
+"Key": "MoviePlaybackHoldToSkip_ps4",
+"enUS": "Hold Any Button to Skip"
+},
+{
+"id": 26989,
+"Key": "OptionsMenuItemTooltipHotkeyAppenderDescription_ps5",
+"enUS": "Show/Hide appended button\nprompts on item tooltips."
+},
+{
+"id": 26990,
+"Key": "ItemNameDisplayModeTooltip_ps5",
+"enUS": "Adjust the behavior of the 'Show Items\non Ground' button when pressed."
+},
+{
+"id": 26991,
+"Key": "ControllerWeaponSwapSeparateBindingsSetting_ps5",
+"enUS": "Weapon Swap Separate Skill Buttons"
+},
+{
+"id": 26992,
+"Key": "TutorialToolTipOfflineConsole_ps5",
+"enUS": "This will create an Offline character. Offline characters are saved as files to your system. Offline characters cannot play with Online characters. Offline characters can be played without an internet connection."
+},
+{
+"id": 26993,
+"Key": "OptionsMenuShowClockDescription_ps5",
+"enUS": "Toggles the in-game display of\nyour local system clock."
+},
+{
+"id": 26994,
+"Key": "MoviePlaybackHoldToSkip_ps5",
+"enUS": "Hold Any Button to Skip"
+},
+{
+"id": 26995,
+"Key": "OptionsMenuItemTooltipHotkeyAppenderDescription_switch",
+"enUS": "Show/Hide appended button\nprompts on item tooltips."
+},
+{
+"id": 26996,
+"Key": "ItemNameDisplayModeTooltip_switch",
+"enUS": "Adjust the behavior of the 'Show Items\non Ground' button when pressed."
+},
+{
+"id": 26997,
+"Key": "ControllerWeaponSwapSeparateBindingsSetting_switch",
+"enUS": "Weapon Swap Separate Skill Buttons"
+},
+{
+"id": 26998,
+"Key": "TutorialToolTipOfflineConsole_switch",
+"enUS": "This will create an Offline character. Offline characters are saved as files to your system. Offline characters cannot play with Online characters. Offline characters can be played without an internet connection."
+},
+{
+"id": 26999,
+"Key": "OptionsMenuShowClockDescription_switch",
+"enUS": "Toggles the in-game display of\nyour local system clock."
+},
+{
+"id": 27000,
+"Key": "MoviePlaybackHoldToSkip_switch",
+"enUS": "Hold Any Button to Skip"
+},
+{
+"id": 27010,
+"Key": "ScreenSpaceControllerMessage",
+"enUS": "Adjust the corners using the d-pad or sticks\n until they are at the edges of your screen"
+},
+{
+"id": 27011,
+"Key": "ScreenSpaceControllerMessage_xbox",
+"enUS": "Adjust the corners using the d-pad or sticks\n until they are at the edges of your screen"
+},
+{
+"id": 27012,
+"Key": "ScreenSpaceControllerMessage_ps4",
+"enUS": "Adjust the corners using the d-pad or sticks\n until they are at the edges of your screen ZZZZZZZZ"
+},
+{
+"id": 27013,
+"Key": "ScreenSpaceControllerMessage_ps5",
+"enUS": "Adjust the corners using the d-pad or sticks\n until they are at the edges of your screen"
+},
+{
+"id": 27014,
+"Key": "ScreenSpaceControllerMessage_switch",
+"enUS": "Adjust the corners using the directional buttons or sticks\n until they are at the edges of your screen"
+},
+{
+"id": 27015,
+"Key": "ActivityCampaign",
+"enUS": "Campaign"
+},
+{
+"id": 27016,
+"Key": "PartyPanelShowProfileMessage",
+"enUS": "Hold to Show Profile"
+},
+{
+"id": 27019,
+"Key": "EmoteWheelAcceptButton",
+"enUS": "Accept"
+},
+{
+"id": 27022,
+"Key": "ShowMercSkills",
+"enUS": "Show Mercenary Skills"
+},
+{
+"id": 27023,
+"Key": "EmoteNotEnough",
+"enUS": "Not Enough"
+},
+{
+"id": 27106,
+"Key": "OptionsShowSonyOnlyLeaderboards",
+"enUS": "Show PlayStation™Network Leaderboards"
+},
+{
+"id": 27143,
+"Key": "OptionsShowSonyOnlyLeaderboardsTooltip",
+"enUS": "Makes leaderboards display only PlayStation™Network users."
+},
+{
+"id": 27203,
+"Key": "ControllerPromptItemMoveToBelt",
+"enUS": "Move to Belt"
+},
+{
+"id": 27224,
+"Key": "ControllerPromptAssignFiveStatPoints",
+"enUS": "Assign Five Stat Points"
+},
+{
+"id": 27225,
+"Key": "ControllerPromptAssignAllStatPoints",
+"enUS": "Assign All Stat Points"
+},
+{
+"id": 27241,
+"Key": "SkillNameCubeLoot",
+"enUS": "Loot to Cube"
+},
+{
+"id": 27242,
+"Key": "SkillDescCubeLoot",
+"enUS": "Pick up Items, weapons, and armor\nand place them in the Horadric Cube"
+},
+{
+"id": 27244,
+"Key": "ControllerPromptOpenCube",
+"enUS": "Open Cube"
+},
+{
+"id": 27336,
+"Key": "DesecratedIcon",
+"enUS": ""
+},
+{
+"id": 27569,
+"Key": "UseTerrorTokenAct1Controller",
+"enUS": "Hold  to terrorize Act 1"
+},
+{
+"id": 27570,
+"Key": "UseTerrorTokenAct2Controller",
+"enUS": "Hold  to terrorize Act 2"
+},
+{
+"id": 27571,
+"Key": "UseTerrorTokenAct3Controller",
+"enUS": "Hold  to terrorize Act 3"
+},
+{
+"id": 27572,
+"Key": "UseTerrorTokenAct4Controller",
+"enUS": "Hold  to terrorize Act 4"
+},
+{
+"id": 27573,
+"Key": "UseTerrorTokenAct5Controller",
+"enUS": "Hold  to terrorize Act 5"
+},
+{
+"id": 28011,
+"Key": "ControllerPromptItemMoveToAdvancedStash",
+"enUS": "Move to Stack Tab"
+},
+{
+"id": 28012,
+"Key": "ControllerPromptItemBulkMove",
+"enUS": "Move %u"
+},
+{
+"id": 28053,
+"Key": "OptionsMenuController_ps4",
+"enUS": "DUALSHOCK®4 wireless controller"
+},
+{
+"id": 28054,
+"Key": "OptionsMenuController_ps5",
+"enUS": "DualSense™ wireless controller"
+},
+{
+"id": 28055,
+"Key": "ControllerReconnectMessage_ps4",
+"enUS": "Please Reconnect DUALSHOCK®4 wireless controller"
+},
+{
+"id": 28056,
+"Key": "ControllerReconnectMessage_ps5",
+"enUS": "Please Reconnect DualSense™ wireless controller"
+},
+{
+"id": 28087,
+"Key": "OptionsMenuItemTooltipHotkeyAppender_switch",
+"enUS": "Show Item Tooltip Button Prompts"
+},
+{
+"id": 28088,
+"Key": "OptionsMenuItemTooltipHotkeyAppender_xbox",
+"enUS": "Show Item Tooltip Button Prompts"
+},
+{
+"id": 28089,
+"Key": "OptionsMenuItemTooltipHotkeyAppender_ps5",
+"enUS": "Show Item Tooltip Button Prompts"
+},
+{
+"id": 28090,
+"Key": "OptionsMenuItemTooltipHotkeyAppender_ps4",
+"enUS": "Show Item Tooltip Button Prompts"
+},
+{
+"id": 28091,
+"Key": "LootFilterProfileHelpTooltip_switch",
+"enUS": "Create a profile of rules that affect what items\n appear when the 'Show Items' button is pressed."
+},
+{
+"id": 28092,
+"Key": "LootFilterProfileHelpTooltip_xbox",
+"enUS": "Create a profile of rules that affect what items\n appear when the 'Show Items' button is pressed."
+},
+{
+"id": 28093,
+"Key": "LootFilterProfileHelpTooltip_ps4",
+"enUS": "Create a profile of rules that affect what items\n appear when the 'Show Items' button is pressed."
+},
+{
+"id": 28094,
+"Key": "LootFilterProfileHelpTooltip_ps5",
+"enUS": "Create a profile of rules that affect what items\n appear when the 'Show Items' button is pressed."
+}
+]
